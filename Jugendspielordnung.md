@@ -14,7 +14,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  
     Die DSJ veranstaltet - sofern im Haushalt die dafür erforderlichen Mittel bereitgestellt sind - alljährlich folgende Turniere:
-
     *   Deutsche Einzelmeisterschaften für Jugendliche unter 18 Jahren (DEM U18),
     *   Deutsche Einzelmeisterschaften für weibliche Jugendliche unter 18 Jahren (DEM U18w),
     *   Deutsche Einzelmeisterschaften für Jugendliche unter 16 Jahren (DEM U16),
@@ -32,6 +31,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     *   Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 12 Jahren (DVM U12),
     *   Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 10 Jahren (DVM U10),
     *   Deutsche Schulschach-Mannschaftsmeisterschaften (DSM).
+
 1. 
     An diesen Veranstaltungen können nur Jugendliche teilnehmen, die durch ihre Mitgliedsorganisation dem Deutschen Schachbund (DSB) gemeldet sind. Sie müssen
 
