@@ -34,11 +34,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1. 
     An diesen Veranstaltungen können nur Jugendliche teilnehmen, die durch ihre Mitgliedsorganisation dem Deutschen Schachbund (DSB) gemeldet sind. Sie müssen
-
     1.  die deutsche Staatsangehörigkeit besitzen oder
-
     1.  seit mindestens einem Jahr ihren Lebensmittelpunkt in der Bundesrepublik Deutschland haben oder
-
     1.  teilnahmeberechtigt sein aufgrund einer anderen Bestimmung dieser Ordnung.
     
     Sofern nichts anderes bestimmt ist, sind dem Nationalen Spielleiter die Voraussetzungen nur auf seine Anforderung nachzuweisen.
@@ -528,7 +525,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 600.
 
 1.  
-    An der DVM U12 nehmen Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Spielberechtigt sind abweichend zu 9.1 alle Spieler, die in der laufenden Saison für diesen Verein spielberechtigt sind.
+    An der DVM U10 nehmen Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Spielberechtigt sind abweichend zu 9.1 alle Spieler, die in der laufenden Saison für diesen Verein spielberechtigt sind.
 
 1.  
     Ziffer 10.2 gilt entsprechend.
