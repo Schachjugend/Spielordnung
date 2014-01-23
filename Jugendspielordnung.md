@@ -235,7 +235,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     Jede Mannschaft benennt dem Turnierleiter einen Mannschaftsführer.
 
-    > Der Mannschaftsführer ist zuständig für die Mannschaftsaufstellung. Er darf während des Turniers seinen Spielern raten, ein Remisangebot anzunehmen oder abzulehnen und ein Remisangebot abzugeben, die Partie aufzugeben oder - auf Anfrage des Spielers - fortzusetzen. Er allein hat das Recht, im Namen der Mannschaft gegen Entscheidungen des Turnierleiters Protest einzulegen. Der Mannschaftsführer soll während der Runden erkennbar sein. Der Turnierverantwortliche kann näher zu bestimmende Kennzeichen zur Pflicht machen.
+    > Der Mannschaftsführer ist zuständig für die Mannschaftsaufstellung. Er darf während des Turniers seinen Spielern raten, ein Remisangebot anzunehmen oder abzulehnen und ein Remisangebot abzugeben, die Partie aufzugeben oder - auf Anfrage des Spielers - fortzusetzen. Der Mannschaftsführer soll während der Runden erkennbar sein. Der Turnierverantwortliche kann näher zu bestimmende Kennzeichen zur Pflicht machen.
 
 1.  
     Die Mannschaften sind nach Spielstärke aufzustellen. Nach dem Meldeschluss sind keine Nachmeldungen mehr möglich. Die Reihenfolge darf während des Turniers nicht mehr geändert werden. Falsche Brettbesetzung zieht den Partieverlust für die zu tief eingesetzten Spieler nach sich.
