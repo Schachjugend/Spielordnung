@@ -242,7 +242,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Zum Meldeschluss können bis zu 15 Spieler in fester Reihenfolge gemeldet werden. Die Mannschaftsmeldung darf von der Aufstellung der Qualifikationsturnier und Landesverbandsmeisterschaften abweichen.
 
-    > Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt. Über begründete Ausnahmen entscheidet der Turnierverantwortliche. Lehnt er die abgegebene Meldung ab und erfolgte die Mitteilung der Reihenfolge mindestens drei Wochen vor Beginn der Meisterschaft, so kann der Meldende binnen zwei Wochen die Entscheidung vom Nationalen Spielleiter kontrollieren lassen.
+    > Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt, es sei denn, die Wertungszahl beider Spieler ist kleiner oder gleich 1000. Über begründete Ausnahmen entscheidet der Turnierverantwortliche. Lehnt er die abgegebene Meldung ab und erfolgte die Mitteilung der Reihenfolge mindestens drei Wochen vor Beginn der Meisterschaft, so kann der Meldende binnen zwei Wochen die Entscheidung vom Nationalen Spielleiter kontrollieren lassen.
 
     > In die Startrangliste werden nur Spieler aufgenommen, die vor Ort anwesend sind. Die Startrangliste kann während des Turniers nicht verändert werden. Der Turnierverantwortliche kann Ausnahmen zulassen.
 
