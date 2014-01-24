@@ -353,6 +353,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     Jede Mannschaft besteht in jedem Mannschaftskampf aus je einem Jugendlichen der Altersklassen U20, U18, U16, U14, U12, U20w, U16w und U12w. Es sind zwei Ersatzspieler zugelassen, von denen mindestens einer weiblich sein muss.
 
+    > Abweichend zu AB zu 5 wird die Startrangliste nach dem DWZ-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 8.3 Satz 1 erfüllen.
+
 1.  
     Es wird ein Turnier über sieben Runden nach Schweizer System ausgetragen.
 
