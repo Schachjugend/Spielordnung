@@ -570,7 +570,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Jede Mannschaft besteht aus vier Spielern derselben Schule.
 
 1.  
-    Die Teilnahme- und Spielberechtigung gemäß Ziffer 16.1, 16.2 und 16.3 Satz 1 ist von den jeweiligen Schulleitungen schriftlich zu bestätigen.
+    Die Teilnahme- und Spielberechtigung gemäß Ziffer 17.1, 17.2 und 17.4 ist von den jeweiligen Schulleitungen schriftlich zu bestätigen.
 
 1.  
     Die Teilnehmer spielen in jeder Wettkampfklasse ein Turnier nach Schweizer System mit sieben Runden, in der WK G und WK HR im Regelfall neun Runden.
@@ -579,7 +579,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Die Spielzeit beträgt je Spieler eine Stunde für die gesamte Partie, in der WK G und WK HR 30 Minuten pro Spieler.
 
 1.  
-    Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen der Austragung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen der Ziffern 16.1 bis 16.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
+    Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen der Austragung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen der Ziffern 17.1 bis 17.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
 
 1.  
     Der Sieger in jeder Wettkampfklasse erhält den Titel "Sieger des Deutschen Schulschach-Mannschaftswettbewerbs [Jahreszahl] der [Bezeichnung der Wettkampfklasse]".
