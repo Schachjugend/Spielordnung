@@ -351,7 +351,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Die Mannschaft firmiert als Spielgemeinschaft beider beteiligter Länder.
 
 1.  
-    Jede Mannschaft besteht in jedem Mannschaftskampf aus je einem Jugendlichen der Altersklassen U20, U18, U16, U14, U12, U20w, U16w und U12w. Es sind zwei Ersatzspieler zugelassen, von denen mindestens einer weiblich sein muss.
+    Jede Mannschaft besteht in jedem Mannschaftskampf aus je einem Jugendlichen der Altersklassen U20, U18, U16, U14, U12, U20w, U16w und U12w. Ergänzend zu 5.8 kann ein zweiter Ersatzspieler in die Startrangliste aufgenommen werden. Von diesen zwei Ersatzspielern darf maximal einer männlich sein.
 
     > Abweichend zu AB zu 5 wird die Startrangliste nach dem DWZ-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 8.3 Satz 1 erfüllen.
 
