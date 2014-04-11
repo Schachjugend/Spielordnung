@@ -53,7 +53,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Über Proteste und Einsprüche entscheidet während der Meisterschaften abschließend ein Turnierschiedsgericht, im Übrigen das Schiedsgericht der DSJ. Die Einzelheiten regelt die Rechts- und Verfahrensordnung.
 
 1.  
-    Der Vorstand oder ein von diesem bestimmtes Gremium kann zu dieser Spielordnung Ausführungsbestimmungen erlassen und ändern; bindende Regelungen dürfen die Ausführungsbestimmungen nur enthalten, wenn diese Spielordnung für den betreffenden Bereich keine abschließende Regelung trifft oder die Regelung der Spielordnung der Präzisierung bedarf. Beschließt die Jugendversammlung eine Änderung dieser Spielordnung, durch die ein in den Ausführungsbestimmungen geregelter Bereich nunmehr bereits in der Spielordnung abschließend geregelt wird, so werden entgegenstehende Ausführungsbestimmungen hinfällig. Ziffer 16.8 bleibt unberührt.
+    Der Vorstand oder ein von diesem bestimmtes Gremium kann zu dieser Spielordnung Ausführungsbestimmungen erlassen und ändern; bindende Regelungen dürfen die Ausführungsbestimmungen nur enthalten, wenn diese Spielordnung für den betreffenden Bereich keine abschließende Regelung trifft oder die Regelung der Spielordnung der Präzisierung bedarf. Beschließt die Jugendversammlung eine Änderung dieser Spielordnung, durch die ein in den Ausführungsbestimmungen geregelter Bereich nunmehr bereits in der Spielordnung abschließend geregelt wird, so werden entgegenstehende Ausführungsbestimmungen hinfällig. Ziffer 17.8 bleibt unberührt.
 
     Die Ausführungsbestimmungen in ihrer aktuellen Fassung werden mit der Spielordnung bei allen Turnieren der DSJ durch Aushang vor Ort veröffentlicht; darüber hinaus werden sie auf den Internetseiten der DSJ veröffentlicht.
 
@@ -541,7 +541,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Ziel ist es, dass alle interessierten Vereine mit einer Mannschaft teilnehmen können. Wenn die Kapazitäten ausreichen, sind mehrere Mannschaften eines Vereins zulässig. Sind die Kapazitäten beschränkt, vergibt der Turnierverantwortliche Freiplätze. In diesem Falle melden die Länder dem Turnierverantwortlichen bis zum 01.11. einen Verein ihres Landes, der auf jeden Fall startberechtigt ist.
 
 
-## 16. DSM
+## 17. DSM
 
 1.  
     Die DSM werden jährlich in fünf Wettkampfklassen (WK) ausgetragen. Teilnahmeberechtigt sind allgemein- und berufsbildende Schulen außer Institutionen, die überwiegend der Erwachsenenbildung dienen.
@@ -570,7 +570,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Jede Mannschaft besteht aus vier Spielern derselben Schule.
 
 1.  
-    Die Teilnahme- und Spielberechtigung gemäß Ziffer 16.1, 16.2 und 16.3 Satz 1 ist von den jeweiligen Schulleitungen schriftlich zu bestätigen.
+    Die Teilnahme- und Spielberechtigung gemäß Ziffer 17.1, 17.2 und 17.4 ist von den jeweiligen Schulleitungen schriftlich zu bestätigen.
 
 1.  
     Die Teilnehmer spielen in jeder Wettkampfklasse ein Turnier nach Schweizer System mit sieben Runden, in der WK G und WK HR im Regelfall neun Runden.
@@ -579,7 +579,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Die Spielzeit beträgt je Spieler eine Stunde für die gesamte Partie, in der WK G und WK HR 30 Minuten pro Spieler.
 
 1.  
-    Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen der Austragung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen der Ziffern 16.1 bis 16.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
+    Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen der Austragung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen der Ziffern 17.1 bis 17.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
 
 1.  
     Der Sieger in jeder Wettkampfklasse erhält den Titel "Sieger des Deutschen Schulschach-Mannschaftswettbewerbs [Jahreszahl] der [Bezeichnung der Wettkampfklasse]".
