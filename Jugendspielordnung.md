@@ -246,6 +246,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > In die Startrangliste werden nur Spieler aufgenommen, die vor Ort anwesend sind. Die Startrangliste kann während des Turniers nicht verändert werden. Der Turnierverantwortliche kann Ausnahmen zulassen.
 
+    > Es können in Mannschaftswettkämpfen nur Spieler aufgestellt werden, die vor Ort anwesend sind.
+
     > Bretter können bei Namensnennung freigelassen werden. Das letzte Brett kann ohne Namensnennung freigelassen werden.
 
 1.  
