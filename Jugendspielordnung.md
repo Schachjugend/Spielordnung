@@ -312,6 +312,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     >
     > Aus der Summe aller Spieler eines Landesverbands wird der Durchschnitt berechnet. Zusätzlich zu diesem Durchschnittswert erhält der Verband Bonuspunkte, wenn eine Spielerin oder ein Spieler unter den ersten zehn der Abschlusstabelle platziert ist. Es gibt dafür 1.0 bis 0.1 Punkte. Mädchen, die unter den ersten zehn des Gesamtturniers platziert sind, punkten dabei auch für die Jungen des Verbandes. Bei den Mädchen werden die ersten fünf Platzierten zusätzlich mit Bonuspunkten (0.5 bis 0.1) für die Mädchenwertung versehen.
     >
+    > Meldet ein Landesverband für einen Jungen-Startplatz ein Mädchen, so wird dieses auf Antrag des Landesverbandes für die Jungenwertung herangezogen. Der Antrag muss vor Beginn der ersten Runde der Meisterschaft beim Nationalen Spielleiter eingehen.
+    >
     > Die so erreichten Jahreswertungspunkte werden zu einem Gesamtergebnis addiert. Dabei erfahren die beiden letzten Jahre eine doppelte, das drittletzte Jahr eine einfache Gewichtung. Beispiel: Baden holte 1994 4.7 JWP, 1995 3.6 JWP, 1996 4.0 JWP. Insgesamt ergeben sich für die Rangliste der Verbände (4.7 x 1) + (3.6 x 2) + (4.0 x 2) = 19.9 JWP für Baden.
     >
     > Entsprechend der Rangliste werden Plätze vergeben; bei Punktgleichheit entscheidet das aktuellste Jahr.
