@@ -25,4 +25,4 @@ Nützliche Links:
 
 # Weitere Formate
 
-Zum Generieren einer HTML- und PDF-Version aus der Markdown-Quelldatei steht eine eigene [Toolsammlung](Schachjugend/Jugendspielordnung-Tools) zur Verfügung.
+Zum Generieren einer HTML- und PDF-Version aus der Markdown-Quelldatei steht eine eigene [Toolsammlung](https://github.com/Schachjugend/Jugendspielordnung-Tools) zur Verfügung.
