@@ -541,7 +541,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Ziel ist es, dass alle interessierten Vereine mit einer Mannschaft teilnehmen können. Wenn die Kapazitäten ausreichen, sind mehrere Mannschaften eines Vereins zulässig. Sind die Kapazitäten beschränkt, vergibt der Turnierverantwortliche Freiplätze. In diesem Falle melden die Länder dem Turnierverantwortlichen bis zum 01.11. einen Verein ihres Landes, der auf jeden Fall startberechtigt ist.
 
 
-## 16. DSM
+## 17. DSM
 
 1.  
     Die DSM werden jährlich in fünf Wettkampfklassen (WK) ausgetragen. Teilnahmeberechtigt sind allgemein- und berufsbildende Schulen außer Institutionen, die überwiegend der Erwachsenenbildung dienen.
