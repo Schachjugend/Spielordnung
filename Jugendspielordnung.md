@@ -409,6 +409,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Sollte eine Regionalgruppe danach keinen Platz oder nur den Ausrichterfreiplatz zugeteilt bekommen, so erhält diese Regionalgruppe einen Platz, der von den nach der Rest-Verteilung zu vergebenden Plätzen abgezogen wird.
     >
     > Sollte nach der Verteilung Gleichheit bei dem letzten zu vergebenden Platz entstehen, so geht dieser Platz an die Regionalgruppe, die die bestplatzierte Mannschaft des Vorjahres aufzuweisen hat.
+    >
+    > *In Folge der abgebrochenen DVM 2013 der Altersklassen U14 und U14w wird wie folgt verfahren: Jede Mannschaft wird mit der Mannschaftspunktzahl nach der vierten Runde, erhöht um drei, herangezogen. Erzielt eine Mannschaft im U14w-Fortsetzungsturnier in den verbliebenen drei Runden mehr als drei Mannschaftspunkte, werden ihr stattdessen diese Punkte gutgeschrieben.*
 
 1.  
     Bei jeder Deutschen Meisterschaft für Vereinsmannschaften ist grundsätzlich nur eine Mannschaft pro Verein startberechtigt.
