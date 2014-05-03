@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Dieses Git-Repository enthält die Jugendspielordnung der [Deutschen Schachjugend](http://deutsche-schachjugend.de) im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format.
+Dieses Git-Repository enthält die Jugendspielordnung der [Deutschen Schachjugend](http://deutsche-schachjugend.de) im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format. Aus diesem kann eine Ausgabe als [HTML](http://schachjugend.github.io/Jugendspielordnung/Spielordnung.html) und [PDF](http://schachjugend.github.io/Jugendspielordnung/Spielordnung.pdf) generiert werden.
 
 # Warum Git und Markdown?
 
@@ -25,4 +25,4 @@ Nützliche Links:
 
 # Weitere Formate
 
-Zum Generieren einer HTML- und PDF-Version aus der Markdown-Quelldatei steht eine eigene [Toolsammlung](https://github.com/Schachjugend/Jugendspielordnung-Tools) zur Verfügung.
+Zum Generieren einer [HTML](http://schachjugend.github.io/Jugendspielordnung/Spielordnung.html)- und [PDF](http://schachjugend.github.io/Jugendspielordnung/Spielordnung.pdf)-Version aus der Markdown-Quelldatei steht eine eigene [Toolsammlung](https://github.com/Schachjugend/Jugendspielordnung-Tools) zur Verfügung. 
