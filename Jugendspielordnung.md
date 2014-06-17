@@ -124,7 +124,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     1.  Anordnung, den Zuschauerraum zu verlassen,
     1.  Annullierung von Spielergebnissen und Anordnung von Wiederholungsspielen,
     1.  Erkennung auf Verlust von Partien,
-    1.  Aberkennung eines Punktes oder mehrerer Punkte am Ende des Turniers ohne Einflussnahme auf ein Einzelergebnis.
+    1.  Aberkennung eines oder eines halben Punktes oder mehrerer Punkte am Ende des Turniers ohne Einflussnahme auf ein Einzelergebnis.
 
         Bei wiederholten oder groben Verstößen können weiterhin verhängt werden:
     1.  Geldbußen bis zu 100 Euro,
