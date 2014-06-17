@@ -14,11 +14,11 @@ Dieses Git-Repository ist in Anlehnung an das [@bundesgit](https://github.com/bu
 
 # Änderungen
 
-Vorschläge für konkrete Änderungen werden als [Issues](https://github.com/Schachjugend/Jugendspielordnung/issues) bzw. [Pull Requests](https://github.com/Schachjugend/Jugendspielordnung/pulls) angelegt. Ehemaligen Änderungsanträge mitsamt Begründungen lassen sich dort als geschlossene [Pull Requests](https://github.com/Schachjugend/Jugendspielordnung/pulls?state=closed) nachvollziehen.
+Vorschläge für konkrete Änderungen werden als [Issues](https://github.com/Schachjugend/Jugendspielordnung/issues) bzw. [Pull Requests](https://github.com/Schachjugend/Jugendspielordnung/pulls) angelegt. Ehemalige Änderungsanträge mitsamt Begründungen lassen sich dort als geschlossene [Pull Requests](https://github.com/Schachjugend/Jugendspielordnung/pulls?state=closed) nachvollziehen.
 
 Nützliche Links:
 
-* Auformulierte Änderungsvorschläge: [offen](https://github.com/Schachjugend/Jugendspielordnung/pulls?state=open) und [bearbeitet](https://github.com/Schachjugend/Jugendspielordnung/pulls?state=closed)
+* Ausformulierte Änderungsvorschläge: [offen](https://github.com/Schachjugend/Jugendspielordnung/pulls?state=open) und [bearbeitet](https://github.com/Schachjugend/Jugendspielordnung/pulls?state=closed)
 * Änderungswünsche: [offen](https://github.com/Schachjugend/Jugendspielordnung/issues?state=open) und [bearbeitet](https://github.com/Schachjugend/Jugendspielordnung/issues?state=closed)
 * [Versionsgeschichte](https://github.com/Schachjugend/Jugendspielordnung/commits/master/Jugendspielordnung.md)
 * [Versionsvergleich](https://github.com/Schachjugend/Jugendspielordnung/compare)
