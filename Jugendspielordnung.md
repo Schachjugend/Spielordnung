@@ -131,7 +131,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     1.  Ausschluss von der laufenden Veranstaltung,
     1.  Anordnung, die Unterkunft zu verlassen.
 
-    > Die Möglichkeit, Strafen nach Art. 13.4 der FIDE-Regeln zu verhängen, bleibt unberührt.
+    > Die Möglichkeit, Strafen nach Art. 12.9 der FIDE-Regeln zu verhängen, bleibt unberührt.
 
 1.  
     Über die in Ziffer 3.1 genannten Maßnahmen hinaus kann der Nationale Spielleiter der DSJ die folgenden Strafen verhängen:
