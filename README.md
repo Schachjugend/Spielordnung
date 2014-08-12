@@ -18,8 +18,8 @@ Vorschläge für konkrete Änderungen werden als [Issues](https://github.com/Sch
 
 Nützliche Links:
 
-* Ausformulierte Änderungsvorschläge: [offen](https://github.com/Schachjugend/Jugendspielordnung/pulls?state=open) und [bearbeitet](https://github.com/Schachjugend/Jugendspielordnung/pulls?state=closed)
-* Änderungswünsche: [offen](https://github.com/Schachjugend/Jugendspielordnung/issues?state=open) und [bearbeitet](https://github.com/Schachjugend/Jugendspielordnung/issues?state=closed)
+* Ausformulierte Änderungsvorschläge: [offen](https://github.com/Schachjugend/Jugendspielordnung/pulls?q=is%3Aopen+is%3Apr) und [bearbeitet](https://github.com/Schachjugend/Jugendspielordnung/pulls?q=is%3Apr+is%3Aclosed)
+* Änderungswünsche: [offen](https://github.com/Schachjugend/Jugendspielordnung/pulls?q=is%3Aopen) und [bearbeitet](https://github.com/Schachjugend/Jugendspielordnung/issues?q=is%3Aclosed)
 * [Versionsgeschichte](https://github.com/Schachjugend/Jugendspielordnung/commits/master/Jugendspielordnung.md)
 * [Versionsvergleich](https://github.com/Schachjugend/Jugendspielordnung/compare)
 
