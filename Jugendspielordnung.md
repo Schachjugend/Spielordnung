@@ -535,6 +535,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     An der DVM U10 nehmen Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Spielberechtigt sind abweichend zu 9.1 alle Spieler, die in der laufenden Saison für diesen Verein spielberechtigt sind.
 
+    > Abweichend von Ziffer 2.5 beträgt die Spielzeit 60 Minuten.
+
 1.  
     Ziffer 10.2 gilt entsprechend.
 
