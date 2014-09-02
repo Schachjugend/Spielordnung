@@ -69,9 +69,11 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Finden mehrere deutsche Meisterschaften zur gleichen Zeit stand, kann jeder Spieler nur an einer Meisterschaft teilnehmen.
 
-    > Abweichend von Art. 12.3 lit. b der FIDE-Regeln ist es einem Spieler auch untersagt, ein Mobiltelefon oder anderes elektronisches Gerät ohne Genehmigung des Schiedsrichters in das Turnierareal mitzubringen.
+    > Gemäß Art. 11.3 lit. b der FIDE-Regeln ist es Spielern untersagt, ein Mobiltelefon oder anderes elektronisches Gerät in das Turnierareal mitzubringen. Bei Verstößen sind Strafen nach Ziffer 3.1 auszusprechen.
 
     > Gemäß Art. 9.1 lit. a der FIDE-Regeln ist es Spielern ohne Zustimmung des Schiedsrichters nicht gestattet, vor Vollendung des 20. Zuges Remis zu vereinbaren. Umgehen die Spieler diese Regelung, kann dies nach Ziffer 3 bestraft werden.
+
+    > Abweichend von Art. 7.5 lit. b und Anhang A4 lit. b der FIDE-Regeln verliert ein Spieler erst nach dem dritten regelwidrigen Zug die Partie. Art. 7.5 lit. b der FIDE-Regeln ist analog auf den ersten und zweiten regelwidrigen Zug anzuwenden.
 
 1.  
     Der Schiedsrichter berücksichtigt bei der Anwendung der FIDE-Regeln den Entwicklungsstand des Spielers und kann in begründeten Ausnahmefällen im Sinne einer altersgemäßen Handhabung von einzelnen Regeln abweichende Entscheidungen treffen.
