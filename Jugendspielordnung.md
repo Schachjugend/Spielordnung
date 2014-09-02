@@ -73,7 +73,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Gemäß Art. 9.1 lit. a der FIDE-Regeln ist es Spielern ohne Zustimmung des Schiedsrichters nicht gestattet, vor Vollendung des 20. Zuges Remis zu vereinbaren. Umgehen die Spieler diese Regelung, kann dies nach Ziffer 3 bestraft werden.
 
-    > Abweichend von Art. 7.5 lit. b der FIDE-Regeln verliert ein Spieler erst nach dem dritten regelwidrigen Zug die Partie. Art. 7.5 lit. b der FIDE-Regeln ist analog auf den zweiten regelwidrigen Zug anzuwenden.
+    > Abweichend von Art. 7.5 lit. b und Anhang A4 lit. b der FIDE-Regeln verliert ein Spieler erst nach dem dritten regelwidrigen Zug die Partie. Art. 7.5 lit. b der FIDE-Regeln ist analog auf den ersten und zweiten regelwidrigen Zug anzuwenden.
 
 1.  
     Der Schiedsrichter berücksichtigt bei der Anwendung der FIDE-Regeln den Entwicklungsstand des Spielers und kann in begründeten Ausnahmefällen im Sinne einer altersgemäßen Handhabung von einzelnen Regeln abweichende Entscheidungen treffen.
