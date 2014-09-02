@@ -2,7 +2,7 @@
 
 Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 2. März 2008 in Bremen beschlossen und zuletzt am 2. März 2014 in Lübeck geändert.
 
-> Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb am 27. April 2014 geändert.
+> Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb am 2. September 2014 geändert.
 
 ## 1. Grundsätze
 
