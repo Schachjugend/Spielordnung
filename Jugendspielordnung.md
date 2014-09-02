@@ -242,11 +242,11 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     Die Mannschaften sind nach Spielstärke aufzustellen. Nach dem Meldeschluss sind keine Nachmeldungen mehr möglich. Die Reihenfolge darf während des Turniers nicht mehr geändert werden. Falsche Brettbesetzung zieht den Partieverlust für die zu tief eingesetzten Spieler nach sich.
 
-    > Zum Meldeschluss können bis zu 15 Spieler in fester Reihenfolge gemeldet werden. Die Mannschaftsmeldung darf von der Aufstellung der Qualifikationsturnier und Landesverbandsmeisterschaften abweichen.
+    > Zum Meldeschluss kann ein Kader von bis zu 15 Spielern gemeldet werden. Er darf von dem der Qualifikationsturniere und Landesverbandsmeisterschaften abweichen.
 
-    > Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt, es sei denn, die Wertungszahl beider Spieler ist kleiner oder gleich 1000. Über begründete Ausnahmen entscheidet der Turnierverantwortliche. Lehnt er die abgegebene Meldung ab und erfolgte die Mitteilung der Reihenfolge mindestens drei Wochen vor Beginn der Meisterschaft, so kann der Meldende binnen zwei Wochen die Entscheidung vom Nationalen Spielleiter kontrollieren lassen.
+    > Vor Auslosung der ersten Runde wird die feste Reihenfolge der Spieler in der Startrangliste festgelegt. In die Startrangliste werden nur Spieler aufgenommen, die vor Ort anwesend sind; der Turnierverantwortliche kann Ausnahmen zulassen. Die Startrangliste kann während des Turniers nicht verändert werden.
 
-    > In die Startrangliste werden nur Spieler aufgenommen, die vor Ort anwesend sind. Die Startrangliste kann während des Turniers nicht verändert werden. Der Turnierverantwortliche kann Ausnahmen zulassen.
+    > Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt, es sei denn, die Wertungszahl beider Spieler ist kleiner oder gleich 1000. Über begründete Ausnahmen entscheidet der Turnierverantwortliche.
 
     > Es können in Mannschaftswettkämpfen nur Spieler aufgestellt werden, die vor Ort anwesend sind.
 
