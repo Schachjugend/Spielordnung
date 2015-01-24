@@ -454,9 +454,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Stellt ein Verein mehr als eine Mannschaft, sind die weiteren Mannschaften nachrangig zu berücksichtigen.
 
 1.  
-    In jeder Mannschaft ist abweichend von Ziffer 11.1 eine Spielerin startberechtigt, die in der laufenden Saison einem anderen Verein angehört.
+    In jeder Mannschaft ist abweichend von Ziffer 11.1 eine Spielerin startberechtigt, die in der laufenden Saison einem anderen Verein angehört, sofern dieser dem Gastspiel zustimmt.
 
-    > Die Spielberechtigung nach Ziffer 11.3 muss durch den Verein nachgewiesen werden.
+    > Die Gastspielgenehmigung gilt als erteilt, falls der abgebende Verein mit keiner eigenen Mannschaft an dieser DVM teilnimmt.
 
 1.  
     Ziffer 10.2 gilt entsprechend.
@@ -501,11 +501,11 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     An der DVM U14w nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U14.
 
 1.  
-    In jeder Mannschaft ist abweichend von Ziffer 9.1 eine Spielerin startberechtigt, die in der der DVM vorangegangenen Saison einem anderen Verein angehörte, wenn sie im Qualifikationszyklus zu dieser DVM - gleich auf welcher Ebene - nicht zuvor für diesen anderen oder einen dritten Verein gemeldet wurde.
+    In jeder Mannschaft ist abweichend von Ziffer 9.1 eine Spielerin startberechtigt, die in der der DVM vorangegangenen Saison einem anderen Verein angehörte, sofern dieser dem Gastspiel zustimmt. Sie darf zudem im Qualifikationszyklus zu dieser DVM - gleich auf welcher Ebene - nicht zuvor für diesen anderen oder einen dritten Verein gemeldet worden sein.
+
+    > Die Gastspielgenehmigung gilt als erteilt, falls der abgebende Verein mit keiner eigenen Mannschaft an dieser DVM teilnimmt.
 
     > Eine Spielerin, die in der vergangenen Saison für einen anderen Verein spielberechtigt war und nun zu dem Verein gewechselt ist, für den sie bei der DVM eingesetzt werden soll, ist gleichwohl nur als Gastspielerin startberechtigt.
-
-    > Die Ausführungsbestimmung zu 11.3 gilt entsprechend.
 
 1.  
     Ziffer 10.2 gilt entsprechend.
