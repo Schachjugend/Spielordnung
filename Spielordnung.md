@@ -284,7 +284,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     Es können jeweils bis zu zehn weitere Freiplätze vergeben werden. Der AKS kann das Freiplatzkontingent bei außergewöhnlichen Umständen um jeweils bis zu vier weitere Freiplätze erhöhen.
 
-    > Berechnung der Teilnehmerzahlen der Landesverbände für die DEM U14: Es wird eine Rangliste nach Jahreswertungspunkten analog zu den Regelungen zu 7.2 erstellt. Entsprechend der Rangliste werden Plätze vergeben; bei Punktgleichheit entscheidet das aktuellste Jahr.
+    > Berechnung der Teilnehmerzahlen der Landesverbände für die DEM U14: Es wird eine Rangliste nach Jahreswertungspunkten analog zu den Regelungen für die U12 zu 7.2 erstellt. Entsprechend der Rangliste werden Plätze vergeben; bei Punktgleichheit entscheidet das aktuellste Jahr.
     >
     > 1.-6. Platz = 3 Teilnehmer, 7.-12. Platz = 2 Teilnehmer, 13.-17. Platz = 1 Teilnehmer.
     >
@@ -310,17 +310,25 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     Die Teilnehmerzahlen der Landesverbände werden auf Grundlage der bei den vergangenen zwei DEM der jeweiligen und, soweit vorhanden, der nächstjüngeren Altersklasse erzielten Punkte zugeteilt, wobei zwischen jüngerem und älterem Jahrgang innerhalb der Altersklasse unterschieden wird. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen. Es können weitere Freiplätze vergeben werden.
 
-    > Die Zahl der Startplätze pro Landesverband steht - mit Ausnahme der Kaderspieler und des Ausrichterfreiplatzes - schon unmittelbar nach dem alten Turnier fest, es muss nicht bis zum ZPS-Termin (Erscheinen der aktuellen Mitgliederzahlen am 15. Januar des Folgejahres) gewartet werden. Es wird eine Rangliste (nach JWP) der Verbände, basierend auf den Resultaten der letzten drei Deutschen Einzelmeisterschaften U12, erstellt und dann eine eindeutige Zuordnung von Plätzen vorgenommen.
+    > Die Zahl der Startplätze pro Landesverband steht - mit Ausnahme der Kaderspieler und des Ausrichterfreiplatzes - schon unmittelbar nach dem alten Turnier fest, es muss nicht bis zum ZPS-Termin (Erscheinen der aktuellen Mitgliederzahlen am 15. Januar des Folgejahres) gewartet werden. Es wird eine Rangliste (nach JWP) der Verbände, basierend auf den Resultaten der letzten zwei Deutschen Einzelmeisterschaften, erstellt und dann eine eindeutige Zuordnung von Plätzen vorgenommen.
     >
-    > Bei der Berechnung soll die von den Spielern gezeigte Leistung bei den zurückliegenden Meisterschaften als Hauptkriterium dienen. Dazu werden die Ergebnisse der drei zurückliegenden Jahre herangezogen. Da jedes Turnier nach gleichem System absolviert wird (11 Runden Schweizer System), sind die Ergebnisse der vergangenen Jahre vergleichbar. Der Zeitraum von drei Jahren verlangt von den Verbänden eine dreijährige kontinuierliche Arbeit im Jugendbereich, fängt aber zugleich ein einmaliges schwächeres Ergebnis auf. Ermittelt werden die Gesamtpunktzahlen der Spieler jedes Landesverbands. Holt also ein Spieler 6.5 Punkte in den 11 Partien, werden dem Landesverband entsprechend 6.5 Zähler addiert. Die Ausrichterfreiplätze werden dabei nicht berücksichtigt.
+    > Bei der Berechnung soll die von den für die aktuelle DEM in der Altersklasse spielberechtigten Spielern gezeigte Leistung der zurückliegenden Meisterschaft als Hauptkriterium dienen. Um kontinuierliche Arbeit im Jugendbereich in den Landesverbänden zu belohnen, werden zusätzlich Leistungen der Spieler derselben Altersklasse der beiden zurückliegenden Meisterschaften herangezogen.
     >
-    > Aus der Summe aller Spieler eines Landesverbands wird der Durchschnitt berechnet. Zusätzlich zu diesem Durchschnittswert erhält der Verband Bonuspunkte, wenn eine Spielerin oder ein Spieler unter den ersten zehn der Abschlusstabelle platziert ist. Es gibt dafür 1.0 bis 0.1 Punkte. Mädchen, die unter den ersten zehn des Gesamtturniers platziert sind, punkten dabei auch für die Jungen des Verbandes. Bei den Mädchen werden die ersten fünf Platzierten zusätzlich mit Bonuspunkten (0.5 bis 0.1) für die Mädchenwertung versehen.
+    > Dazu werden in der jeweiligen Altersklasse die Spieler jedes Landesverbands in älteren und jüngeren Jahrgang (bzw. jüngere Jahrgänge) unterteilt. Ermittelt werden die Gesamtpunktzahlen der Spieler jedes Landesverbandes im jeweiligen Jahrgang. Holt also ein Spieler jüngeren Jahrgangs (respektive älteren Jahrgangs) 6.5 Punkte in den 11 Partien, werden dem Landesverband entsprechend 6.5 Zähler beim jüngeren Jahrgang (resp. älteren Jahrgang) addiert. Die Ausrichterfreiplätze werden dabei nicht berücksichtigt.
+    >
+    > Aus der Summe aller Spieler des jeweiligen Jahrgangs eines Landesverbands wird der Durchschnitt berechnet. Zusätzlich zu diesem Durchschnittswert erhält der Verband Bonuspunkte im entsprechenden Jahrgang, wenn eine Spielerin oder ein Spieler des Jahrgangs unter den ersten zehn der Abschlusstabelle platziert ist. Es gibt dafür 1.0 bis 0.1 Punkte. Mädchen, die unter den ersten zehn des Gesamtturniers platziert sind, punkten dabei auch für die Jungen des Verbandes. Bei den Mädchen werden die ersten fünf Platzierten zusätzlich mit Bonuspunkten (0.5 bis 0.1) für die Mädchenwertung versehen.
     >
     > Meldet ein Landesverband für einen Jungen-Startplatz ein Mädchen, so wird dieses auf Antrag des Landesverbandes für die Jungenwertung herangezogen. Der Antrag muss vor Beginn der ersten Runde der Meisterschaft beim Nationalen Spielleiter eingehen.
     >
-    > Die so erreichten Jahreswertungspunkte werden zu einem Gesamtergebnis addiert. Dabei erfahren die beiden letzten Jahre eine doppelte, das drittletzte Jahr eine einfache Gewichtung. Beispiel: Baden holte 1994 4.7 JWP, 1995 3.6 JWP, 1996 4.0 JWP. Insgesamt ergeben sich für die Rangliste der Verbände (4.7 x 1) + (3.6 x 2) + (4.0 x 2) = 19.9 JWP für Baden.
+    > Die so erreichten Jahreswertungspunkte (JWP) werden in der jeweiligen Altersklasse zu einem Gesamtergebnis addiert.
     >
-    > Entsprechend der Rangliste werden Plätze vergeben; bei Punktgleichheit entscheidet das aktuellste Jahr.
+    > In der U12 gehen aus dem Vorjahr die JWP des jüngeren Jahrgangs der U12 zu 50%, die JWP des älteren Jahrgangs der U10 zu 25% und die JWP des älteren Jahrgangs der U12 zu 10%, sowie die JWP der gesamten U12 des vorletzten Jahres zu 15% ein.
+    >
+    > In der U10 gehen aus dem Vorjahr die JWP des jüngeren Jahrgangs der U10 zu 60% und die JWP des älteren Jahrgangs der U10 zu 15%, sowie die JWP der gesamten U10 des vorletzten Jahres zu 25% ein.
+    >
+    > Beispiel: Berlin holte auf der DEM 2014 im jüngeren Jahrgang U12 5.250 JWP, im älteren Jahrgang U10 6.333 JWP, im älteren Jahrgang U12 6.150 JWP und auf der DEM 2013 in der U12 6.250 JWP. Insgesamt ergeben dich für die Rangliste der Verbände für Berlin 0.5 * 5.250 + 0.25 * 6.333 + 0.1 * 6.150 + 0.15 * 6.250 = 5.761 Gesamtpunkte.
+    >
+    > Entsprechend der Rangliste werden Plätze vergeben; bei Punktgleichheit entscheiden die JWP derselben Altersklasse des Vorjahres.
     >
     > Jungen: 1. Platz = 5 Teilnehmer, 2.-5. Platz = 4 Teilnehmer, 6.-10. Platz = 3 Teilnehmer, 11.-17. Platz = 2 Teilnehmer. Mädchen: 1. Platz = 3 Teilnehmerinnen, 2.-8. Platz = 2 Teilnehmerinnen, 9.-17. Platz = 1 Teilnehmerin.
     >
