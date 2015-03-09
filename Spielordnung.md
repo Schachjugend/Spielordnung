@@ -456,7 +456,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     In jeder Mannschaft ist abweichend von Ziffer 11.1 eine Spielerin startberechtigt, die in der laufenden Saison einem anderen Verein angehört, sofern dieser dem Gastspiel zustimmt.
 
-    > Die Gastspielgenehmigung gilt als erteilt, falls der abgebende Verein mit keiner eigenen Mannschaft an dieser DVM teilnimmt.
+    > Die Gastspielgenehmigung gilt als erteilt, falls der abgebende Verein mit keiner eigenen Mannschaft an einer Altersklasse dieser DVM teilnimmt, für die die Spielerin spielberechtigt ist.
 
 1.  
     Ziffer 10.2 gilt entsprechend.
@@ -503,7 +503,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     In jeder Mannschaft ist abweichend von Ziffer 9.1 eine Spielerin startberechtigt, die in der der DVM vorangegangenen Saison einem anderen Verein angehörte, sofern dieser dem Gastspiel zustimmt. Sie darf zudem im Qualifikationszyklus zu dieser DVM - gleich auf welcher Ebene - nicht zuvor für diesen anderen oder einen dritten Verein gemeldet worden sein.
 
-    > Die Gastspielgenehmigung gilt als erteilt, falls der abgebende Verein mit keiner eigenen Mannschaft an dieser DVM teilnimmt.
+    > Die Gastspielgenehmigung gilt als erteilt, falls der abgebende Verein mit keiner eigenen Mannschaft an einer Altersklasse dieser DVM teilnimmt, für die die Spielerin spielberechtigt ist.
 
     > Eine Spielerin, die in der vergangenen Saison für einen anderen Verein spielberechtigt war und nun zu dem Verein gewechselt ist, für den sie bei der DVM eingesetzt werden soll, ist gleichwohl nur als Gastspielerin startberechtigt.
 
