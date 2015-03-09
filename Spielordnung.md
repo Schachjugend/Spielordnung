@@ -278,7 +278,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     Für die DEM U18, U18w, U16, U16w und U14w: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
 
-    Für die DEM U14: Die Landesverbände entsenden insgesamt 35 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der bei den vergangenen drei DEM der jeweiligen Altersklasse erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
+    Für die DEM U14: Die Landesverbände entsenden insgesamt 35 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf Grundlage der bei den vergangenen zwei DEM der jeweiligen und der nächstjüngeren Altersklasse erzielten Punkte zugeteilt, wobei zwischen jüngerem und älterem Jahrgang innerhalb der Altersklasse unterschieden wird. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
 
     Der Ausrichter erhält jeweils einen Freiplatz.
 
@@ -308,7 +308,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Abweichend von Ziffer 2.5 beträgt die Spielzeit 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
 
 1.  
-    Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der bei den vergangenen drei DEM der jeweiligen Altersklasse erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen. Es können weitere Freiplätze vergeben werden.
+    Die Teilnehmerzahlen der Landesverbände werden auf Grundlage der bei den vergangenen zwei DEM der jeweiligen und, soweit vorhanden, der nächstjüngeren Altersklasse erzielten Punkte zugeteilt, wobei zwischen jüngerem und älterem Jahrgang innerhalb der Altersklasse unterschieden wird. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen. Es können weitere Freiplätze vergeben werden.
 
     > Die Zahl der Startplätze pro Landesverband steht - mit Ausnahme der Kaderspieler und des Ausrichterfreiplatzes - schon unmittelbar nach dem alten Turnier fest, es muss nicht bis zum ZPS-Termin (Erscheinen der aktuellen Mitgliederzahlen am 15. Januar des Folgejahres) gewartet werden. Es wird eine Rangliste (nach JWP) der Verbände, basierend auf den Resultaten der letzten drei Deutschen Einzelmeisterschaften U12, erstellt und dann eine eindeutige Zuordnung von Plätzen vorgenommen.
     >
