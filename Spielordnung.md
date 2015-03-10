@@ -574,7 +574,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Ziffer 1.4 findet keine Anwendung.
 
 1.  
-    Jeder Landesverband entsendet je eine Mannschaft, in der WK G zwei Mannschaften. Der Ausrichter erhält einen Freiplatz. Bei der WK G wird ein größeres Feld (Open-Charakter) angestrebt. Der Referent für Schulschach besetzt gegebenenfalls weitere freie Plätze. Die WK HR wird als offizielles Turnier ausgetragen; die Teilnehmerzahl kann beschränkt werden, wobei mindestens 18 Plätze angeboten werden sollen.
+    Jeder Landesverband entsendet je eine Mannschaft in den WK II, III und M; in der WK IV je zwei Mannschaften und in der WK G je nach Kapazität des Ausrichtungsortes bis zu vier Mannschaften. Der Ausrichter erhält einen Freiplatz, in der WK G zwei Freiplätze. Bei der WK G wird ein größeres Feld (Open-Charakter) angestrebt. Der AK Schulschach besetzt gegebenenfalls weitere freie Plätze. Die WK HR wird als offizielles Turnier ausgetragen; die Teilnehmerzahl kann beschränkt werden, wobei mindestens 18 Plätze angeboten werden sollen.
 
 1.  
     Jede Mannschaft besteht aus vier Spielern derselben Schule.
