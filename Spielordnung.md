@@ -1,8 +1,8 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 2. März 2008 in Bremen beschlossen und zuletzt am 2. März 2014 in Lübeck geändert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 2. März 2008 in Bremen beschlossen und zuletzt am 8. März 2015 in Bamberg geändert.
 
-> Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb am 2. September 2014 geändert.
+> Die Ausführungsbestimmungen wurden zuletzt von der Jugendversammlung am 8. März 2015 geändert.
 
 ## 1. Grundsätze
 
@@ -31,6 +31,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     *   Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 12 Jahren (DVM U12),
     *   Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 10 Jahren (DVM U10),
     *   Deutsche Schulschach-Mannschaftsmeisterschaften (DSM).
+
+    > *Die Jugendversammlung hat am 8. März 2015 in Bamberg die Einführung der DEM U12w und U10w beschlossen. Diese Änderung findet zur DEM 2016 Anwendung. Die beschlossene Änderung ist hier dokumentiert: https://github.com/Schachjugend/Spielordnung/pull/26*
 
 1.  
     An diesen Veranstaltungen können nur Jugendliche teilnehmen, die durch ihre Mitgliedsorganisation dem Deutschen Schachbund (DSB) gemeldet sind. Sie müssen
