@@ -300,10 +300,10 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Der Sieger erhält den Titel "Deutscher Jugendmeister [jeweilige Altersklasse] [Jahreszahl]" bzw. "Deutsche Jugendmeisterin [jeweilige Altersklasse] [Jahreszahl]".
 
 
-## 7. DEM U12 und U10
+## 7. DEM U12, U12w, U10 und U10w
 
 1.  
-    Die DEM U12 und U10 werden jeweils in einer Gruppe mit mindestens 50 Jungen und 26 Mädchen der jeweiligen Altersklasse aus den Landesverbänden sowie allen Kaderspielern der jeweiligen Altersklasse ausgetragen.
+    Die DEM U12 und U10 werden jeweils in einer Gruppe mit mindestens 50 Jungen, die DEM U12w und U10w jeweils in einer Gruppe mit mindestens 26 Mädchen der jeweiligen Altersklasse aus den Landesverbänden sowie allen Kaderspielern der jeweiligen Altersklasse ausgetragen. Der Ausrichter erhält jeweils einen Freiplatz.
 
     > Abweichend von Ziffer 2.5 beträgt die Spielzeit 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
 
@@ -314,9 +314,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     >
     > Bei der Berechnung soll die von den Spielern gezeigte Leistung bei den zurückliegenden Meisterschaften als Hauptkriterium dienen. Dazu werden die Ergebnisse der drei zurückliegenden Jahre herangezogen. Da jedes Turnier nach gleichem System absolviert wird (11 Runden Schweizer System), sind die Ergebnisse der vergangenen Jahre vergleichbar. Der Zeitraum von drei Jahren verlangt von den Verbänden eine dreijährige kontinuierliche Arbeit im Jugendbereich, fängt aber zugleich ein einmaliges schwächeres Ergebnis auf. Ermittelt werden die Gesamtpunktzahlen der Spieler jedes Landesverbands. Holt also ein Spieler 6.5 Punkte in den 11 Partien, werden dem Landesverband entsprechend 6.5 Zähler addiert. Die Ausrichterfreiplätze werden dabei nicht berücksichtigt.
     >
-    > Aus der Summe aller Spieler eines Landesverbands wird der Durchschnitt berechnet. Zusätzlich zu diesem Durchschnittswert erhält der Verband Bonuspunkte, wenn eine Spielerin oder ein Spieler unter den ersten zehn der Abschlusstabelle platziert ist. Es gibt dafür 1.0 bis 0.1 Punkte. Mädchen, die unter den ersten zehn des Gesamtturniers platziert sind, punkten dabei auch für die Jungen des Verbandes. Bei den Mädchen werden die ersten fünf Platzierten zusätzlich mit Bonuspunkten (0.5 bis 0.1) für die Mädchenwertung versehen.
-    >
-    > Meldet ein Landesverband für einen Jungen-Startplatz ein Mädchen, so wird dieses auf Antrag des Landesverbandes für die Jungenwertung herangezogen. Der Antrag muss vor Beginn der ersten Runde der Meisterschaft beim Nationalen Spielleiter eingehen.
+    > Aus der Summe aller Spieler eines Landesverbands wird der Durchschnitt berechnet. Zusätzlich zu diesem Durchschnittswert erhält der Verband Bonuspunkte, wenn eine Spielerin oder ein Spieler unter den ersten zehn der Abschlusstabelle platziert ist. Es gibt dafür 1.0 bis 0.1 Punkte.
     >
     > Die so erreichten Jahreswertungspunkte werden zu einem Gesamtergebnis addiert. Dabei erfahren die beiden letzten Jahre eine doppelte, das drittletzte Jahr eine einfache Gewichtung. Beispiel: Baden holte 1994 4.7 JWP, 1995 3.6 JWP, 1996 4.0 JWP. Insgesamt ergeben sich für die Rangliste der Verbände (4.7 x 1) + (3.6 x 2) + (4.0 x 2) = 19.9 JWP für Baden.
     >
@@ -324,7 +322,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     >
     > Jungen: 1. Platz = 5 Teilnehmer, 2.-5. Platz = 4 Teilnehmer, 6.-10. Platz = 3 Teilnehmer, 11.-17. Platz = 2 Teilnehmer. Mädchen: 1. Platz = 3 Teilnehmerinnen, 2.-8. Platz = 2 Teilnehmerinnen, 9.-17. Platz = 1 Teilnehmerin.
     >
-    > Zusätzlich zu diesen insgesamt 50 Jungen- und 26 Mädchenplätzen erhalten die Kaderspieler (obwohl sie zur Berechnung der Zahlen beitrugen) Freiplätze. Hinzu kommen fünf Ausrichterfreiplätze und weitere Freiplätze nach Ziffer 7.2 Satz 4. Das Teilnehmerfeld umfasst dadurch rund 90 Spielerinnen.
+    > Zusätzlich zu diesen insgesamt 50 Jungen- und 26 Mädchenplätzen erhalten die Kaderspieler (obwohl sie zur Berechnung der Zahlen beitrugen) Freiplätze. Hinzu kommt pro Altersklasse ein Ausrichterfreiplatz und weitere Freiplätze nach Ziffer 7.2 Satz 4. Das Teilnehmerfeld umfasst dadurch rund 60 Spieler bei den Jungen und rund 30 Spielerinnen bei den Mädchen.
     >
     > Der DBSB kann pro Altersklasse für die Jungen je zwei und für die Mädchen je einen Freiplatzkandidaten nominiere n. Dem Freiplatzantrag ist zu entsprechen, wenn die Spielstärke des Kandidaten dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung hierüber trifft der Vorstand.
 
@@ -334,10 +332,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Es wird jeweils ein Turnier mit elf Runden nach Schweizer System gespielt. 
 
 1.  
-    Der Sieger erhält den Titel "Deutscher Jugendmeister [jeweilige Altersklasse] [Jahreszahl]".
-
-1.  
-    Das bestplatzierte Mädchen erhält den Titel "Deutsche Jugendmeisterin [jeweilige Altersklasse] [Jahreszahl]".
+    Der Sieger erhält den Titel "Deutscher Jugendmeister [jeweilige Altersklasse] [Jahreszahl]" bzw. "Deutsche Jugendmeisterin [jeweilige Altersklasse] [Jahreszahl]".
 
 
 ## 8. DLM
