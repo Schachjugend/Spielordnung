@@ -265,101 +265,78 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Abweichend zu 5.5 Satz 2 kann der Turnierverantwortliche genehmigen, dass mehrere Mannschaften von nur einem Betreuer betreut werden.
 
 
-## 6. DEM U18, U18w, U16, U16w, U14 und U14w
+## 6. DEM
 
 1.  
-    An den DEM U18, U18w, U16, U16w und U14w nehmen jeweils 24 bis 28 Jugendliche, an der U14 40 bis 44 Jugendliche der jeweiligen Altersklasse teil.
+    In den Altersklassen nehmen teil:
+    * U18, U18w, U16, U16w und U14w: jeweils 24 bis 28 Jugendliche
+    * U14, U12w und U10w: jeweils 40 bis 44 Jugendliche
+    * U12 und U10: jeweils mindestens 50 Jugendliche
 
 1.  
-    Es wird jeweils ein Turnier mit neun Runden nach Schweizer System ausgetragen.
+    In den Altersklassen U18, U18w, U16, U16w, U14 und U14w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U12, U12w, U10 und U10w jeweils ein Turnier mit elf Runden nach Schweizer System ausgetragen.
+
+    > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U12, U12w, U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
 
 1.  
-    Die Teilnehmerfelder ergeben sich wie folgt:
+    Die Teilnehmerfelder für die DEM U18, U18w, U16, U16w und U14w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
 
-    Für die DEM U18, U18w, U16, U16w und U14w: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
+1.  
+    Die Teilnehmerfelder für die DEM U14, U12, U12w, U10 und U10w ergeben sich wie folgt: Die Landesverbände entsenden in den Altersklassen U14, U12w und U10w jeweils 35, in den Altersklassen U12 und U10 jeweils 50 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der bei den vergangenen drei DEM der jeweiligen Altersklasse erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
 
-    Für die DEM U14: Die Landesverbände entsenden insgesamt 35 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der bei den vergangenen drei DEM der jeweiligen Altersklasse erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
+    > Die Zahl der Startplätze pro Landesverband steht - mit Ausnahme der Kaderspieler und des Ausrichterfreiplatzes - schon unmittelbar nach dem alten Turnier fest, es muss nicht bis zum ZPS-Termin (Erscheinen der aktuellen Mitgliederzahlen am 15. Januar des Folgejahres) gewartet werden. Es wird eine Rangliste (nach JWP) der Verbände, basierend auf den Resultaten der letzten drei Deutschen Einzelmeisterschaften der jeweiligen Altersklasse, erstellt und dann eine eindeutige Zuordnung von Plätzen vorgenommen.
+    >
+    > Bei der Berechnung soll die von den Spielern gezeigte Leistung bei den zurückliegenden Meisterschaften als Hauptkriterium dienen. Dazu werden die Ergebnisse der drei zurückliegenden Jahre herangezogen. Da jedes Turnier nach gleichem System absolviert wird (9 bzw. 11 Runden Schweizer System), sind die Ergebnisse der vergangenen Jahre vergleichbar. Der Zeitraum von drei Jahren verlangt von den Verbänden eine dreijährige kontinuierliche Arbeit im Jugendbereich, fängt aber zugleich ein einmaliges schwächeres Ergebnis auf. Ermittelt werden die Gesamtpunktzahlen der Spieler jedes Landesverbands. Holt also ein Spieler 6.5 Punkte in den 11 Partien, werden dem Landesverband entsprechend 6.5 Zähler addiert. Die Ausrichterfreiplätze werden dabei nicht berücksichtigt.
+    >
+    > Aus der Summe aller Spieler eines Landesverbands wird der Durchschnitt berechnet. Zusätzlich zu diesem Durchschnittswert erhält der Verband Bonuspunkte, wenn ein Spieler unter den ersten zehn der Abschlusstabelle platziert ist. Es gibt dafür 1.0 bis 0.1 Punkte.
+    >
+    > Die so erreichten Jahreswertungspunkte (JWP) werden zu einem Gesamtergebnis addiert. Dabei erfahren die beiden letzten Jahre eine doppelte, das drittletzte Jahr eine einfache Gewichtung. Beispiel: Baden holte 1994 4.7 JWP, 1995 3.6 JWP, 1996 4.0 JWP. Insgesamt ergeben sich für die Rangliste der Verbände (4.7 x 1) + (3.6 x 2) + (4.0 x 2) = 19.9 JWP für Baden.
+    >
+    > Entsprechend der Rangliste werden Plätze vergeben; bei Punktgleichheit entscheidet das aktuellste Jahr.
+    >
+    > U14, U12w und U10w: 1.-6. Platz = 3 Teilnehmer, 7.-12. Platz = 2 Teilnehmer, 13.-17. Platz = 1 Teilnehmer.
+    >
+    > U12 und U10: 1. Platz = 5 Teilnehmer, 2.-5. Platz = 4 Teilnehmer, 6.-10. Platz = 3 Teilnehmer, 11.-17. Platz = 2 Teilnehmer.
+    >
+    > *Übergangsbestimmung für die DEM U14: Für die Jahreswertungen für 2010, 2011 und 2012 werden die Ergebnisse der DEM U12 herangezogen. Um die unterschiedliche Rundenzahl auszugleichen, werden die Gesamtpunktzahlen der Spieler vor der Berechnung des Durchschnittswerts mit dem Faktor 9/11 multipliziert.*
 
-    Der Ausrichter erhält jeweils einen Freiplatz.
+1.  
+    Der Ausrichter erhält in jeder ausgerichteten Altersklasse einen Freiplatz.
+
+    In den Altersklassen U14, U12, U12w, U10 und U10w erhalten alle Kaderspieler in ihrer jeweiligen Altersklasse einen Freiplatz.
 
     Es können jeweils bis zu zehn weitere Freiplätze vergeben werden. Der AKS kann das Freiplatzkontingent bei außergewöhnlichen Umständen um jeweils bis zu vier weitere Freiplätze erhöhen.
-
-    > Berechnung der Teilnehmerzahlen der Landesverbände für die DEM U14: Es wird eine Rangliste nach Jahreswertungspunkten analog zu den Regelungen zu 7.2 erstellt. Entsprechend der Rangliste werden Plätze vergeben; bei Punktgleichheit entscheidet das aktuellste Jahr.
-    >
-    > 1.-6. Platz = 3 Teilnehmer, 7.-12. Platz = 2 Teilnehmer, 13.-17. Platz = 1 Teilnehmer.
-    >
-    > Übergangsbestimmung: Für die Jahreswertungen für 2010, 2011 und 2012 werden die Ergebnisse der DEM U12 herangezogen. Um die unterschiedliche Rundenzahl auszugleichen, werden die Gesamtpunktzahlen der Spieler vor der Berechnung des Durchschnittswerts mit dem Faktor 9/11 multipliziert.
-    >
+    
     > Der AKS kann das Freiplatzkontingent erhöhen, wenn in einem Jahr eine außergewöhnlich hohe Zahl von starken Spielern in der jeweiligen Altersklasse zusammenkommt. Eine außergewöhnlich hohe Zahl liegt jedenfalls dann vor, wenn die Zahl der Kaderspieler der Zahl der ordentlichen Freiplätze entspricht oder diese übersteigt.
-    >
-    > Der DBSB kann pro Altersklasse je einen Freiplatzkandidaten nominieren. Dem Freiplatzantrag ist zu entsprechen, wenn die Spielstärke des Kandidaten dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung hierüber trifft der Vorstand. Ein so vergebener Freiplatz zählt bei der Entscheidung des AKS über die Erhöhung des Freiplatzkontingents nicht als ordentlicher Freiplatz.
-    >
-    > Die übrigen Freiplätze vergeben der Nationale Spielleiter und der Beauftragte für Leistungssport auf Vorschlag des Bundesnachwuchstrainers.
+
+    > Der DBSB kann in den Altersklassen U18, U18w, U16, U16w und U14w je einen, in den Altersklassen U14, U12, U12w, U10 und U10w je zwei Freiplatzkandidaten nominieren. Dem Freiplatzantrag ist zu entsprechen, wenn die Spielstärke des Kandidaten dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung hierüber trifft der Vorstand. Ein so vergebener Freiplatz zählt bei der Entscheidung des AKS über die Erhöhung des Freiplatzkontingents nicht als ordentlicher Freiplatz.
+
+    > Die weiteren Freiplätze vergeben der Nationale Spielleiter und der Beauftragte für Leistungssport auf Vorschlag des Bundesnachwuchstrainers.
 
 1.  
     Der Sieger erhält den Titel "Deutscher Jugendmeister [jeweilige Altersklasse] [Jahreszahl]" bzw. "Deutsche Jugendmeisterin [jeweilige Altersklasse] [Jahreszahl]".
 
 
-## 7. DEM U12 und U10
-
-1.  
-    Die DEM U12 und U10 werden jeweils in einer Gruppe mit mindestens 50 Jungen und 26 Mädchen der jeweiligen Altersklasse aus den Landesverbänden sowie allen Kaderspielern der jeweiligen Altersklasse ausgetragen.
-
-    > Abweichend von Ziffer 2.5 beträgt die Spielzeit 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
-
-1.  
-    Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der bei den vergangenen drei DEM der jeweiligen Altersklasse erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen. Es können weitere Freiplätze vergeben werden.
-
-    > Die Zahl der Startplätze pro Landesverband steht - mit Ausnahme der Kaderspieler und des Ausrichterfreiplatzes - schon unmittelbar nach dem alten Turnier fest, es muss nicht bis zum ZPS-Termin (Erscheinen der aktuellen Mitgliederzahlen am 15. Januar des Folgejahres) gewartet werden. Es wird eine Rangliste (nach JWP) der Verbände, basierend auf den Resultaten der letzten drei Deutschen Einzelmeisterschaften U12, erstellt und dann eine eindeutige Zuordnung von Plätzen vorgenommen.
-    >
-    > Bei der Berechnung soll die von den Spielern gezeigte Leistung bei den zurückliegenden Meisterschaften als Hauptkriterium dienen. Dazu werden die Ergebnisse der drei zurückliegenden Jahre herangezogen. Da jedes Turnier nach gleichem System absolviert wird (11 Runden Schweizer System), sind die Ergebnisse der vergangenen Jahre vergleichbar. Der Zeitraum von drei Jahren verlangt von den Verbänden eine dreijährige kontinuierliche Arbeit im Jugendbereich, fängt aber zugleich ein einmaliges schwächeres Ergebnis auf. Ermittelt werden die Gesamtpunktzahlen der Spieler jedes Landesverbands. Holt also ein Spieler 6.5 Punkte in den 11 Partien, werden dem Landesverband entsprechend 6.5 Zähler addiert. Die Ausrichterfreiplätze werden dabei nicht berücksichtigt.
-    >
-    > Aus der Summe aller Spieler eines Landesverbands wird der Durchschnitt berechnet. Zusätzlich zu diesem Durchschnittswert erhält der Verband Bonuspunkte, wenn eine Spielerin oder ein Spieler unter den ersten zehn der Abschlusstabelle platziert ist. Es gibt dafür 1.0 bis 0.1 Punkte. Mädchen, die unter den ersten zehn des Gesamtturniers platziert sind, punkten dabei auch für die Jungen des Verbandes. Bei den Mädchen werden die ersten fünf Platzierten zusätzlich mit Bonuspunkten (0.5 bis 0.1) für die Mädchenwertung versehen.
-    >
-    > Meldet ein Landesverband für einen Jungen-Startplatz ein Mädchen, so wird dieses auf Antrag des Landesverbandes für die Jungenwertung herangezogen. Der Antrag muss vor Beginn der ersten Runde der Meisterschaft beim Nationalen Spielleiter eingehen.
-    >
-    > Die so erreichten Jahreswertungspunkte werden zu einem Gesamtergebnis addiert. Dabei erfahren die beiden letzten Jahre eine doppelte, das drittletzte Jahr eine einfache Gewichtung. Beispiel: Baden holte 1994 4.7 JWP, 1995 3.6 JWP, 1996 4.0 JWP. Insgesamt ergeben sich für die Rangliste der Verbände (4.7 x 1) + (3.6 x 2) + (4.0 x 2) = 19.9 JWP für Baden.
-    >
-    > Entsprechend der Rangliste werden Plätze vergeben; bei Punktgleichheit entscheidet das aktuellste Jahr.
-    >
-    > Jungen: 1. Platz = 5 Teilnehmer, 2.-5. Platz = 4 Teilnehmer, 6.-10. Platz = 3 Teilnehmer, 11.-17. Platz = 2 Teilnehmer. Mädchen: 1. Platz = 3 Teilnehmerinnen, 2.-8. Platz = 2 Teilnehmerinnen, 9.-17. Platz = 1 Teilnehmerin.
-    >
-    > Zusätzlich zu diesen insgesamt 50 Jungen- und 26 Mädchenplätzen erhalten die Kaderspieler (obwohl sie zur Berechnung der Zahlen beitrugen) Freiplätze. Hinzu kommen fünf Ausrichterfreiplätze und weitere Freiplätze nach Ziffer 7.2 Satz 4. Das Teilnehmerfeld umfasst dadurch rund 90 Spielerinnen.
-    >
-    > Der DBSB kann pro Altersklasse für die Jungen je zwei und für die Mädchen je einen Freiplatzkandidaten nominiere n. Dem Freiplatzantrag ist zu entsprechen, wenn die Spielstärke des Kandidaten dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung hierüber trifft der Vorstand.
-
-    > Die weiteren Freiplätze vergeben der Nationale Spielleiter und der Beauftragte für Leistungssport auf Vorschlag des Bundesnachwuchstrainers.
-
-1.  
-    Es wird jeweils ein Turnier mit elf Runden nach Schweizer System gespielt. 
-
-1.  
-    Der Sieger erhält den Titel "Deutscher Jugendmeister [jeweilige Altersklasse] [Jahreszahl]".
-
-1.  
-    Das bestplatzierte Mädchen erhält den Titel "Deutsche Jugendmeisterin [jeweilige Altersklasse] [Jahreszahl]".
-
-
-## 8. DLM
+## 7. DLM
 
 1.  
     An der DLM nehmen Landesverbandsmannschaften teil. Jeder Landesverband kann mindestens eine Mannschaft stellen. Der Ausrichter darf eine weitere Landesauswahl melden.
 
-    > Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Regionalauswahl gebildet werden. Für die Regionalauswahl sind alle Spieler einer Regionalgruppe nach 9.3 spielberechtigt. Die Regionalauswahl sollte möglichst aus der Region kommen, in der der Ausrichtungsort liegt.
+    > Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Regionalauswahl gebildet werden. Für die Regionalauswahl sind alle Spieler einer Regionalgruppe nach 8.3 spielberechtigt. Die Regionalauswahl sollte möglichst aus der Region kommen, in der der Ausrichtungsort liegt.
 
 1.  
     Bei den DLM sind je Mannschaft nur Spieler startberechtigt, die zum Zeitpunkt der DLM für einen Verein des jeweiligen Landesverbandes spielberechtigt sind. Findet ein Land nicht genügend eigene starke Spieler um die DLM zu beschicken, können Spielgemeinschaften mit bis zu vier Spielern zugelassen werden, die nach Satz 1 für einen anderen Landesverband startberechtigt sind.
 
     > Der Turnierverantwortliche entscheidet über Zulassung einer Spielgemeinschaft auf begründeten Antrag.
     >
-    > Zwei Länder können den Antrag gemeinsam stellen, wenn für jedes Land die Voraussetzungen nach 8.2 Satz 2 erfüllt sind. Der Landesverband kann die Entscheidung innerhalb von zwei Wochen vom Nationalen Spielleiter kontrollieren lassen.
+    > Zwei Länder können den Antrag gemeinsam stellen, wenn für jedes Land die Voraussetzungen nach 7.2 Satz 2 erfüllt sind. Der Landesverband kann die Entscheidung innerhalb von zwei Wochen vom Nationalen Spielleiter kontrollieren lassen.
     >
     > Die Mannschaft firmiert als Spielgemeinschaft beider beteiligter Länder.
 
 1.  
     Jede Mannschaft besteht in jedem Mannschaftskampf aus je einem Jugendlichen der Altersklassen U20, U18, U16, U14, U12, U20w, U16w und U12w. Ergänzend zu 5.8 kann ein zweiter Ersatzspieler in die Startrangliste aufgenommen werden. Von diesen zwei Ersatzspielern darf maximal einer männlich sein.
 
-    > Abweichend zu AB zu 5 wird die Startrangliste nach dem DWZ-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 8.3 Satz 1 erfüllen.
+    > Abweichend zu AB zu 5 wird die Startrangliste nach dem DWZ-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen.
 
 1.  
     Es wird ein Turnier über sieben Runden nach Schweizer System ausgetragen.
@@ -368,7 +345,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Der Sieger erhält den Titel "Deutscher Jugendmannschaftsmeister der Länder [Jahreszahl]".
 
 
-## 9. Allgemeine Bestimmungen zu den Deutschen Meisterschaften für Vereinsmannschaften
+## 8. Allgemeine Bestimmungen zu den Deutschen Meisterschaften für Vereinsmannschaften
 
 1.  
     Bei den DVM sind je Mannschaft grundsätzlich die Spieler startberechtigt, die in der der DVM vorangegangenen Saison für diesen Verein spielberechtigt waren. Spieler, die in ebendieser Saison für keinen Verein spielberechtigt waren, sind nur für den Verein startberechtigt, für den sie zum Zeitpunkt der DVM spielberechtigt sind.
@@ -376,7 +353,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Für die Spielberechtigung der der DVM vorangegangenen Saison ist grundsätzlich der Passschreibungstermin (in der Regel 15. Juli) des Vorjahres der DVM maßgeblich; zu einem anderen Zeitpunkt in Kraft getretene Spielberechtigungen sind von dem Verein nachzuweisen.
 
 1.  
-    Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 3 sind zusätzlich Jugendliche, die erstens seit mindestens einem Jahr ihren Lebensmittelpunkt in einem Gebiet entlang der Grenzen zur Bundesrepublik Deutschland haben, das auf Verwaltungsebene III der Nomenklatur statistischer Gebietseinheiten abgegrenzt ist, und zweitens in keinem ausländischen Schachverein Mitglied sind. Die Voraussetzungen sind dem Nationalen Spielleiter nachzuweisen. 9.1 Satz 2 findet keine Anwendung.
+    Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 3 sind zusätzlich Jugendliche, die erstens seit mindestens einem Jahr ihren Lebensmittelpunkt in einem Gebiet entlang der Grenzen zur Bundesrepublik Deutschland haben, das auf Verwaltungsebene III der Nomenklatur statistischer Gebietseinheiten abgegrenzt ist, und zweitens in keinem ausländischen Schachverein Mitglied sind. Die Voraussetzungen sind dem Nationalen Spielleiter nachzuweisen. 8.1 Satz 2 findet keine Anwendung.
 
     > Zum Nachweis, dass keine Mitgliedschaft in einem ausländischen Verein besteht, unterzeichnen der Verein, der Jugendliche und ggf. seine gesetzlichen Vertreter eine entsprechende Erklärung.
 
@@ -418,7 +395,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Bei jeder Deutschen Meisterschaft für Vereinsmannschaften ist grundsätzlich nur eine Mannschaft pro Verein startberechtigt.
 
 
-## 10. DVM U20
+## 9. DVM U20
 
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 1500.
 
@@ -432,17 +409,17 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U20 [Jahreszahl]".
 
 
-## 11. DVM U20w
+## 10. DVM U20w
 
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 1000.
 
 1.  
-    Abweichend zu 9.1 sind bei der DVM U20w je Mannschaft Spielerinnen startberechtigt, die in der laufenden Saison für diesen Verein spielberechtigt sind.
+    Abweichend zu 8.1 sind bei der DVM U20w je Mannschaft Spielerinnen startberechtigt, die in der laufenden Saison für diesen Verein spielberechtigt sind.
 
     > Für die Spielberechtigung der laufenden Saison ist grundsätzlich der Passschreibungstermin (in der Regel 15. Juli) des laufenden Jahres der DVM maßgeblich; zu einem anderen Zeitpunkt in Kraft getretene Spielberechtigungen sind von dem Verein nachzuweisen.
 
 1.  
-    Abweichend zu 9.2 und 9.3 wird die DVM U20w als offenes Turnier ausgetragen. 9.5 findet keine Anwendung. Die Teilnehmerzahl kann beschränkt werden, wobei mindestens 16 Plätze angeboten werden sollen. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U20.
+    Abweichend zu 8.2 und 8.3 wird die DVM U20w als offenes Turnier ausgetragen. 8.5 findet keine Anwendung. Die Teilnehmerzahl kann beschränkt werden, wobei mindestens 16 Plätze angeboten werden sollen. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U20.
 
     > Sofern eine Beschränkung der Teilnehmerzahl erfolgt, kann der Turnierverantwortliche unter Berücksichtigung folgender Kriterien Plätze vergeben:
     >   *   Reihenfolge der Anmeldungen
@@ -454,18 +431,18 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Stellt ein Verein mehr als eine Mannschaft, sind die weiteren Mannschaften nachrangig zu berücksichtigen.
 
 1.  
-    In jeder Mannschaft ist abweichend von Ziffer 11.1 eine Spielerin startberechtigt, die in der laufenden Saison einem anderen Verein angehört, sofern dieser dem Gastspiel zustimmt.
+    In jeder Mannschaft ist abweichend von Ziffer 10.1 eine Spielerin startberechtigt, die in der laufenden Saison einem anderen Verein angehört, sofern dieser dem Gastspiel zustimmt.
 
     > Die Gastspielgenehmigung gilt als erteilt, falls der abgebende Verein mit keiner eigenen Mannschaft an einer Altersklasse dieser DVM teilnimmt, für die die Spielerin spielberechtigt ist.
 
 1.  
-    Ziffer 10.2 gilt entsprechend.
+    Ziffer 9.2 gilt entsprechend.
 
 1.  
     Der Sieger erhält den Titel "Deutscher Vereinsmeister der weiblichen Jugend U20 [Jahreszahl]".
 
 
-## 12. DVM U16
+## 11. DVM U16
 
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 1200.
 
@@ -473,13 +450,13 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     An der DVM U16 nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U16.
 
 1.  
-    Ziffer 10.2 gilt entsprechend.
+    Ziffer 9.2 gilt entsprechend.
 
 1.  
     Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U16 [Jahreszahl]".
 
 
-## 13. DVM U14
+## 12. DVM U14
 
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 1000.
 
@@ -487,13 +464,13 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     An der DVM U14 nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U14.
 
 1.  
-    Ziffer 10.2 gilt entsprechend.
+    Ziffer 9.2 gilt entsprechend.
 
 1.  
     Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U14 [Jahreszahl]".
 
 
-## 14. DVM U14w
+## 13. DVM U14w
 
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 800.
 
@@ -501,20 +478,20 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     An der DVM U14w nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U14.
 
 1.  
-    In jeder Mannschaft ist abweichend von Ziffer 9.1 eine Spielerin startberechtigt, die in der der DVM vorangegangenen Saison einem anderen Verein angehörte, sofern dieser dem Gastspiel zustimmt. Sie darf zudem im Qualifikationszyklus zu dieser DVM - gleich auf welcher Ebene - nicht zuvor für diesen anderen oder einen dritten Verein gemeldet worden sein.
+    In jeder Mannschaft ist abweichend von Ziffer 8.1 eine Spielerin startberechtigt, die in der der DVM vorangegangenen Saison einem anderen Verein angehörte, sofern dieser dem Gastspiel zustimmt. Sie darf zudem im Qualifikationszyklus zu dieser DVM - gleich auf welcher Ebene - nicht zuvor für diesen anderen oder einen dritten Verein gemeldet worden sein.
 
     > Die Gastspielgenehmigung gilt als erteilt, falls der abgebende Verein mit keiner eigenen Mannschaft an einer Altersklasse dieser DVM teilnimmt, für die die Spielerin spielberechtigt ist.
 
     > Eine Spielerin, die in der vergangenen Saison für einen anderen Verein spielberechtigt war und nun zu dem Verein gewechselt ist, für den sie bei der DVM eingesetzt werden soll, ist gleichwohl nur als Gastspielerin startberechtigt.
 
 1.  
-    Ziffer 10.2 gilt entsprechend.
+    Ziffer 9.2 gilt entsprechend.
 
 1.  
     Der Sieger erhält den Titel "Deutscher Vereinsmeister der weiblichen Jugend U14 [Jahreszahl]".
 
 
-## 15. DVM U12
+## 14. DVM U12
 
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 800.
 
@@ -524,13 +501,13 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Abweichend von Ziffer 2.5 beträgt die Spielzeit 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
 
 1.  
-    Ziffer 10.2 gilt entsprechend.
+    Ziffer 9.2 gilt entsprechend.
 
 1.  
     Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U12 [Jahreszahl]".
 
 
-## 16. DVM U10
+## 15. DVM U10
 
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 600.
 
@@ -540,18 +517,18 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Abweichend von Ziffer 2.5 beträgt die Spielzeit 60 Minuten.
 
 1.  
-    Ziffer 10.2 gilt entsprechend.
+    Ziffer 9.2 gilt entsprechend.
 
 1.  
     Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U10 [Jahreszahl]".
 
 1.  
-    Abweichend zu 9.2 und 9.3 wird die DVM U10 als offenes Turnier ausgetragen. 9.5 findet keine Anwendung. Die Teilnehmerzahl kann beschränkt werden, wobei mindestens 25 Plätze angeboten werden sollen. Jeder Landesverband bekommt mindestens einen Platz, dazu gibt es Freiplätze.
+    Abweichend zu 8.2 und 8.3 wird die DVM U10 als offenes Turnier ausgetragen. 8.5 findet keine Anwendung. Die Teilnehmerzahl kann beschränkt werden, wobei mindestens 25 Plätze angeboten werden sollen. Jeder Landesverband bekommt mindestens einen Platz, dazu gibt es Freiplätze.
 
     > Ziel ist es, dass alle interessierten Vereine mit einer Mannschaft teilnehmen können. Wenn die Kapazitäten ausreichen, sind mehrere Mannschaften eines Vereins zulässig. Sind die Kapazitäten beschränkt, vergibt der Turnierverantwortliche Freiplätze. In diesem Falle melden die Länder dem Turnierverantwortlichen bis zum 01.11. einen Verein ihres Landes, der auf jeden Fall startberechtigt ist.
 
 
-## 17. DSM
+## 16. DSM
 
 1.  
     Die DSM werden jährlich in fünf Wettkampfklassen (WK) ausgetragen. Teilnahmeberechtigt sind allgemein- und berufsbildende Schulen außer Institutionen, die überwiegend der Erwachsenenbildung dienen.
@@ -580,7 +557,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Jede Mannschaft besteht aus vier Spielern derselben Schule.
 
 1.  
-    Die Teilnahme- und Spielberechtigung gemäß Ziffer 17.1, 17.2 und 17.4 ist von den jeweiligen Schulleitungen schriftlich zu bestätigen.
+    Die Teilnahme- und Spielberechtigung gemäß Ziffer 16.1, 16.2 und 16.4 ist von den jeweiligen Schulleitungen schriftlich zu bestätigen.
 
 1.  
     Die Teilnehmer spielen in jeder Wettkampfklasse ein Turnier nach Schweizer System mit sieben Runden, in der WK G und WK HR im Regelfall neun Runden.
@@ -589,7 +566,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Die Spielzeit beträgt je Spieler eine Stunde für die gesamte Partie, in der WK G und WK HR 30 Minuten pro Spieler.
 
 1.  
-    Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen der Austragung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen der Ziffern 17.1 bis 17.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
+    Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen der Austragung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen der Ziffern 16.1 bis 16.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
 
 1.  
     Der Sieger in jeder Wettkampfklasse erhält den Titel "Sieger des Deutschen Schulschach-Mannschaftswettbewerbs [Jahreszahl] der [Bezeichnung der Wettkampfklasse]".
