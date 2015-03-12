@@ -3,8 +3,8 @@ echo "Richte git ein"
 
 CURRENT_COMMIT=`git rev-parse HEAD`
 
-cp Spielordnung.md ../Spielordnung.md > /dev/null 2>&1 || exit 1
-git checkout gh-pages > /dev/null 2>&1 || exit 1
+cp Spielordnung.md ../Spielordnung.md
+git checkout gh-pages > /dev/null
 cd ..
 
 echo "Lade md-tools"
