@@ -1,6 +1,6 @@
 script: ./deploy-ghpages.sh
 env:
   global:
-    - secure: hXJGp4HwM2nVaeRDoiA2WTgK9UJn/4uJS/4gVuvNHYbJxy/mReGOLVHmaw1Hgv3cGAuI7Emo/rncRm6xPORSZCAZCcj0SHoI5OPqH7OwOuoYkQkOxDq0C13aQPN4U4/CCz0pXiq9zL6aQ+CvlLLx5lLouxSPud35QL5ffCNN4xk=
-    - secure: Snie7rXZ5hlOU4U2clx/1pI6ZY4MMd4xUiwyyziCRtgDgkCNL/yM1K/9LMOVgAJ+4WvzYixO5FjIKAqvDhYS26YqzzAZbMlqTXgBdTGJMS0n8BeK0iyaniIRP4AFACS3S+hRHdxndTDGWYdc5ASx3RVJ0j7TXLjjMeGlnIY/dPg=
-    - secure: R9gNVNZ+G9okgvEIUnWsOluGIoYuFpc0ciw/sYmPEo1TkLPnKjOMC7Rs+X+QWzQZpyBEhKLtYCqnJmYBgD8IJgNBs+J2flkfhc0dJvwCAr9OPZnW7nSqb8OrvGVjkceZKdylgY6W556K+dMVCl3/5emadxpl5WuwPzifmrDjTgE=
+    - secure: IE+reb+25/Iv6lWmxCnoLec3HA9lm80swCh/tYmgva2/vGnOZ7OsyoJf5KuIHIUHckIJO2DLIkFLwK8NAAp/w0bQd0kUIlc1Hclm1XkpKha8/SzMZtvEH0lAZ7d0wBxHR1LlnqhQg3Sut+sIIKtDP9U049BWm2N5jgzfNDPfKrM=
+    - secure: PfdlBqvWerFsY3x9CzlolCe8fxVGRfWrUKBxJaBq2DU0McO5uM2CwXCguG1Lnz6FmHVUwwE2Rx1wDcceViY8pHMgNAYTEmKYY/yIEneUqVNi83VpBA2bn5NYn/LShrtsN4UWDdpOkTUUwBXPqTGmOHWE8nAh/qEWiG3gnDPPe1U=
+    - secure: TtJuD3vTyCxjzLQwW34CS6QRuXEX06jtEr/CDSaB1FxTqg+7zMZW7sYTmqPvD9L/eDl7sQjEHw9vVzMTupVc5onfpBEqOgeoDIKGGKVxxnN64L+yYJc1zmgDgTyweVYvyTH+pdERH0vjreQsLkBEGRouJkNjXh1nDdKp0Of5EVI=
