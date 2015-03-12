@@ -6,7 +6,7 @@ CURRENT_COMMIT=`git rev-parse HEAD`
 git clone -b gh-pages "https://${GH_TOKEN}@$github.com/Schachjugend/Spielordnung.git" exporte > /dev/null 2>&1 || exit 1
 
 echo "Lade md-tools"
-git clone -b master https://github.com/Schachjugend/md-tools.git md-tools > /dev/null || exit 1
+git clone -b master https://github.com/Schachjugend/md-tools.git md-tools
 cd md-tools
 npm install
 cd ..
