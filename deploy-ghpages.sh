@@ -3,17 +3,19 @@ echo "Richte git ein"
 
 CURRENT_COMMIT=`git rev-parse HEAD`
 
-git clone -b gh-pages "https://${GH_TOKEN}@${GH_REF}" exporte > /dev/null 2>&1 || exit 1
+cp Spielordnung.md ../Spielordnung.md > /dev/null 2>&1 || exit 1
+git checkout gh-pages > /dev/null 2>&1 || exit 1
+cd ..
 
 echo "Lade md-tools"
-git clone -b master "https://github.com/Schachjugend/md-tools.git" md-tools > /dev/null 2>&1 || exit 1
+git clone -b master https://github.com/Schachjugend/md-tools.git md-tools > /dev/null 2>&1 || exit 1
 
-rm -r exporte/*
+rm -r Spielordnung/Spielordnung*
 
 echo "Erstelle Exporte"
-./md-tools/bin/schachjugend-md spielordnung all ./Spielordnung.md ./exporte || exit 1
+./md-tools/bin/schachjugend-md spielordnung all ./Spielordnung.md ./Spielordnung || exit 1
 
-cd exporte/
+cd Spielordnung/
 
 echo "Push auf gh-pages"
 git config user.name "$GIT_NAME"
