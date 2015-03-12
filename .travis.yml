@@ -1,0 +1,6 @@
+script: ./deploy-ghpages.sh
+env:
+  global:
+    - secure: hXJGp4HwM2nVaeRDoiA2WTgK9UJn/4uJS/4gVuvNHYbJxy/mReGOLVHmaw1Hgv3cGAuI7Emo/rncRm6xPORSZCAZCcj0SHoI5OPqH7OwOuoYkQkOxDq0C13aQPN4U4/CCz0pXiq9zL6aQ+CvlLLx5lLouxSPud35QL5ffCNN4xk=
+    - secure: Snie7rXZ5hlOU4U2clx/1pI6ZY4MMd4xUiwyyziCRtgDgkCNL/yM1K/9LMOVgAJ+4WvzYixO5FjIKAqvDhYS26YqzzAZbMlqTXgBdTGJMS0n8BeK0iyaniIRP4AFACS3S+hRHdxndTDGWYdc5ASx3RVJ0j7TXLjjMeGlnIY/dPg=
+    - secure: R9gNVNZ+G9okgvEIUnWsOluGIoYuFpc0ciw/sYmPEo1TkLPnKjOMC7Rs+X+QWzQZpyBEhKLtYCqnJmYBgD8IJgNBs+J2flkfhc0dJvwCAr9OPZnW7nSqb8OrvGVjkceZKdylgY6W556K+dMVCl3/5emadxpl5WuwPzifmrDjTgE=
