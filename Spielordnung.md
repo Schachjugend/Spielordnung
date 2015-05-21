@@ -150,7 +150,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 4. Allgemeine Bestimmungen für Einzelturniere
 
-> Die Startrangliste wird nach DWZ aufgestellt, bei gleicher DWZ zweier oder mehrerer Spieler hilfsweise alphabetisch.
+> Die Startrangliste wird nach DWZ aufgestellt, bei gleicher DWZ zweier oder mehrerer Spieler hilfsweise nach Elo und alphabetisch.
 
 1.  
     Soweit durch diese Spielordnung nichts anderes bestimmt ist, gelten für alle Einzelturniere die nachfolgenden Bestimmungen.
