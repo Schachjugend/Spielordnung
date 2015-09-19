@@ -34,8 +34,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     *   Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 10 Jahren (DVM U10),
     *   Deutsche Schulschach-Mannschaftsmeisterschaften (DSM).
 
-    > *Die Jugendversammlung hat am 8. März 2015 in Bamberg die Einführung der DEM U12w und U10w beschlossen. Diese Änderung findet zur DEM 2016 Anwendung. Die beschlossene Änderung ist hier dokumentiert: https://github.com/Schachjugend/Spielordnung/pull/26*
-
 1.  
     An diesen Veranstaltungen können nur Jugendliche teilnehmen, die durch ihre Mitgliedsorganisation dem Deutschen Schachbund (DSB) gemeldet sind. Sie müssen
     1.  die deutsche Staatsangehörigkeit besitzen oder
