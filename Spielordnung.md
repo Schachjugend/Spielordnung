@@ -379,7 +379,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     Der Ausrichter erhält einen Freiplatz. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Regionalgruppen verteilt. Das Nähere regeln die Ausführungsbestimmungen. 
 
-    > Der Ausrichter kann mit einer zweiten Mannschaft starten, sofern eine Mannschaft des ausrichtenden Vereins bereits qualifiziert ist und dies zum Erreichen einer geraden Teilnehmerzahl führt.
+    > Der Ausrichter kann mit einer zweiten Mannschaft starten, sofern eine Mannschaft des ausrichtenden Vereins bereits qualifiziert ist und dies zum Erreichen einer geraden Teilnehmerzahl führt. Nimmt der Ausrichter seinen Freiplatz nicht wahr, kann der Platz durch eine andere Mannschaft seiner Regionalgruppe besetzt werden.
 
     > Die Hälfte der nach Abzug der Ausrichterfreiplätze zu vergebenden Plätze einer Meisterschaft wird nach der Anzahl der gemeldeten Jugendlichen auf die Regionalgruppen verteilt (Quantität), die andere Hälfte wird nach den Ergebnissen der letzten drei Jahre auf die Regionalgruppen verteilt (Qualität). Das Auf- und Abrunden der Teilnehmerzahlen erfolgt nach der Addition der beiden Kriterien.
     >
