@@ -4,3 +4,6 @@ env:
     - secure: IE+reb+25/Iv6lWmxCnoLec3HA9lm80swCh/tYmgva2/vGnOZ7OsyoJf5KuIHIUHckIJO2DLIkFLwK8NAAp/w0bQd0kUIlc1Hclm1XkpKha8/SzMZtvEH0lAZ7d0wBxHR1LlnqhQg3Sut+sIIKtDP9U049BWm2N5jgzfNDPfKrM=
     - secure: PfdlBqvWerFsY3x9CzlolCe8fxVGRfWrUKBxJaBq2DU0McO5uM2CwXCguG1Lnz6FmHVUwwE2Rx1wDcceViY8pHMgNAYTEmKYY/yIEneUqVNi83VpBA2bn5NYn/LShrtsN4UWDdpOkTUUwBXPqTGmOHWE8nAh/qEWiG3gnDPPe1U=
     - secure: TtJuD3vTyCxjzLQwW34CS6QRuXEX06jtEr/CDSaB1FxTqg+7zMZW7sYTmqPvD9L/eDl7sQjEHw9vVzMTupVc5onfpBEqOgeoDIKGGKVxxnN64L+yYJc1zmgDgTyweVYvyTH+pdERH0vjreQsLkBEGRouJkNjXh1nDdKp0Of5EVI=
+branches:
+  only:
+  - master

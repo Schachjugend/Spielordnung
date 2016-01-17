@@ -1,4 +1,9 @@
 #!/bin/bash
+if [ "${TRAVIS_PULL_REQUEST}" = "true" ]; then
+  echo "Nur bei Push zum Masterbranch"
+  exit 0
+fi
+
 echo "Richte git ein"
 
 CURRENT_COMMIT=`git rev-parse HEAD`
