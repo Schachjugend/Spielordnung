@@ -2,7 +2,7 @@
 
 Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 2. März 2008 in Bremen beschlossen und zuletzt am 8. März 2015 in Bamberg geändert.
 
-> Die Ausführungsbestimmungen wurden zuletzt von der Jugendversammlung am 8. März 2015 geändert.
+> Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb am 21. Januar 2016 geändert.
 
 ## 1. Grundsätze
 
