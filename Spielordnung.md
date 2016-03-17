@@ -533,6 +533,15 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     Die DSM werden jährlich in fünf Wettkampfklassen (WK) ausgetragen. Teilnahmeberechtigt sind allgemein- und berufsbildende Schulen außer Institutionen, die überwiegend der Erwachsenenbildung dienen.
 
+    > Die Meisterschaften werden nicht nach DWZ oder Elo ausgewertet.
+
+    > Es gelten die FIDE-Regeln (Anhang A: Schnellschach) mit folgenden Abweichungen:
+    >   *   Ein Spieler hat die Partie verloren, wenn er nach der Erklärung des Schiedsrich-
+ters, die Runde sei eröffnet, im Spielbereich eintrifft (Null Karenz).
+    >   *   Abweichend von Anhang A2 der FIDE-Regeln besteht Notationspflicht bis 5 Minuten vor Plättchenfall. Ausgenommen sind die Altersklassen WK IV, G und HR.
+    >   *   Abweichend von Anhang A4 lit. b der FIDE-Regeln führt der Abschluss eines unmöglichen Zuges nicht zum Verlust der Partie. Es gelten insoweit die Regeln des Turnierschachs (Art. 7.5).
+    >   *   Der Anhang G der FIDE-Regeln (Endspurtphase) findet keine Anwendung. Der Schiedsrichter darf jedoch eine Partie, bei der ein Spieler keine Gewinnversuche unternimmt, oder bei technischen Remis (z.B. König und Springer gegen König) remis geben.
+
 1.  
     Spielberechtigt sind
 
@@ -551,22 +560,38 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Ziffer 1.4 findet keine Anwendung.
 
 1.  
-    Jeder Landesverband entsendet je eine Mannschaft in den WK II, III und M; in der WK IV je zwei Mannschaften und in der WK G je nach Kapazität des Ausrichtungsortes bis zu vier Mannschaften. Der Ausrichter erhält einen Freiplatz, in der WK G zwei Freiplätze. Bei der WK G wird ein größeres Feld (Open-Charakter) angestrebt. Der AK Schulschach besetzt gegebenenfalls weitere freie Plätze. Die WK HR wird als offizielles Turnier ausgetragen; die Teilnehmerzahl kann beschränkt werden, wobei mindestens 18 Plätze angeboten werden sollen.
+    Jeder Landesverband entsendet je eine Mannschaft in den WK II, III und M; in der WK IV je zwei Mannschaften und in der WK G je nach Kapazität des Ausrichtungsortes bis zu vier Mannschaften. Der Ausrichter erhält einen Freiplatz, in der WK IV und G zwei Freiplätze. Bei der WK G wird ein größeres Feld (Open-Charakter) angestrebt. Der AK Schulschach besetzt gegebenenfalls weitere freie Plätze. Die WK HR wird als offizielles Turnier ausgetragen; die Teilnehmerzahl kann beschränkt werden, wobei mindestens 18 Plätze angeboten werden sollen. Der AK Schulschach kann Nachrücker für die Plätze nominieren, die von den Landesverbänden und Ausrichtern nicht wahrgenommen werden. In der WK M kann der AK Schulschach je nach Kapazität des Ausrichters bis zu 18 weitere Freiplätze vergeben.
+
+    > Der AK Schulschach beschließt die Feldgröße der WK G im Benehmen mit dem Ausrichter.
 
 1.  
     Jede Mannschaft besteht aus vier Spielern derselben Schule.
+
+    > Die Mannschaften sind nach Spielstärke aufzustellen. Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt. Über begründete Ausnahmen entscheidet der Turnierverantwortliche.
+
+    > Die Pseudo-Wertungszahl für Spieler ohne DWZ beträgt 800. In der WK G beträgt die Pseudo-Wertungszahl 600.
+
+    > Jede Mannschaft wählt aus ihren Spielern einen Mannschaftsführer. Der Mannschaftsführer muss immer einer der gerade eingesetzten Spieler sein; bei Mannschaften mit Ersatzspielern ist ggf. ein Ersatzmannschaftsführer zu wählen. Der Mannschaftsführer ist dem Turnierleiter vor Beginn des Turniers zu benennen.
+
+    > Der Mannschaftsführer darf während des Turniers seinen Spielern raten, die Partie aufzugeben oder fortzusetzen, einen Remisvorschlag anzunehmen oder abzulehnen und ein Remisangebot abzugeben.
+
+    > Mitreisende Betreuer und Elternteile sind Zuschauer. Sie dürfen weder in laufende Partien eingreifen, noch Hinweise geben oder Aufgaben eines Mannschaftsführers wahrnehmen.
 
 1.  
     Die Teilnahme- und Spielberechtigung gemäß Ziffer 16.1, 16.2 und 16.4 ist von den jeweiligen Schulleitungen schriftlich zu bestätigen.
 
 1.  
-    Die Teilnehmer spielen in jeder Wettkampfklasse ein Turnier nach Schweizer System mit sieben Runden, in der WK G und WK HR im Regelfall neun Runden.
+    Die Teilnehmer spielen in jeder Wettkampfklasse ein Turnier nach Schweizer System mit sieben Runden, in der WK IV und WK HR im Regelfall neun Runden, in der WK G mit 11 Runden.
+
+    > Abweichend zu 5.3 gelten folgende Wertungskriterien: Mannschaftspunkte, Buchholzwertung, Anzahl der Brettpunkte, Siegwertung, direkter Vergleich. In der WK G gelten folgende Kriterien: Anzahl der Brettpunkte, Buchholzwertung, Siegwertung, direkter Vergleich.
+
+    > Der Spielbereich ist für Betreuer und Zuschauer nicht zugänglich. Der Ausrichter sorgt für eine entsprechende Absperrung.
 
 1.  
-    Die Spielzeit beträgt je Spieler eine Stunde für die gesamte Partie, in der WK G und WK HR 30 Minuten pro Spieler.
+    Die Spielzeit beträgt je Spieler eine Stunde für die gesamte Partie, in der WK IV und WK HR 30 Minuten pro Spieler, in der WK G 20 Minuten pro Spieler.
 
 1.  
-    Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen der Austragung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen der Ziffern 16.1 bis 16.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
+    Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen und Richtlinien zur Durchführung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen und Ausführungsbestimmungen der Ziffern 16.1 bis 16.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
 
 1.  
     Der Sieger in jeder Wettkampfklasse erhält den Titel "Sieger des Deutschen Schulschach-Mannschaftswettbewerbs [Jahreszahl] der [Bezeichnung der Wettkampfklasse]".
