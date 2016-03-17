@@ -24,6 +24,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     *   Deutsche Einzelmeisterschaften für weibliche Jugendliche unter 12 Jahren (DEM U12w),
     *   Deutsche Einzelmeisterschaften für Jugendliche unter 10 Jahren (DEM U10),
     *   Deutsche Einzelmeisterschaften für weibliche Jugendliche unter 10 Jahren (DEM U10w),
+    *   Deutsche Einzelmeisterschaften für Jugendliche unter 8 Jahren (DEM U8),
     *   Deutsche Meisterschaften für Länder-Jugendmannschaften (DLM),
     *   Deutsche Meisterschaft für Vereins-Jugendmannschaften (DVM U20),
     *   Deutsche Meisterschaft für Vereinsmannschaften der weiblichen Jugend (DVM U20w),
