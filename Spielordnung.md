@@ -545,11 +545,11 @@ ters, die Runde sei eröffnet, im Spielbereich eintrifft (Null Karenz).
 1.  
     Spielberechtigt sind
 
-    für die WK 2 alle Schülerinnen und Schüler, die am 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres das 17. Lebensjahr noch nicht vollendet hatten; 
+    für die WK II alle Schülerinnen und Schüler, die am 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres das 17. Lebensjahr noch nicht vollendet hatten; 
 
-    für die WK 3 alle Schülerinnen und Schüler, die am 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres das 15. Lebensjahr noch nicht vollendet hatten;
+    für die WK III alle Schülerinnen und Schüler, die am 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres das 15. Lebensjahr noch nicht vollendet hatten;
 
-    für die WK 4 alle Schülerinnen und Schüler, die am 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres das 13. Lebensjahr noch nicht vollendet hatten;
+    für die WK IV alle Schülerinnen und Schüler, die am 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres das 13. Lebensjahr noch nicht vollendet hatten;
 
     für die WK M alle Schülerinnen und Abgängerinnen des laufenden Schuljahres, die am 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres das 21. Lebensjahr noch nicht vollendet hatten;
 
