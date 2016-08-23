@@ -25,4 +25,4 @@ Nützliche Links:
 
 # Weitere Formate
 
-Zum Generieren einer [HTML](http://schachjugend.github.io/Spielordnung/Spielordnung.html)- und [PDF](http://schachjugend.github.io/Spielordnung/Spielordnung.pdf)-Version aus der Markdown-Quelldatei steht eine eigene [Toolsammlung](https://github.com/Schachjugend/Spielordnung-Tools) zur Verfügung.
+Zum Generieren einer [HTML](http://schachjugend.github.io/Spielordnung/Spielordnung.html)- und [PDF](http://schachjugend.github.io/Spielordnung/Spielordnung.pdf)-Version aus der Markdown-Quelldatei steht eine eigene [Toolsammlung](https://github.com/Schachjugend/md-tools) zur Verfügung.
