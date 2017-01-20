@@ -498,8 +498,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     An der DVM U12 nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U12.
 
-    > Abweichend von Ziffer 2.5 beträgt die Spielzeit 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
-
 1.  
     Ziffer 9.2 gilt entsprechend.
 
