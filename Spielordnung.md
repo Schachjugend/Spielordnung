@@ -57,7 +57,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     Der Vorstand oder ein von diesem bestimmtes Gremium kann zu dieser Spielordnung Ausführungsbestimmungen erlassen und ändern; bindende Regelungen dürfen die Ausführungsbestimmungen nur enthalten, wenn diese Spielordnung für den betreffenden Bereich keine abschließende Regelung trifft oder die Regelung der Spielordnung der Präzisierung bedarf. Beschließt die Jugendversammlung eine Änderung dieser Spielordnung, durch die ein in den Ausführungsbestimmungen geregelter Bereich nunmehr bereits in der Spielordnung abschließend geregelt wird, so werden entgegenstehende Ausführungsbestimmungen hinfällig. Ziffer 17.8 bleibt unberührt.
 
-    Die Ausführungsbestimmungen in ihrer aktuellen Fassung werden mit der Spielordnung bei allen Turnieren der DSJ durch Aushang vor Ort veröffentlicht; darüber hinaus werden sie auf den Internetseiten der DSJ veröffentlicht.
+    Die Ausführungsbestimmungen in ihrer aktuellen Fassung werden mit der Spielordnung auf den Internetseiten der DSJ veröffentlicht. Sie sind bei allen Turnieren der DSJ gedruckt vorzuhalten.
 
 
 ## 2. Spielweise, Spielregeln, Streitfälle
