@@ -244,7 +244,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     Die Mannschaften sind nach Spielstärke aufzustellen. Nach dem Meldeschluss sind keine Nachmeldungen mehr möglich. Die Reihenfolge darf während des Turniers nicht mehr geändert werden. Falsche Brettbesetzung zieht den Partieverlust für die zu tief eingesetzten Spieler nach sich.
 
-    > Zum Meldeschluss kann ein Kader von bis zu 15 Spielern gemeldet werden. Er darf von dem der Qualifikationsturniere und Landesverbandsmeisterschaften abweichen.
+    > Zum Meldeschluss kann ein Kader von bis zu 15 Spielern gemeldet werden. Er darf von dem der Qualifikationsturniere und Landesverbandsmeisterschaften abweichen. Die Ausschreibung kann eine abweichende Kadergröße festlegen.
 
     > Vor Auslosung der ersten Runde wird die feste Reihenfolge der Spieler in der Startrangliste festgelegt. In die Startrangliste werden nur Spieler aufgenommen, die vor Ort anwesend sind; der Turnierverantwortliche kann Ausnahmen zulassen. Die Startrangliste kann während des Turniers nicht verändert werden.
 
