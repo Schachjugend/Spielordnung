@@ -390,7 +390,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     >
     > Sollte nach der Verteilung Gleichheit bei dem letzten zu vergebenden Platz entstehen, so geht dieser Platz an die Regionalgruppe, die die bestplatzierte Mannschaft des Vorjahres aufzuweisen hat.
 
-    > *Der Arbeitskreis Spielbetrieb hat im Januar 2017 eine leicht modifizierte Berechnungsformel beschlossen, die zur Berechnung der Kontingente zur DVM 2018 in Kraft tritt. Sie kann unter [https://github.com/Schachjugend/Spielordnung/pull/35](https://github.com/Schachjugend/Spielordnung/pull/35) eingesehen werden.*
+    > *Der Arbeitskreis Spielbetrieb hat im Januar 2017 eine leicht modifizierte Berechnungsformel beschlossen, die zur Berechnung der Kontingente zur DVM 2018 in Kraft tritt. Sie kann unter https://github.com/Schachjugend/Spielordnung/pull/35 eingesehen werden.*
 
 1.  
     Bei jeder Deutschen Meisterschaft für Vereinsmannschaften ist grundsätzlich nur eine Mannschaft pro Verein startberechtigt.
