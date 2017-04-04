@@ -209,10 +209,11 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  
     Bei Punktgleichheit gelten bei allen Turnieren nach dem Schweizer System die folgenden Kriterien:
-    1.  Anzahl der Brettpunkte,
+    1.  Sonneborn-Berger-Wertung,
     1.  weitere in den Ausführungsbestimmungen festgelegte Feinwertungen.
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
+    >   1.  Brettpunkte,
     >   1.  Buchholzwertung,
     >   1.  Siegwertung,
     >   1.  direkter Vergleich,
