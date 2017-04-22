@@ -69,7 +69,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Die Verantwortlichen der DSJ werden in ihrer Aufgabe bestärkt, für eine strikte Einhaltung der sportlich fairen Rahmenbedingungen gerade in den unteren Altersklassen zu sorgen. Hierbei ist das Interesse der Spieler in der Regel höher als dasjenige der Zuschauer zu bewerten. Der Schiedsrichter kann die Anzahl der Zuschauer im Spielbereich beschränken.
 
-    > Finden mehrere deutsche Meisterschaften zur gleichen Zeit stand, kann jeder Spieler nur an einer Meisterschaft teilnehmen.
+    > Finden mehrere deutsche Meisterschaften zur gleichen Zeit statt, kann jeder Spieler nur an einer Meisterschaft teilnehmen.
 
     > Gemäß Art. 11.3 lit. b der FIDE-Regeln ist es Spielern untersagt, ein Mobiltelefon oder anderes elektronisches Gerät in das Turnierareal mitzubringen. Bei Verstößen sind Strafen nach Ziffer 3 auszusprechen.
 
