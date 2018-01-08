@@ -302,11 +302,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > *Übergangsbestimmung in Folge der Trennung in U12/U12w sowie U10/U10w: Zur Berechnung werden alle Jungen der U12, alle Mädchen der U12w zugeordnet; entsprechendes für die U10.*
 
 1.  
-    Der Ausrichter erhält in jeder ausgerichteten Altersklasse einen Freiplatz.
-
     In den Altersklassen U14, U12, U12w, U10 und U10w erhalten alle Kaderspieler in ihrer jeweiligen Altersklasse einen Freiplatz.
 
-    Es können jeweils bis zu zehn weitere Freiplätze vergeben werden. Der AKS kann das Freiplatzkontingent bei außergewöhnlichen Umständen um jeweils bis zu vier weitere Freiplätze erhöhen.
+    Es können jeweils bis zu elf weitere Freiplätze vergeben werden. Der AKS kann das Freiplatzkontingent bei außergewöhnlichen Umständen um jeweils bis zu vier weitere Freiplätze erhöhen.
     
     > Der AKS kann das Freiplatzkontingent erhöhen, wenn in einem Jahr eine außergewöhnlich hohe Zahl von starken Spielern in der jeweiligen Altersklasse zusammenkommt. Eine außergewöhnlich hohe Zahl liegt jedenfalls dann vor, wenn die Zahl der Kaderspieler der Zahl der ordentlichen Freiplätze entspricht oder diese übersteigt.
 
