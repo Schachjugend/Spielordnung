@@ -507,7 +507,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 600.
 
 1.  
-    An der DVM U10 nehmen Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 3 sind alle Jugendlichen, die in der laufenden Saison für diesen Verein spielberechtigt sind.
+    An der DVM U10 nehmen Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 sind alle Jugendlichen, die in der laufenden Saison für diesen Verein spielberechtigt sind.
 
     > Abweichend von Ziffer 2.5 beträgt die Spielzeit 60 Minuten. Anhang G4 der FIDE-Regeln findet keine Anwendung.
 
