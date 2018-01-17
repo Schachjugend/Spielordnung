@@ -361,6 +361,13 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > *Die Verwaltungsebene III entspricht den deutschen Landkreisen. Die Gebiete sind jene, die förderfähig im Europa-Programm Interreg III A (z.B. bekannt als "Euregio") sind. Die Gebiete sind aufgeführt in Anhang I der Mitteilung der EU-Kommission 2004/C 226/02, wobei jeweils zu prüfen ist, ob eine gemeinsame Grenze mit der Bundesrepublik Deutschland besteht. Die Mitteilung ist auf der DSJ-Internetseite verfügbar.*
 
 1.  
+    Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 3 sind auf begründeten Antrag zusätzlich Jugendliche, die
+    1.  ihren bisherigen Lebensmittelpunkt aufgegeben und nun in der Bundesrepublik Deutschland haben oder
+    1.  in der Vergangenheit bereits teilnahmeberechtigt waren nach 1.4 Satz 2 Nr. 2 und an Turnieren nach 1.3 teilgenommen haben.
+
+    > Dem Antrag ist zu entsprechen, falls der Jugendliche einen starken Bezug zum deutschen Schach hat. Die Entscheidung hierüber trifft der Vorstand. Er berücksichtigt bei seiner Entscheidung die Einschätzung des Landesverbands, sofern sie vorliegt.
+
+1.  
     Zur Ermittlung der teilnehmenden Mannschaften werden folgende Regionalgruppen gebildet:
 
     Nord: Berlin, Brandenburg, Bremen, Hamburg, Mecklenburg-Vorpommern, Niedersachsen, Sachsen-Anhalt, Schleswig-Holstein;
