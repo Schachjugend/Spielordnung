@@ -38,13 +38,16 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     An diesen Veranstaltungen können nur Jugendliche teilnehmen, die durch ihre Mitgliedsorganisation dem Deutschen Schachbund (DSB) gemeldet sind. Sie müssen
     1.  die deutsche Staatsangehörigkeit besitzen oder
     1.  seit mindestens einem Jahr ihren Lebensmittelpunkt in der Bundesrepublik Deutschland haben oder
+    1.  erstens seit mindestens einem Jahr ihren Lebensmittelpunkt in einem Gebiet entlang der Grenzen zur Bundesrepublik Deutschland haben, das auf Verwaltungsebene III der Nomenklatur statistischer Gebietseinheiten abgegrenzt ist, und zweitens in keinem ausländischen Schachverein Mitglied sein, oder
     1.  teilnahmeberechtigt sein aufgrund einer anderen Bestimmung dieser Ordnung.
     
-    Sofern nichts anderes bestimmt ist, sind dem Nationalen Spielleiter die Voraussetzungen nur auf seine Anforderung nachzuweisen.
+    Sofern nichts anderes bestimmt ist, sind in den Fällen der Nr. 3 die Voraussetzungen dem Nationalen Spielleiter immer, in den anderen Fällen nur auf seine Anforderung nachzuweisen.
 
-    > Zum Nachweis des Lebensmittelpunkts dienen Melde-, Schul- bzw. Ausbildungsbescheinigung oder andere amtliche Bescheinigungen.
+    > Zum Nachweis des Lebensmittelpunkts dienen Melde-, Schul- bzw. Ausbildungsbescheinigung oder andere amtliche Bescheinigungen. Zum Nachweis, dass keine Mitgliedschaft in einem ausländischen Verein besteht, unterzeichnen der Verein, der Jugendliche und ggf. seine gesetzlichen Vertreter eine entsprechende Erklärung.
 
     > Wenn Nachweis über die Voraussetzungen der Spielberechtigung zu führen ist, tritt sie erst mit ihrer Feststellung ein.
+
+    > *Die Verwaltungsebene III entspricht den deutschen Landkreisen. Die Gebiete sind jene, die förderfähig im Europa-Programm Interreg III A (z.B. bekannt als "Euregio") sind. Die Gebiete sind aufgeführt in Anhang I der Mitteilung der EU-Kommission 2004/C 226/02, wobei jeweils zu prüfen ist, ob eine gemeinsame Grenze mit der Bundesrepublik Deutschland besteht. Die Mitteilung ist auf der DSJ-Internetseite verfügbar.*
 
 1.  
     Der Arbeitskreis Spielbetrieb (AKS) unter Leitung des Nationalen Spielleiters ist zuständig für die Austragung aller von der DSJ ausgeschriebenen Turniere. Die Vorbereitung und Turnierleitung obliegt einer vom Arbeitskreis Spielbetrieb (AKS) bestimmten, fachlich geeigneten Person ("Turnierverantwortlicher"); aus Gründen der Zweckmäßigkeit können die Vorbereitung der Turniere und die Turnierleitung vor Ort auf mehrere Personen verteilt werden. Grundsätzlich wird vom AKS eines seiner Mitglieder bestimmt, das die Vorbereitung eines oder mehrerer Turniere koordiniert.
@@ -352,13 +355,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Bei den DVM sind je Mannschaft grundsätzlich die Spieler startberechtigt, die in der der DVM vorangegangenen Saison für diesen Verein spielberechtigt waren. Spieler, die in ebendieser Saison für keinen Verein spielberechtigt waren, sind nur für den Verein startberechtigt, für den sie zum Zeitpunkt der DVM spielberechtigt sind.
 
     > Für die Spielberechtigung der der DVM vorangegangenen Saison ist grundsätzlich der Passschreibungstermin (in der Regel 15. Juli) des Vorjahres der DVM maßgeblich; zu einem anderen Zeitpunkt in Kraft getretene Spielberechtigungen sind von dem Verein nachzuweisen.
-
-1.  
-    Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 3 sind zusätzlich Jugendliche, die erstens seit mindestens einem Jahr ihren Lebensmittelpunkt in einem Gebiet entlang der Grenzen zur Bundesrepublik Deutschland haben, das auf Verwaltungsebene III der Nomenklatur statistischer Gebietseinheiten abgegrenzt ist, und zweitens in keinem ausländischen Schachverein Mitglied sind. Die Voraussetzungen sind dem Nationalen Spielleiter nachzuweisen. 8.1 Satz 2 findet keine Anwendung.
-
-    > Zum Nachweis, dass keine Mitgliedschaft in einem ausländischen Verein besteht, unterzeichnen der Verein, der Jugendliche und ggf. seine gesetzlichen Vertreter eine entsprechende Erklärung.
-
-    > *Die Verwaltungsebene III entspricht den deutschen Landkreisen. Die Gebiete sind jene, die förderfähig im Europa-Programm Interreg III A (z.B. bekannt als "Euregio") sind. Die Gebiete sind aufgeführt in Anhang I der Mitteilung der EU-Kommission 2004/C 226/02, wobei jeweils zu prüfen ist, ob eine gemeinsame Grenze mit der Bundesrepublik Deutschland besteht. Die Mitteilung ist auf der DSJ-Internetseite verfügbar.*
 
 1.  
     Zur Ermittlung der teilnehmenden Mannschaften werden folgende Regionalgruppen gebildet:
