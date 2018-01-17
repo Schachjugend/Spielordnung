@@ -47,7 +47,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Wenn Nachweis über die Voraussetzungen der Spielberechtigung zu führen ist, tritt sie erst mit ihrer Feststellung ein.
 
 1.  
-    Der Arbeitskreis Spielbetrieb (AKS) unter Leitung des Nationalen Spielleiters ist zuständig für die Austragung aller von der DSJ ausgeschriebenen Turniere. Die Vorbereitung und Turnierleitung obliegt einer vom Arbeitskreis Spielbetrieb (AKS) bestimmten, fachlich geeigneten Person ("Turnierverantwortlicher"); aus Gründen der Zweckmäßigkeit können die Vorbereitung der Turniere und die Turnierleitung vor Ort auf mehrere Personen verteilt werden. Wird vom AKS kein Turnierverantwortlicher bestimmt, so ist dies im Vorfeld des Turniers der Nationale Spielleiter und vor Ort ein vom Nationalen Spielleiter benannter Schiedsrichter.
+    Der Arbeitskreis Spielbetrieb (AKS) unter Leitung des Nationalen Spielleiters ist zuständig für die Austragung aller von der DSJ ausgeschriebenen Turniere. Die Vorbereitung und Turnierleitung obliegt einer vom Arbeitskreis Spielbetrieb (AKS) bestimmten, fachlich geeigneten Person ("Turnierverantwortlicher"); aus Gründen der Zweckmäßigkeit können die Vorbereitung der Turniere und die Turnierleitung vor Ort auf mehrere Personen verteilt werden. Wird vom AKS kein Turnierverantwortlicher bestimmt, so ist dies der Nationale Spielleiter oder ein vom Nationalen Spielleiter benannter Schiedsrichter.
 
     > Aus Gründen der Zweckmäßigkeit kann auch eine Person, die nicht Mitglied des AKS ist, als Turnierverantwortlicher benannt werden. Der AKS ist gegenüber dem Turnierverantwortlichen weisungsbefugt.
 
