@@ -414,7 +414,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Für die Spielberechtigung der laufenden Saison ist grundsätzlich der Passschreibungstermin (in der Regel 15. Juli) des laufenden Jahres der DVM maßgeblich; zu einem anderen Zeitpunkt in Kraft getretene Spielberechtigungen sind von dem Verein nachzuweisen.
 
 1.  
-    Abweichend zu 8.2 und 8.3 wird die DVM U20w als offenes Turnier ausgetragen. 8.5 findet keine Anwendung. Die Teilnehmerzahl kann beschränkt werden, wobei mindestens 16 Plätze angeboten werden sollen. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U20.
+    Abweichend zu 8.2 wird die DVM U20w als offenes Turnier ausgetragen. 8.4 findet keine Anwendung. Die Teilnehmerzahl kann beschränkt werden, wobei mindestens 16 Plätze angeboten werden sollen. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U20.
 
     > Sofern eine Beschränkung der Teilnehmerzahl erfolgt, kann der Turnierverantwortliche unter Berücksichtigung folgender Kriterien Plätze vergeben:
     >   *   Reihenfolge der Anmeldungen
@@ -516,7 +516,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U10 [Jahreszahl]".
 
 1.  
-    Abweichend zu 8.2 und 8.3 wird die DVM U10 als offenes Turnier ausgetragen. 8.5 findet keine Anwendung. Die Teilnehmerzahl kann beschränkt werden, wobei mindestens 25 Plätze angeboten werden sollen. Jeder Landesverband bekommt mindestens einen Platz, dazu gibt es Freiplätze.
+    Abweichend zu 8.2 wird die DVM U10 als offenes Turnier ausgetragen. 8.4 findet keine Anwendung. Die Teilnehmerzahl kann beschränkt werden, wobei mindestens 25 Plätze angeboten werden sollen. Jeder Landesverband bekommt mindestens einen Platz, dazu gibt es Freiplätze.
 
     > Ziel ist es, dass alle interessierten Vereine mit einer Mannschaft teilnehmen können. Wenn die Kapazitäten ausreichen, sind mehrere Mannschaften eines Vereins zulässig. Sind die Kapazitäten beschränkt, vergibt der Turnierverantwortliche Freiplätze. In diesem Falle melden die Länder dem Turnierverantwortlichen bis zum 01.11. einen Verein ihres Landes, der auf jeden Fall startberechtigt ist.
 
