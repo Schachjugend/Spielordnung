@@ -536,9 +536,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Es gelten die FIDE-Regeln (Anhang A: Schnellschach) mit folgenden Abweichungen:
     >   *   Ein Spieler hat die Partie verloren, wenn er nach der Erklärung des Schiedsrichters, die Runde sei eröffnet, im Spielbereich eintrifft (Null Karenz).
-    >   *   Abweichend von Anhang A2 der FIDE-Regeln besteht Notationspflicht bis 5 Minuten vor Plättchenfall. Ausgenommen sind die Altersklassen WK IV, G und HR.
-    >   *   Abweichend von Anhang A4 lit. b der FIDE-Regeln führt der Abschluss eines unmöglichen Zuges nicht zum Verlust der Partie. Es gelten insoweit die Regeln des Turnierschachs (Art. 7.5).
-    >   *   Der Anhang G der FIDE-Regeln (Endspurtphase) findet keine Anwendung. Der Schiedsrichter darf jedoch eine Partie, bei der ein Spieler keine Gewinnversuche unternimmt, oder bei technischen Remis (z.B. König und Springer gegen König) remis geben.
+    >   *   Abweichend von Anhang A.2 der FIDE-Regeln besteht Notationspflicht bis 5 Minuten vor Plättchenfall. Ausgenommen sind die Altersklassen WK IV, G und HR.
+    >   *   Der Anhang III.4 der FIDE-Regeln zur Endspurtphase findet keine Anwendung. Der Schiedsrichter darf jedoch eine Partie, bei der ein Spieler keine Gewinnversuche unternimmt, oder bei technischen Remis (z.B. König und Springer gegen König) remis geben.
 
 1.  
     Spielberechtigt sind
