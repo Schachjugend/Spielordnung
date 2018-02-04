@@ -251,7 +251,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt, es sei denn, die Wertungszahl beider Spieler ist kleiner oder gleich 1000. Über begründete Ausnahmen entscheidet der Turnierverantwortliche.
 
-    > Es können in Mannschaftswettkämpfen nur Spieler aufgestellt werden, die vor Ort anwesend sind.
+    > Bei Meisterschaften, die in einem ununterbrochenen Zeitraum am gleichen Ort stattfinden, können in Mannschaftswettkämpfen nur Spieler aufgestellt werden, die vor Ort anwesend sind.
 
     > Bretter können bei Namensnennung freigelassen werden. Das letzte Brett kann ohne Namensnennung freigelassen werden.
 
