@@ -50,6 +50,13 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > *Die Verwaltungsebene III entspricht den deutschen Landkreisen. Die Gebiete sind jene, die förderfähig im Europa-Programm Interreg III A (z.B. bekannt als "Euregio") sind. Die Gebiete sind aufgeführt in Anhang I der Mitteilung der EU-Kommission 2004/C 226/02, wobei jeweils zu prüfen ist, ob eine gemeinsame Grenze mit der Bundesrepublik Deutschland besteht. Die Mitteilung ist auf der DSJ-Internetseite verfügbar.*
 
 1.  
+    Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 sind auf begründeten Antrag zusätzlich Jugendliche, die
+    1.  ihren bisherigen Lebensmittelpunkt aufgegeben und nun in der Bundesrepublik Deutschland haben oder
+    1.  in der Vergangenheit bereits teilnahmeberechtigt waren nach 1.4 Satz 2 Nr. 2 und an Turnieren nach 1.3 teilgenommen haben.
+
+    > Dem Antrag ist zu entsprechen, falls der Jugendliche einen starken Bezug zum deutschen Schach hat. Die Entscheidung hierüber trifft der Vorstand. Er berücksichtigt bei seiner Entscheidung die Einschätzung des Landesverbands, sofern sie vorliegt.
+
+1.  
     Der Arbeitskreis Spielbetrieb (AKS) unter Leitung des Nationalen Spielleiters ist zuständig für die Austragung aller von der DSJ ausgeschriebenen Turniere. Die Vorbereitung und Turnierleitung obliegt einer vom Arbeitskreis Spielbetrieb (AKS) bestimmten, fachlich geeigneten Person ("Turnierverantwortlicher"); aus Gründen der Zweckmäßigkeit können die Vorbereitung der Turniere und die Turnierleitung vor Ort auf mehrere Personen verteilt werden. Wird vom AKS kein Turnierverantwortlicher bestimmt, so ist dies der Nationale Spielleiter oder ein vom Nationalen Spielleiter benannter Schiedsrichter.
 
     > Aus Gründen der Zweckmäßigkeit kann auch eine Person, die nicht Mitglied des AKS ist, als Turnierverantwortlicher benannt werden. Der AKS ist gegenüber dem Turnierverantwortlichen weisungsbefugt.
