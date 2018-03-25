@@ -285,9 +285,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     * U12 und U10: jeweils mindestens 50 Jugendliche
 
 1.  
-    In den Altersklassen U18, U18w, U16, U16w, U14 und U14w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U12, U12w, U10 und U10w jeweils ein Turnier mit elf Runden nach Schweizer System ausgetragen.
+    In den Altersklassen U18, U18w, U16, U16w, U14, U14w, U12 und U12w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U10 und U10w jeweils ein Turnier mit elf Runden nach Schweizer System ausgetragen.
 
-    > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U12, U12w, U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
+    > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
 
     > *Die Jugendversammlung 2018 hat beschlossen, die DEM U12 und U12w ab 2019 mit neun Runden und der längeren Bedenkzeit auszuspielen. Der beschlossene Ordnungstext kann unter https://github.com/Schachjugend/Spielordnung/pull/53 eingesehen werden.*
 
