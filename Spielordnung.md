@@ -512,7 +512,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 600.
 
 1.  
-    An der DVM U10 nehmen Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 sind alle Jugendlichen, die in der laufenden Saison für diesen Verein spielberechtigt sind.
+    An der DVM U10 nehmen 40 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 sind alle Jugendlichen, die in der laufenden Saison für diesen Verein spielberechtigt sind.
 
     > Abweichend von Ziffer 2.5 beträgt die Spielzeit 60 Minuten. Anhang III.4 der FIDE-Regeln findet keine Anwendung.
 
@@ -523,10 +523,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U10 [Jahreszahl]".
 
 1.  
-    Abweichend zu 8.2 wird die DVM U10 als offenes Turnier ausgetragen. 8.4 findet keine Anwendung. Die Teilnehmerzahl kann beschränkt werden, wobei mindestens 25 Plätze angeboten werden sollen. Jeder Landesverband bekommt mindestens einen Platz, dazu gibt es Freiplätze.
+    Abweichend zu 8.2 und 8.3 ergibt sich das Teilnehmerfeld wie folgt: Der Ausrichter erhält einen Freiplatz. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Landesverbände verteilt. Das Nähere regeln die Ausführungsbestimmungen.
 
-    > Ziel ist es, dass alle interessierten Vereine mit einer Mannschaft teilnehmen können. Wenn die Kapazitäten ausreichen, sind mehrere Mannschaften eines Vereins zulässig. Sind die Kapazitäten beschränkt, vergibt der Turnierverantwortliche Freiplätze. In diesem Falle melden die Länder dem Turnierverantwortlichen bis zum 01.11. einen Verein ihres Landes, der auf jeden Fall startberechtigt ist.
-
+    > AB zu 8.3 gilt entsprechend für die Landesverbände.
 
 ## 16. DSM
 
