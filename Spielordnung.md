@@ -579,14 +579,14 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Die Teilnahme- und Spielberechtigung gemäß Ziffer 16.1, 16.2 und 16.4 ist von den jeweiligen Schulleitungen schriftlich zu bestätigen.
 
 1.  
-    Die Teilnehmer spielen in jeder Wettkampfklasse ein Turnier nach Schweizer System mit sieben Runden, in der WK IV und WK HR im Regelfall neun Runden, in der WK G mit 11 Runden.
+    Die Teilnehmer spielen in jeder Wettkampfklasse ein Turnier nach Schweizer System mit sieben Runden, in der WK IV, WK HR und in der WK G im Regelfall neun Runden.
 
     > Abweichend zu 5.3 gelten folgende Wertungskriterien: Mannschaftspunkte, Buchholzwertung, Anzahl der Brettpunkte, Siegwertung, direkter Vergleich. In der WK G gelten folgende Kriterien: Anzahl der Brettpunkte, Buchholzwertung, Siegwertung, direkter Vergleich.
 
     > Der Spielbereich ist für Betreuer und Zuschauer nicht zugänglich. Der Ausrichter sorgt für eine entsprechende Absperrung.
 
 1.  
-    Die Spielzeit beträgt je Spieler eine Stunde für die gesamte Partie, in der WK IV und WK HR 30 Minuten pro Spieler, in der WK G 20 Minuten pro Spieler.
+    Die Spielzeit beträgt je Spieler eine Stunde für die gesamte Partie, in der WK IV, WK HR und in der WK G 30 Minuten pro Spieler.
 
 1.  
     Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen und Richtlinien zur Durchführung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen und Ausführungsbestimmungen der Ziffern 16.1 bis 16.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
