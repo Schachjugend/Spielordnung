@@ -102,7 +102,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Anträge auf eine Ausnahme von der Verpflichtung, in der vermittelten Unterkunft übernachten zu müssen, werden im Einzelfall geprüft. Der Turnierverantwortliche berücksichtigt bei seiner Entscheidung die Einschätzung des Landesverbands, sofern sie vorliegt. Lehnt der Turnierverantwortliche den Antrag ab und ging er mindestens drei Wochen vor Beginn der Meisterschaft ein, so kann der Antragsteller binnen zwei Wochen die Entscheidung vom geschäftsführenden Vorstand kontrollieren lassen.
 
 1.  
-    Wird eine Meldefrist überschritten, wird schriftlich eine angemessene Nachfrist gesetzt. Bleibt auch die Nachfrist ungenutzt, hat der Turnierverantwortliche in Abstimmung mit dem AKS das Recht, den Platz anderweitig zu vergeben.
+    Wird eine Melde- oder Zahlungsfrist überschritten, wird schriftlich eine angemessene Nachfrist gesetzt. Bleibt auch die Nachfrist ungenutzt, hat der Turnierverantwortliche in Abstimmung mit dem AKS das Recht, den Spieler oder die Mannschaft von der Teilnahme auszuschließen und den Platz anderweitig zu vergeben.
 
 1.  
     Sofern für einzelne Meisterschaften in dieser Spielordnung oder den Ausführungsbestimmungen nichts anderes bestimmt ist, beträgt die Spielzeit 90 Minuten für 40 Züge, danach zusätzliche 30 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
