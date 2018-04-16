@@ -2,7 +2,7 @@
 
 Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 2. März 2008 in Bremen beschlossen und zuletzt am 4. März 2018 in Göttingen geändert.
 
-> Die Ausführungsbestimmungen wurden zuletzt von der Jugendversammlung am 4. März 2018 geändert.
+> Die Ausführungsbestimmungen wurden zuletzt vom Vorstand am 16. April 2018 geändert.
 
 ## 1. Grundsätze
 
