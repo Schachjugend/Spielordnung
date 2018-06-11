@@ -378,6 +378,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     Die jeweiligen Landesverbände organisieren den zur Ermittlung der Qualifikanten notwendigen Spielbetrieb in eigener Verantwortung.
 
+    > Sofern sich eine Regionalgruppe aus mehreren Landesverbänden zusammensetzt und diese sich nicht auf einen Austragungsmodus zur Ermittlung der Qualifikanten in einer Altersklasse einigen, kann jeder dieser Landesverbände beim Nationalen Spielleiter die verbindliche Festlegung des Austragungsmodus beantragen.
+
 1.  
     Der Ausrichter erhält einen Freiplatz. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Regionalgruppen verteilt. Das Nähere regeln die Ausführungsbestimmungen. 
 
