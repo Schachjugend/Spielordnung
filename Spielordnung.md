@@ -378,6 +378,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     Die jeweiligen Landesverbände organisieren den zur Ermittlung der Qualifikanten notwendigen Spielbetrieb in eigener Verantwortung.
 
+    > Sollte eine Regionalgruppe zur Ermittlung der Qualifikanten einer Altersklasse eine Regionalgruppenmeisterschaft ausspielen, so soll diese Meisterschaft mindestens sechs Plätze bieten.
+
 1.  
     Der Ausrichter erhält einen Freiplatz. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Regionalgruppen verteilt. Das Nähere regeln die Ausführungsbestimmungen. 
 
