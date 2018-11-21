@@ -520,6 +520,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Abweichend von Ziffer 2.5 beträgt die Spielzeit 60 Minuten. Anhang III.4 der FIDE-Regeln findet keine Anwendung.
 
+    > Abweichend zu AB zu 2.5 (1) erhält jeder Spieler, der nach der Erklärung des Schiedsrichters, die Runde sei eröffnet (Spielbeginn), im Spielbereich eintrifft, eine Zeitstrafe von 15 Minuten, vorausgesetzt dass dies nicht seine erste Verspätung in diesem Turnier war.
+
 1.  
     Ziffer 9.2 gilt entsprechend.
 
