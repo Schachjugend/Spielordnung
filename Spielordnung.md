@@ -85,8 +85,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Gemäß Art. 9.1.1 der FIDE-Regeln ist es Spielern ohne Zustimmung des Schiedsrichters nicht gestattet, vor Vollendung des 20. Zuges Remis zu vereinbaren. Umgehen die Spieler diese Regelung, kann dies nach Ziffer 3 bestraft werden.
 
-    > Abweichend von Art. 7.5.5 der FIDE-Regeln verliert ein Spieler erst nach dem dritten regelwidrigen Zug die Partie. Art. 7.5.5 der FIDE-Regeln ist analog auf den ersten und zweiten regelwidrigen Zug anzuwenden.
-
 1.  
     Der Schiedsrichter berücksichtigt bei der Anwendung der FIDE-Regeln den Entwicklungsstand des Spielers und kann in begründeten Ausnahmefällen im Sinne einer altersgemäßen Handhabung von einzelnen Regeln abweichende Entscheidungen treffen.
 
@@ -521,6 +519,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Abweichend von Ziffer 2.5 beträgt die Spielzeit 60 Minuten. Es findet Anhang III der FIDE-Regeln ohne III.4 Anwendung.
 
     > Abweichend zu AB zu 2.5 (1) erhält jeder Spieler, der nach der Erklärung des Schiedsrichters, die Runde sei eröffnet (Spielbeginn), im Spielbereich eintrifft, eine Zeitstrafe von 15 Minuten, vorausgesetzt dass dies nicht seine erste Verspätung in diesem Turnier war.
+
+    > Abweichend von Art. 7.5.5 der FIDE-Regeln verliert ein Spieler erst nach dem dritten regelwidrigen Zug die Partie. Art. 7.5.5 der FIDE-Regeln ist analog auf den ersten und zweiten regelwidrigen Zug anzuwenden.
 
 1.  
     Ziffer 9.2 gilt entsprechend.
