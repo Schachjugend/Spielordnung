@@ -289,8 +289,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
 
-    > *Die Jugendversammlung 2018 hat beschlossen, die DEM U12 und U12w ab 2019 mit neun Runden und der längeren Bedenkzeit auszuspielen. Der beschlossene Ordnungstext kann unter https://github.com/Schachjugend/Spielordnung/pull/53 eingesehen werden.*
-
 1.  
     Die Teilnehmerfelder für die DEM U18, U18w, U16, U16w und U14w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
 
