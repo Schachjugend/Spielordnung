@@ -514,7 +514,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     An der DVM U10 nehmen 40 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 sind alle Jugendlichen, die in der laufenden Saison für diesen Verein spielberechtigt sind.
 
-    > Abweichend von Ziffer 2.5 beträgt die Spielzeit 60 Minuten. Es findet Anhang III der FIDE-Regeln ohne III.4 Anwendung.
+    > Abweichend von Ziffer 2.5 beträgt die Spielzeit 55 Minuten bei zusätzlichen 5 Sekunden pro Zug von Beginn an.
 
     > Abweichend zu AB zu 2.5 (1) erhält jeder Spieler, der nach der Erklärung des Schiedsrichters, die Runde sei eröffnet (Spielbeginn), im Spielbereich eintrifft, eine Zeitstrafe von 15 Minuten, vorausgesetzt dass dies nicht seine erste Verspätung in diesem Turnier war.
 
