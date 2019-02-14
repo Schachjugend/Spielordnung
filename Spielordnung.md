@@ -329,13 +329,13 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     An der DLM nehmen Landesverbandsmannschaften teil. Jeder Landesverband kann mindestens eine Mannschaft stellen. Der Ausrichter darf eine weitere Landesauswahl melden.
 
-    > Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Regionalauswahl gebildet werden. Für die Regionalauswahl sind alle Spieler einer Regionalgruppe nach 8.3 spielberechtigt. Die Regionalauswahl sollte möglichst aus der Region kommen, in der der Ausrichtungsort liegt.
+    Der AKS wird ermächtigt, im Jahr 2020 bis zu 11 Mannschaften aus dem Ausland zur DLM zuzulassen. Die Mannschaften sollen Nationen oder Regionen (vergleichbar den Bundesländern) repräsentieren. Der AKS wird ermächtigt, insoweit von der Spielordnung abzuweichen und mit der Ausschreibung die Teilnahmemodalitäten festzulegen.
 
-    > Der AKS wird ermächtigt, im Jahr 2020 bis zu 11 Mannschaften aus dem Ausland zur DLM zuzulassen. Die Mannschaften sollen Nationen oder Regionen (vergleichbar den Bundesländern) repräsentieren. Der AKS wird ermächtigt, insoweit von der Spielordnung abzuweichen und mit der Ausschreibung die Teilnahmemodalitäten festzulegen.
-    >
-    > Es wird nur eine Mannschaft pro Landesverband zugelassen. Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Zweitmannschaft eines Landesverbandes zugelassen werden.
-    >
-    > Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 sind für ausländische Mannschaften alle Jugendlichen, die in der FIDE-Liste der jeweiligen Nation geführt werden oder deren Staatsbürgerschaft besitzen.
+    Es wird nur eine Mannschaft pro Landesverband zugelassen. Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Zweitmannschaft eines Landesverbandes zugelassen werden.
+    
+    Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 sind für ausländische Mannschaften alle Jugendlichen, die in der FIDE-Liste der jeweiligen Nation geführt werden oder deren Staatsbürgerschaft besitzen.
+
+    > Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Regionalauswahl gebildet werden. Für die Regionalauswahl sind alle Spieler einer Regionalgruppe nach 8.3 spielberechtigt. Die Regionalauswahl sollte möglichst aus der Region kommen, in der der Ausrichtungsort liegt.
 
 1.  
     Bei den DLM sind je Mannschaft nur Spieler startberechtigt, die zum Zeitpunkt der DLM für einen Verein des jeweiligen Landesverbandes spielberechtigt sind. Findet ein Land nicht genügend eigene starke Spieler um die DLM zu beschicken, können Spielgemeinschaften mit bis zu vier Spielern zugelassen werden, die nach Satz 1 für einen anderen Landesverband startberechtigt sind.
@@ -356,12 +356,12 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     Es wird ein Turnier über sieben Runden nach Schweizer System ausgetragen.
 
-    > Im Jahr 2020 wird ein Turnier über neun Runden nach Schweizer System ausgetragen.
+    Im Jahr 2020 wird ein Turnier über neun Runden nach Schweizer System ausgetragen.
 
 1.  
     Der Sieger erhält den Titel "Deutscher Jugendmannschaftsmeister der Länder [Jahreszahl]".
 
-    > Im Jahr 2020 erhält der Sieger den Titel "Internationaler Deutscher Ländermeister 2020".
+    Im Jahr 2020 erhält der Sieger den Titel "Internationaler Deutscher Ländermeister 2020".
 
 
 ## 8. Allgemeine Bestimmungen zu den Deutschen Meisterschaften für Vereinsmannschaften
