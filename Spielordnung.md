@@ -391,7 +391,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Sofern sich eine Regionalgruppe aus mehreren Landesverbänden zusammensetzt und diese sich nicht auf einen Austragungsmodus zur Ermittlung der Qualifikanten in einer Altersklasse einigen, kann jeder dieser Landesverbände beim Nationalen Spielleiter die verbindliche Festlegung des Austragungsmodus beantragen.
 
 1.  
-    Der Ausrichter erhält einen Freiplatz. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Regionalgruppen verteilt. Das Nähere regeln die Ausführungsbestimmungen. 
+    Der Ausrichter erhält einen Freiplatz, es können bis zu zwei weitere Freiplätze vergeben werden. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Regionalgruppen verteilt. Das Nähere regeln die Ausführungsbestimmungen.
+
+    > Die Freiplätze vergibt der Spielausschuss.
 
     > Der Ausrichter kann mit einer zweiten Mannschaft starten, sofern dies zum Erreichen einer geraden Teilnehmerzahl führt.
 
@@ -542,7 +544,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U10 [Jahreszahl]".
 
 1.  
-    Abweichend zu 8.2 und 8.3 ergibt sich das Teilnehmerfeld wie folgt: Der Ausrichter erhält einen Freiplatz. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Landesverbände verteilt. Das Nähere regeln die Ausführungsbestimmungen.
+    Abweichend zu 8.2 und 8.3 ergibt sich das Teilnehmerfeld wie folgt: Der Ausrichter erhält einen Freiplatz, es können bis zu vier weitere Freiplätze vergeben werden. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Landesverbände verteilt. Das Nähere regeln die Ausführungsbestimmungen.
+
+    > Die Freiplätze vergibt der Spielausschuss.
 
     > AB zu 8.3 gilt entsprechend für die Landesverbände.
 
