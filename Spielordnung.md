@@ -565,7 +565,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     Spielberechtigt sind
 
-    für die WK II alle Schülerinnen und Schüler, die am 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres das 17. Lebensjahr noch nicht vollendet hatten; 
+    für die WK II alle Schülerinnen und Schüler, die am 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres das 18. Lebensjahr noch nicht vollendet hatten; 
 
     für die WK III alle Schülerinnen und Schüler, die am 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres das 15. Lebensjahr noch nicht vollendet hatten;
 
@@ -585,8 +585,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Der AK Schulschach beschließt die Feldgröße der WK G im Benehmen mit dem Ausrichter.
 
 1.  
-    Jede Mannschaft besteht aus vier Spielern derselben Schule.
-
+    Jede Mannschaft der WK III, IV, M, G, H+R besteht aus vier Spielern derselben Schule. In der WK II besteht sie aus 6 Spielern.
     > Die Mannschaften sind nach Spielstärke aufzustellen. Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt. Über begründete Ausnahmen entscheidet der Turnierverantwortliche.
 
     > Die Pseudo-Wertungszahl für Spieler ohne DWZ beträgt 800. In der WK G beträgt die Pseudo-Wertungszahl 600.
