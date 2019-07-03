@@ -41,7 +41,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     1.  erstens seit mindestens einem Jahr ihren Lebensmittelpunkt in einem Gebiet entlang der Grenzen zur Bundesrepublik Deutschland haben, das auf Verwaltungsebene III der Nomenklatur statistischer Gebietseinheiten abgegrenzt ist, und zweitens in keinem ausländischen Schachverein Mitglied sein, oder
     1.  teilnahmeberechtigt sein aufgrund einer anderen Bestimmung dieser Ordnung.
     
-    Sofern nichts anderes bestimmt ist, sind in den Fällen der Nr. 3 die Voraussetzungen dem Nationalen Spielleiter immer, in den anderen Fällen nur auf seine Anforderung nachzuweisen.
+    Sofern nichts anderes bestimmt ist, sind in den Fällen der Nr. 3 die Voraussetzungen dem zuständigen Nationalen Spielleiter immer, in den anderen Fällen nur auf seine Anforderung nachzuweisen.
 
     > Zum Nachweis des Lebensmittelpunkts dienen Melde-, Schul- bzw. Ausbildungsbescheinigung oder andere amtliche Bescheinigungen. Zum Nachweis, dass keine Mitgliedschaft in einem ausländischen Verein besteht, unterzeichnen der Verein, der Jugendliche und ggf. seine gesetzlichen Vertreter eine entsprechende Erklärung.
 
@@ -57,7 +57,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Dem Antrag ist zu entsprechen, falls der Jugendliche einen starken Bezug zum deutschen Schach hat. Die Entscheidung hierüber trifft der Vorstand. Er berücksichtigt bei seiner Entscheidung die Einschätzung des Landesverbands, sofern sie vorliegt.
 
 1.  
-    Der Arbeitskreis Spielbetrieb (AKS) unter Leitung des Nationalen Spielleiters ist zuständig für die Austragung aller von der DSJ ausgeschriebenen Turniere. Die Vorbereitung und Turnierleitung obliegt einer vom Arbeitskreis Spielbetrieb (AKS) bestimmten, fachlich geeigneten Person ("Turnierverantwortlicher"); aus Gründen der Zweckmäßigkeit können die Vorbereitung der Turniere und die Turnierleitung vor Ort auf mehrere Personen verteilt werden. Wird vom AKS kein Turnierverantwortlicher bestimmt, so ist dies der Nationale Spielleiter oder ein vom Nationalen Spielleiter benannter Schiedsrichter.
+    Der Arbeitskreis Spielbetrieb (AKS) unter Leitung der Nationalen Spielleiter ist zuständig für die Austragung aller von der DSJ ausgeschriebenen Turniere. Die Vorbereitung und Turnierleitung obliegt einer vom Spielausschuss bestimmten, fachlich geeigneten Person ("Turnierverantwortlicher"); aus Gründen der Zweckmäßigkeit können die Vorbereitung der Turniere und die Turnierleitung vor Ort auf mehrere Personen verteilt werden. Wird vom Spielausschuss kein Turnierverantwortlicher bestimmt, so ist dies der zuständige Nationale Spielleiter oder ein vom zuständigen Nationalen Spielleiter benannter Schiedsrichter.
 
     > Aus Gründen der Zweckmäßigkeit kann auch eine Person, die nicht Mitglied des AKS ist, als Turnierverantwortlicher benannt werden. Der AKS ist gegenüber dem Turnierverantwortlichen weisungsbefugt.
 
@@ -72,7 +72,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 2. Spielweise, Spielregeln, Streitfälle
 
-> Soweit in der Spielordnung oder in den Ausführungsbestimmungen DWZ-Zahlen relevant sind, bestimmt der Nationale Spielleiter den maßgeblichen Stichtag.
+> Soweit in der Spielordnung oder in den Ausführungsbestimmungen DWZ-Zahlen relevant sind, bestimmt der zuständige Nationale Spielleiter den maßgeblichen Stichtag.
 
 1.  
     Die Spielregeln des Weltschachbundes (FIDE), die Rechts- und Verfahrensordnung der DSJ, die Satzung des DSB und die Jugendordnung der DSJ bilden einen Bestandteil dieser Spielordnung. Sie sind grundsätzlich anzuwenden, wenn diese Spielordnung keine abschließende Regelung trifft. Abweichungen von den genannten Regeln sind im Sinne einer kindes- und jugendgemäßen Handhabung möglich, wenn sie vorher im Rahmen der Ausschreibung oder eines Aushangs vor Ort angekündigt war.
@@ -146,7 +146,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Die Möglichkeit, Strafen nach Art. 12.9 der FIDE-Regeln zu verhängen, bleibt unberührt.
 
 1.  
-    Über die in Ziffer 3.1 genannten Maßnahmen hinaus kann der Nationale Spielleiter der DSJ die folgenden Strafen verhängen:
+    Über die in Ziffer 3.1 genannten Maßnahmen hinaus kann der Spielausschuss der DSJ die folgenden Strafen verhängen:
     1.  Geldbußen bis zu 1.000 Euro,
     1.  Spielsperren für die Dauer von bis zu zwei Jahren.
 
@@ -192,7 +192,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     An Deutschen Einzelmeisterschaften, die der Dopingkontrolle unterliegen, kann nur teilnehmen, wer spätestens bei Turnierbeginn eine Vereinbarung mit der DSJ abschließt, wonach er sich den Regelungen der Nationalen Anti Doping Agentur (NADA) über die Durchführung von Dopingkontrollen, dem Verfahren vor dem Schiedsgericht des DSB, der Schiedsgerichtsgerichtsbarkeit des Deutschen Olympischen Sportbundes und des Cour d'Arbitrage sowie den sich aus dem NADA-Code ergebenden Folgen bei Feststellung verbotener Substanzen im Urin oder bei Verweigerung der Dopingkontrollen oder Verletzung der sonst im NADA-Code geregelten Pflichten unterwirft.
 
-    > Für die DSJ zeichnet der Nationale Spielleiter oder ein Vorsitzender.
+    > Für die DSJ zeichnet der zuständige Nationale Spielleiter oder ein Vorsitzender.
 
     > *Gemäß Vereinbarung zwischen DSB und NADA unterliegen derzeit die Altersklassen U18 und U18w der Dopingkontrolle.*
 
@@ -318,7 +318,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Der DBSB kann in den Altersklassen U18, U18w, U16, U16w und U14w je einen, in den Altersklassen U14, U12, U12w, U10 und U10w je zwei Freiplatzkandidaten nominieren. Dem Freiplatzantrag ist zu entsprechen, wenn die Spielstärke des Kandidaten dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung hierüber trifft der Vorstand. Ein so vergebener Freiplatz zählt bei der Entscheidung des AKS über die Erhöhung des Freiplatzkontingents nicht als ordentlicher Freiplatz.
 
-    > Die weiteren Freiplätze vergeben der Nationale Spielleiter und der Beauftragte für Leistungssport auf Vorschlag des Bundesnachwuchstrainers.
+    > Die weiteren Freiplätze vergeben der zuständige Nationale Spielleiter und der Beauftragte für Leistungssport auf Vorschlag des Bundesnachwuchstrainers.
 
 1.  
     Der Sieger erhält den Titel "Deutscher Jugendmeister [jeweilige Altersklasse] [Jahreszahl]" bzw. "Deutsche Jugendmeisterin [jeweilige Altersklasse] [Jahreszahl]".
@@ -342,7 +342,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Der Turnierverantwortliche entscheidet über Zulassung einer Spielgemeinschaft auf begründeten Antrag.
     >
-    > Zwei Länder können den Antrag gemeinsam stellen, wenn für jedes Land die Voraussetzungen nach 7.2 Satz 2 erfüllt sind. Der Landesverband kann die Entscheidung innerhalb von zwei Wochen vom Nationalen Spielleiter kontrollieren lassen.
+    > Zwei Länder können den Antrag gemeinsam stellen, wenn für jedes Land die Voraussetzungen nach 7.2 Satz 2 erfüllt sind. Der Landesverband kann die Entscheidung innerhalb von zwei Wochen vom Spielauschuss kontrollieren lassen.
     >
     > Die Mannschaft firmiert als Spielgemeinschaft beider beteiligter Länder.
 
@@ -388,7 +388,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Sollte eine Regionalgruppe zur Ermittlung der Qualifikanten einer Altersklasse eine Regionalgruppenmeisterschaft ausspielen, so soll diese Meisterschaft mindestens sechs Plätze bieten.
 
-    > Sofern sich eine Regionalgruppe aus mehreren Landesverbänden zusammensetzt und diese sich nicht auf einen Austragungsmodus zur Ermittlung der Qualifikanten in einer Altersklasse einigen, kann jeder dieser Landesverbände beim Nationalen Spielleiter die verbindliche Festlegung des Austragungsmodus beantragen.
+    > Sofern sich eine Regionalgruppe aus mehreren Landesverbänden zusammensetzt und diese sich nicht auf einen Austragungsmodus zur Ermittlung der Qualifikanten in einer Altersklasse einigen, kann jeder dieser Landesverbände beim Spielausschuss die verbindliche Festlegung des Austragungsmodus beantragen.
 
 1.  
     Der Ausrichter erhält einen Freiplatz, es können bis zu zwei weitere Freiplätze vergeben werden. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Regionalgruppen verteilt. Das Nähere regeln die Ausführungsbestimmungen.
