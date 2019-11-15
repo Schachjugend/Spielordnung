@@ -493,7 +493,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  
     An der DVM U14w nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U14.
 
-1.
+1.  
     Ziffer 8.4 findet keine Anwendung.
 
 1.  
