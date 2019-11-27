@@ -16,13 +16,12 @@ cd md-tools
 npm install
 cd ..
 
-mkdir -p exporte
 rm -r exporte/Spielordnung*
 
 echo "Erstelle Exporte"
 ./md-tools/bin/schachjugend-md spielordnung all ./Spielordnung.md ./exporte || exit 1
 
-cd exporte
+cd exporte/
 
 echo "Push auf gh-pages"
 git config user.name "$GIT_NAME"
