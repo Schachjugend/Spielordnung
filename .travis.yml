@@ -7,3 +7,5 @@ env:
 branches:
   only:
   - master
+node_js:
+  - lts/*
