@@ -16,7 +16,7 @@ cd md-tools
 npm install
 cd ..
 
-rm -r exporte/Spielordnung*
+rm -rf exporte/Spielordnung*
 
 echo "Erstelle Exporte"
 ./md-tools/bin/schachjugend-md spielordnung all ./Spielordnung.md ./exporte || exit 1
