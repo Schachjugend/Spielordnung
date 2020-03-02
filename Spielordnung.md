@@ -2,7 +2,7 @@
 
 Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 2. März 2008 in Bremen beschlossen und zuletzt am 10. März 2019 in Potsdam geändert.
 
-> Die Ausführungsbestimmungen wurden zuletzt von der Jugendversammlung am 10. März 2019 geändert.
+> Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb am 12. Januar 2020 geändert.
 
 ## 1. Grundsätze
 
@@ -219,7 +219,21 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Jede Mannschaft benennt dem Turnierleiter einen Mannschaftsführer.
 
-    > Der Mannschaftsführer oder zuständige Betreuer ist zuständig für die Mannschaftsaufstellung. Der Mannschaftsführer darf während des Turniers seinen Spielern raten, ein Remisangebot anzunehmen oder abzulehnen und ein Remisangebot abzugeben, die Partie aufzugeben oder - auf Anfrage des Spielers - fortzusetzen. Der Mannschaftsführer soll während der Runden erkennbar sein. Der Turnierverantwortliche kann näher zu bestimmende Kennzeichen zur Pflicht machen. Die Ausschreibung kann festlegen, dass nur ein Spieler der Mannschaft die Rolle des Mannschaftsführers übernehmen darf.
+    > Der Mannschaftsführer oder zuständige Betreuer ist zuständig für die Mannschaftsaufstellung. 
+    
+    > Der Mannschaftsführer hat die folgenden Rechte:
+   Er darf seinen Spielern raten,
+   		
+	> 1. ein Remisangebot anzunehmen oder abzulehnen,
+	> 2. ein Remisangebot abzugeben,
+	> 3. die Partie aufzugeben,
+	> 4. nach Anfrage des Spielers, die Partie 	fortzusetzen.
+
+	 > Weiterhin darf er nach einer Anfrage des Spielers nach i. oder iv. dem Spieler die Entscheidung selbst überlassen.
+   
+    > Der Mannschaftsführer soll während der Runden erkennbar sein. Der Turnierverantwortliche kann näher zu bestimmende Kennzeichen zur Pflicht machen. 
+    
+    > Der Mannschaftsführer muss immer einer der in der aktuellen Runde eingesetzten Spieler sein.
 
 1.  Die Mannschaften sind nach Spielstärke aufzustellen. Nach dem Meldeschluss sind keine Nachmeldungen mehr möglich; der Turnierverantwortliche kann Ausnahmen zulassen. Die Reihenfolge darf während des Turniers nicht mehr geändert werden. Falsche Brettbesetzung zieht den Partieverlust für die zu tief eingesetzten Spieler nach sich.
 
