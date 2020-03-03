@@ -185,8 +185,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  Einen Mannschaftskampf gewinnt die Mannschaft, die mehr Brettpunkte als die gegnerische Mannschaft erreicht. Jeder Mannschaftssieg wird mit zwei Punkten, jeder unentschiedene Kampf mit einem Punkt, der Verlust mit null Punkten gewertet.
 
     > Hat eine Mannschaft einen oder mehrere kampflose Siege an allen Brettern davongetragen und ist sie nach der letzten Runde höchstplatziert, findet zwischen dieser Mannschaft und der höchstplatzierten Mannschaft, die weniger kampflose Siege davongetragen hat, ein Stichkampf um den Titel statt. Dies gilt nicht, wenn
-    1. die erste Mannschaft auch dann höher platziert wäre, wenn das schlechteste Ergebnis der zweiten Mannschaft durch einen kampflosen Sieg an allen Brettern ersetzt würde, oder
-    1. die erste Mannschaft zuvor im direkten Vergleich mit der zweiten Mannschaft den Sieg davongetragen hat.
+    > 1. die erste Mannschaft auch dann höher platziert wäre, wenn das schlechteste Ergebnis der zweiten Mannschaft durch einen kampflosen Sieg an allen Brettern ersetzt würde, oder
+    > 1. die erste Mannschaft zuvor im direkten Vergleich mit der zweiten Mannschaft den Sieg davongetragen hat.
     >
     > Der Sieger des Stichkampfs ist Meister und Erstplatzierter, der Verlierer Vizemeister und Zweitplatzierter; die übrigen Mannschaften folgen in unveränderter Reihenfolge. Findet wegen Satz 2 kein Stichkampf statt, bleibt die Reihenfolge unverändert. Der Stichkampf findet nach kurzer Pause im direkten Anschluss an die letzte Runde statt und soll über zwei Schnellschachpartien in Hin- und Rückrunde mit vertauschten Farben stattfinden. Bei Punktgleichheit finden zwei Blitzpartien statt; danach entscheidet das Los. Es gilt die Berliner Wertung; die Farben am ersten und letzten, am zweiten und vorletzten Brett usw. sind identisch. Der Turnierverantwortliche kann aus zwingenden organisatorischen Erfordernissen einen abweichenden Modus festsetzen.
 
