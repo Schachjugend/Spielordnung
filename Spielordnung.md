@@ -541,7 +541,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Der Spielbereich ist für Betreuer und Zuschauer nicht zugänglich. Der Ausrichter sorgt für eine entsprechende Absperrung.
 
-1.  Die Spielzeit beträgt je Spieler eine Stunde für die gesamte Partie, in der WK IV, WK HR und in der WK G 30 Minuten pro Spieler.
+1.  Die Spielzeit beträgt je Spieler 50 Minuten bei zusätzlichen 10 Sekunden pro Zug für die gesamte Partie, in der WK IV, WK HR und in der WK G 30 Minuten pro Spieler.
 
 1.  Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen und Richtlinien zur Durchführung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen und Ausführungsbestimmungen der Ziffern 16.1 bis 16.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
 
