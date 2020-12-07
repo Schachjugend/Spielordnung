@@ -25,9 +25,10 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     *   Deutsche Meisterschaft für Vereins-Jugendmannschaften (DVM U20),
     *   Deutsche Meisterschaft für Vereinsmannschaften der weiblichen Jugend (DVM U20w),
     *   Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 16 Jahren (DVM U16),
+    *	Deutsche Meisterschaft für Vereinsmannschaften der weiblichen Jugend unter 16 Jahren (DVM U16w),
     *   Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 14 Jahren (DVM U14),
-    *   Deutsche Meisterschaft für Vereinsmannschaften der weiblichen Jugend unter 14 Jahren (DVM U14w),
     *   Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 12 Jahren (DVM U12),
+    *   Deutsche Meisterschaft für Vereinsmannschaften der weiblichen Jugend unter 12 Jahren (DVM U12w),
     *   Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 10 Jahren (DVM U10),
     *   Deutsche Schulschach-Mannschaftsmeisterschaften (DSM).
 
@@ -427,23 +428,11 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U16 [Jahreszahl]".
 
-
-## 12. DVM U14
+## 12. DVM U16w
 
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 1000.
 
-1.  An der DVM U14 nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U14.
-
-1.  Ziffer 9.2 gilt entsprechend.
-
-1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U14 [Jahreszahl]".
-
-
-## 13. DVM U14w
-
-> Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 800.
-
-1.  An der DVM U14w nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U14.
+1.  An der DVM U16w nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U16.
 
 1.  Ziffer 8.4 findet keine Anwendung.
 
@@ -455,8 +444,17 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Ziffer 9.2 gilt entsprechend.
 
-1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der weiblichen Jugend U14 [Jahreszahl]".
+1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der weiblichen Jugend U16 [Jahreszahl]".
 
+## 13. DVM U14
+
+> Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 1000.
+
+1.  An der DVM U14 nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U14.
+
+1.  Ziffer 9.2 gilt entsprechend.
+
+1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U14 [Jahreszahl]".
 
 ## 14. DVM U12
 
@@ -468,8 +466,25 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U12 [Jahreszahl]".
 
+## 15. DVM U12w
 
-## 15. DVM U10
+> Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 600.
+
+1.  An der DVM U12w nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U12.
+
+1.  Ziffer 8.4 findet keine Anwendung.
+
+1.  In jeder Mannschaft ist abweichend von Ziffer 8.1 eine Spielerin startberechtigt, die in der der DVM vorangegangenen Saison einem anderen Verein angehörte, sofern dieser dem Gastspiel zustimmt. Sie darf zudem im Qualifikationszyklus zu dieser DVM - gleich auf welcher Ebene - nicht zuvor für diesen anderen oder einen dritten Verein gemeldet worden sein.
+
+    > Die Gastspielgenehmigung gilt als erteilt, falls der abgebende Verein mit keiner eigenen Mannschaft an einer Altersklasse dieser DVM teilnimmt, für die die Spielerin spielberechtigt ist.
+
+    > Eine Spielerin, die in der vergangenen Saison für einen anderen Verein spielberechtigt war und nun zu dem Verein gewechselt ist, für den sie bei der DVM eingesetzt werden soll, ist gleichwohl nur als Gastspielerin startberechtigt.
+
+1.  Ziffer 9.2 gilt entsprechend.
+
+1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der weiblichen Jugend U12 [Jahreszahl]".
+
+## 16. DVM U10
 
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 600.
 
@@ -491,7 +506,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > AB zu 8.3 gilt entsprechend für die Landesverbände.
 
-## 16. DSM
+## 17. DSM
 
 1.  Die DSM werden jährlich in fünf Wettkampfklassen (WK) ausgetragen. Teilnahmeberechtigt sind allgemein- und berufsbildende Schulen außer Institutionen, die überwiegend der Erwachsenenbildung dienen.
 
