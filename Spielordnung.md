@@ -1,8 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 2. März 2008 in Bremen beschlossen und zuletzt am 8. März 2020 in Freiburg geändert.
-
-> Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb am 12. Januar 2020 geändert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 22. August 2020 in Magdeburg beschlossen.
 
 ## 1. Grundsätze
 
