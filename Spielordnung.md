@@ -286,15 +286,17 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     >
     > *Übergangsbestimmung in Folge der Trennung in U12/U12w sowie U10/U10w: Zur Berechnung werden alle Jungen der U12, alle Mädchen der U12w zugeordnet; entsprechendes für die U10.*
 
-1.  In den Altersklassen U14, U12, U12w, U10 und U10w erhalten alle Kaderspieler in ihrer jeweiligen Altersklasse einen Freiplatz.
+1.  Kaderspieler des Deutschen Schachbundes erhalten in ihrer jeweiligen Altersklasse einen Startplatz. 
 
-    Es können jeweils bis zu elf weitere Freiplätze vergeben werden. Der AKS kann das Freiplatzkontingent bei außergewöhnlichen Umständen um jeweils bis zu vier weitere Freiplätze erhöhen.
-    
-    > Der AKS kann das Freiplatzkontingent erhöhen, wenn in einem Jahr eine außergewöhnlich hohe Zahl von starken Spielern in der jeweiligen Altersklasse zusammenkommt. Eine außergewöhnlich hohe Zahl liegt jedenfalls dann vor, wenn die Zahl der Kaderspieler der Zahl der ordentlichen Freiplätze entspricht oder diese übersteigt.
+    Je Altersklasse werden bis zu acht Freiplätze vergeben. Wenn ein Landesverband auf Qualifikationsplätze gemäß 6.3 bzw. 6.4 verzichtet, kann der AKS die Anzahl der Freiplätze entsprechend erhöhen. 
 
-    > Der DBSB kann in den Altersklassen U18, U18w, U16, U16w und U14w je einen, in den Altersklassen U14, U12, U12w, U10 und U10w je zwei Freiplatzkandidaten nominieren. Dem Freiplatzantrag ist zu entsprechen, wenn die Spielstärke des Kandidaten dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung hierüber trifft der Vorstand. Ein so vergebener Freiplatz zählt bei der Entscheidung des AKS über die Erhöhung des Freiplatzkontingents nicht als ordentlicher Freiplatz.
+    Bei außergewöhnlichen Umständen kann der AKS die Anzahl der Freiplätze um bis zu vier erhöhen. 
 
-    > Die weiteren Freiplätze vergeben der zuständige Nationale Spielleiter und der Beauftragte für Leistungssport auf Vorschlag des Bundesnachwuchstrainers.
+    > Ein außergewöhnlicher Umstand im Sinne von JSpO 6.5 liegt jedenfalls dann vor, wenn in einer Altersklasse besonders viele starke Spieler einen Freiplatz erhalten. 
+
+    > Der DBSB kann in den Altersklassen U18, U18w, U16, U16w und U14w je einen, in den Altersklassen U14, U12, U12w, U10 und U10w je zwei Freiplatzkandidaten nominieren. Diese erhalten einen Startplatz, wenn ihre Spielstärke dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung obliegt dem Spielausschuss.    
+
+    > Freiplätze werden durch ein Gremium, bestehend aus dem zuständigen Nationalen Spielleiter, dem Beauftragten für Leistungssport und dem Bundesnachwuchstrainer, vergeben. 
 
 1.  Der Sieger erhält den Titel "Deutscher Jugendmeister [jeweilige Altersklasse] [Jahreszahl]" bzw. "Deutsche Jugendmeisterin [jeweilige Altersklasse] [Jahreszahl]".
 
