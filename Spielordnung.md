@@ -6,7 +6,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Die Deutsche Schachjugend (DSJ) regelt den Jugendspielbetrieb, soweit er über den Rahmen der Landesschachjugenden hinausgeht, insbesondere die unter Ziffer 1.3 aufgeführten Veranstaltungen.
 
-1.  Die DSJ veranstaltet Turniere für Jugendliche in verschiedenen Altersklassen. Einem Altersjahrgang ("unter X Jahren", wobei "X" das Lebensjahr bezeichnet) gehört an, wer im Laufe des Kalenderjahres das jeweilige Lebensjahr vollendet. 
+1.  Die DSJ veranstaltet Turniere für Jugendliche in verschiedenen Altersklassen. Einer Altersklasse ("unter X Jahren", wobei "X" das Lebensjahr bezeichnet) gehört an, wer im Laufe des Kalenderjahres höchstens das jeweilige Lebensjahr vollendet. 
 
 1.  Die DSJ veranstaltet - sofern im Haushalt die dafür erforderlichen Mittel bereitgestellt sind - alljährlich folgende Turniere:
     *   Deutsche Einzelmeisterschaften für Jugendliche unter 18 Jahren (DEM U18),
