@@ -303,6 +303,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  An der DLM nehmen Landesverbandsmannschaften teil. Jeder Landesverband kann mindestens eine Mannschaft stellen. Der Ausrichter darf eine weitere Landesauswahl melden.
 
+    > Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Regionalauswahl gebildet werden. Für die Regionalauswahl sind alle Spieler einer Regionalgruppe nach 8.3 spielberechtigt. Die Regionalauswahl sollte möglichst aus der Region kommen, in der der Ausrichtungsort liegt.
+
 1.  Bei den DLM sind je Mannschaft nur Spieler startberechtigt, die zum Zeitpunkt der DLM für einen Verein des jeweiligen Landesverbandes spielberechtigt sind. Findet ein Land nicht genügend eigene starke Spieler um die DLM zu beschicken, können Spielgemeinschaften mit bis zu vier Spielern zugelassen werden, die nach Satz 1 für einen anderen Landesverband startberechtigt sind.
 
     > Der Turnierverantwortliche entscheidet über Zulassung einer Spielgemeinschaft auf begründeten Antrag.
