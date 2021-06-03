@@ -4,9 +4,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 1. Grundsätze
 
-1.  Die Deutsche Schachjugend (DSJ) regelt den Jugendspielbetrieb, soweit er über den Rahmen der Mitgliedsverbände des Deutschen Schachbundes e.V. (DSB) hinausgeht, insbesondere die unter Ziffer 1.3 aufgeführten Veranstaltungen.
+1.  Die Deutsche Schachjugend (DSJ) regelt den Jugendspielbetrieb, soweit er über den Rahmen der Landesschachjugenden hinausgeht, insbesondere die unter Ziffer 1.3 aufgeführten Veranstaltungen.
 
-1.  Die DSJ veranstaltet Turniere für Jugendliche in verschiedenen Altersklassen. Stichtag für alle Altersklassen ist der 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres.
+1.  Die DSJ veranstaltet Turniere für Jugendliche in verschiedenen Altersklassen. Einem Altersjahrgang ("unter X Jahren", wobei "X" das Lebensjahr bezeichnet) gehört an, wer im Laufe des Kalenderjahres das jeweilige Lebensjahr vollendet. 
 
 1.  Die DSJ veranstaltet - sofern im Haushalt die dafür erforderlichen Mittel bereitgestellt sind - alljährlich folgende Turniere:
     *   Deutsche Einzelmeisterschaften für Jugendliche unter 18 Jahren (DEM U18),
@@ -54,7 +54,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Aus Gründen der Zweckmäßigkeit kann auch eine Person, die nicht Mitglied des AKS ist, als Turnierverantwortlicher benannt werden. Der AKS ist gegenüber dem Turnierverantwortlichen weisungsbefugt.
 
-1.  Über Proteste und Einsprüche entscheidet während der Meisterschaften abschließend ein Turnierschiedsgericht, im Übrigen das Schiedsgericht der DSJ. Die Einzelheiten regelt die Rechts- und Verfahrensordnung.
+1.  Über Proteste und Einsprüche entscheidet während der Meisterschaften abschließend ein Turnierschiedsgericht, über Proteste gegen Geldbußen, Sperren und im Übrigen das Schiedsgericht der DSJ. Die Einzelheiten regelt die Rechts- und Verfahrensordnung.
 
 1.  Der Vorstand oder ein von diesem bestimmtes Gremium kann zu dieser Spielordnung Ausführungsbestimmungen erlassen und ändern; bindende Regelungen dürfen die Ausführungsbestimmungen nur enthalten, wenn diese Spielordnung für den betreffenden Bereich keine abschließende Regelung trifft oder die Regelung der Spielordnung der Präzisierung bedarf. Beschließt die Jugendversammlung eine Änderung dieser Spielordnung, durch die ein in den Ausführungsbestimmungen geregelter Bereich nunmehr bereits in der Spielordnung abschließend geregelt wird, so werden entgegenstehende Ausführungsbestimmungen hinfällig. Ziffer 16.8 bleibt unberührt.
 
@@ -65,7 +65,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 > Soweit in der Spielordnung oder in den Ausführungsbestimmungen DWZ-Zahlen relevant sind, bestimmt der zuständige Nationale Spielleiter den maßgeblichen Stichtag.
 
-1.  Die Spielregeln des Weltschachbundes (FIDE), die Rechts- und Verfahrensordnung der DSJ, die Satzung des DSB und die Jugendordnung der DSJ bilden einen Bestandteil dieser Spielordnung. Sie sind grundsätzlich anzuwenden, wenn diese Spielordnung keine abschließende Regelung trifft. Abweichungen von den genannten Regeln sind im Sinne einer kindes- und jugendgemäßen Handhabung möglich, wenn sie vorher im Rahmen der Ausschreibung oder eines Aushangs vor Ort angekündigt war.
+1.  Die Spielregeln des Weltschachbundes (FIDE), die Satzung und die Rechts- und Verfahrensordnung der DSJ, die Satzung des DSB und die Jugendordnung der DSJ bilden einen Bestandteil dieser Spielordnung. Sie sind grundsätzlich anzuwenden, wenn diese Spielordnung keine abschließende Regelung trifft. Abweichungen von den genannten Regeln sind im Sinne einer kindes- und jugendgemäßen Handhabung möglich, wenn sie vorher im Rahmen der Ausschreibung oder eines Aushangs vor Ort angekündigt war.
 
     > Die Verantwortlichen der DSJ werden in ihrer Aufgabe bestärkt, für eine strikte Einhaltung der sportlich fairen Rahmenbedingungen gerade in den unteren Altersklassen zu sorgen. Hierbei ist das Interesse der Spieler in der Regel höher als dasjenige der Zuschauer zu bewerten. Der Schiedsrichter kann die Anzahl der Zuschauer im Spielbereich beschränken.
 
