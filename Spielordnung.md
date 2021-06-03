@@ -56,9 +56,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Über Proteste und Einsprüche entscheidet während der Meisterschaften abschließend ein Turnierschiedsgericht, im Übrigen das Schiedsgericht der DSJ. Die Einzelheiten regelt die Rechts- und Verfahrensordnung.
 
-1.  Der Vorstand oder ein von diesem bestimmtes Gremium kann zu dieser Spielordnung Ausführungsbestimmungen erlassen und ändern; bindende Regelungen dürfen die Ausführungsbestimmungen nur enthalten, wenn diese Spielordnung für den betreffenden Bereich keine abschließende Regelung trifft oder die Regelung der Spielordnung der Präzisierung bedarf. Beschließt die Jugendversammlung eine Änderung dieser Spielordnung, durch die ein in den Ausführungsbestimmungen geregelter Bereich nunmehr bereits in der Spielordnung abschließend geregelt wird, so werden entgegenstehende Ausführungsbestimmungen hinfällig. Ziffer 16.8 bleibt unberührt.
+1.  Der Vorstand oder ein von diesem bestimmtes Gremium kann zu dieser Spielordnung Ausführungsbestimmungen erlassen und ändern; bindende Regelungen dürfen die Ausführungsbestimmungen nur enthalten, wenn diese Spielordnung für den betreffenden Bereich keine abschließende Regelung trifft oder die Regelung der Spielordnung der Präzisierung bedarf. Beschließt die Jugendversammlung eine Änderung dieser Spielordnung, durch die ein in den Ausführungsbestimmungen geregelter Bereich nunmehr bereits in der Spielordnung abschließend geregelt wird, so werden entgegenstehende Ausführungsbestimmungen hinfällig. Ziffer 17.8 bleibt unberührt.
 
-    Die Ausführungsbestimmungen in ihrer aktuellen Fassung werden mit der Spielordnung auf den Internetseiten der DSJ veröffentlicht. Sie sind bei allen Turnieren der DSJ gedruckt vorzuhalten.
+    Die Ausführungsbestimmungen in ihrer aktuellen Fassung werden mit der Spielordnung auf den Internetseiten der DSJ veröffentlicht. 
 
 
 ## 2. Spielweise, Spielregeln, Streitfälle
@@ -68,8 +68,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  Die Spielregeln des Weltschachbundes (FIDE), die Rechts- und Verfahrensordnung der DSJ, die Satzung des DSB und die Jugendordnung der DSJ bilden einen Bestandteil dieser Spielordnung. Sie sind grundsätzlich anzuwenden, wenn diese Spielordnung keine abschließende Regelung trifft. Abweichungen von den genannten Regeln sind im Sinne einer kindes- und jugendgemäßen Handhabung möglich, wenn sie vorher im Rahmen der Ausschreibung oder eines Aushangs vor Ort angekündigt war.
 
     > Die Verantwortlichen der DSJ werden in ihrer Aufgabe bestärkt, für eine strikte Einhaltung der sportlich fairen Rahmenbedingungen gerade in den unteren Altersklassen zu sorgen. Hierbei ist das Interesse der Spieler in der Regel höher als dasjenige der Zuschauer zu bewerten. Der Schiedsrichter kann die Anzahl der Zuschauer im Spielbereich beschränken.
-
-    > Finden mehrere deutsche Meisterschaften zur gleichen Zeit statt, kann jeder Spieler nur an einer Meisterschaft teilnehmen.
 
     > Gemäß Art. 11.3.2 der FIDE-Regeln ist es Spielern untersagt, ein Mobiltelefon oder anderes elektronisches Gerät in das Turnierareal mitzubringen. Bei Verstößen sind Strafen nach Ziffer 3 auszusprechen.
 
@@ -107,6 +105,10 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Reisen zehn oder weniger Teilnehmer bzw. Mannschaften an, kann der Turnierverantwortliche den Turniermodus vor der ersten Runde ändern. Darüber hinaus kann er aus zwingenden organisatorischen Erfordernissen auch nach Turnierbeginn eine von 2.5 abweichende Bedenkzeitregelung festsetzen, Runden ausfallen lassen oder verschieben oder andere Maßnahmen treffen.
 
+1. Finden mehrere deutsche Meisterschaften zur gleichen Zeit statt, darf jeder Spieler nur an einer Meisterschaft teilnehmen. Finden die Turniere unterschiedlicher Altersklassen einer DEM oder einer DVM in verschiedenen Zeiträumen statt, so kann die Teilnahme auf eine Altersklasse beschränkt werden.
+
+    > Über Beschränkungen nach Satz 2 und Ausnahmen hiervon im Einzelfall entscheidet der jeweilige Turnierverantwortliche. 
+
 
 ## 3. Ordnungsmaßnahmen, Strafen
 
@@ -132,7 +134,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     1.  Geldbußen bis zu 1.000 Euro,
     1.  Spielsperren für die Dauer von bis zu zwei Jahren.
 
-1.  Bei allen Ordnungsmaßnahmen ist der Grundsatz der Verhältnismäßigkeit anzuwenden. Die Maßnahmen nach Ziffer 3.1 und 3.2 sind zu begründen; bei Maßnahmen nach Ziffer 3.2 erfolgt die Begründung immer, bei denjenigen nach Ziffer 3.1 lit. f) bis k) in der Regel schriftlich.
+1.  Bei allen Ordnungsmaßnahmen ist der Grundsatz der Verhältnismäßigkeit anzuwenden. Die Maßnahmen nach Ziffer 3.1 und 3.2 sind zu begründen; bei Maßnahmen nach Ziffer 3.2 erfolgt die Begründung immer, bei denjenigen nach Ziffer 3.1 6. bis 11. in der Regel schriftlich.
 
     > In der Begründung sind der festgestellte Sachverhalt, die Notwendigkeit der Maßnahme und die Abwägung zur Art der Maßnahme schriftlich festzuhalten. Auf die schriftliche Begründung kann bei Maßnahmen nach Ziffer 3.1 verzichtet werden, wenn der Betroffene die Maßnahme akzeptiert.
 
@@ -264,9 +266,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     * U14, U12w und U10w: jeweils 40 bis 44 Jugendliche
     * U12 und U10: jeweils mindestens 50 Jugendliche
 
-1.  In den Altersklassen U18, U18w, U16, U16w, U14, U14w, U12 und U12w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U10 und U10w jeweils ein Turnier mit elf Runden nach Schweizer System ausgetragen.
-
-    > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
+1.  In den Altersklassen U18, U18w, U16, U16w, U14, U14w, U12 und U12w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U10 und U10w jeweils ein Turnier mit elf Runden nach Schweizer System ausgetragen. Abweichend von 2.5 beträgt die Spielzeit in den Altersklassen U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
 
 1.  Die Teilnehmerfelder für die DEM U18, U18w, U16, U16w und U14w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
 
@@ -303,14 +303,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  An der DLM nehmen Landesverbandsmannschaften teil. Jeder Landesverband kann mindestens eine Mannschaft stellen. Der Ausrichter darf eine weitere Landesauswahl melden.
 
-    Der AKS wird ermächtigt, im Jahr 2020 bis zu 11 Mannschaften aus dem Ausland zur DLM zuzulassen. Die Mannschaften sollen Nationen oder Regionen (vergleichbar den Bundesländern) repräsentieren. Der AKS wird ermächtigt, insoweit von der Spielordnung abzuweichen und mit der Ausschreibung die Teilnahmemodalitäten festzulegen.
-
-    Es wird nur eine Mannschaft pro Landesverband zugelassen. Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Zweitmannschaft eines Landesverbandes zugelassen werden.
-    
-    Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 sind für ausländische Mannschaften alle Jugendlichen, die in der FIDE-Liste der jeweiligen Nation geführt werden oder deren Staatsbürgerschaft besitzen.
-
-    > Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Regionalauswahl gebildet werden. Für die Regionalauswahl sind alle Spieler einer Regionalgruppe nach 8.3 spielberechtigt. Die Regionalauswahl sollte möglichst aus der Region kommen, in der der Ausrichtungsort liegt.
-
 1.  Bei den DLM sind je Mannschaft nur Spieler startberechtigt, die zum Zeitpunkt der DLM für einen Verein des jeweiligen Landesverbandes spielberechtigt sind. Findet ein Land nicht genügend eigene starke Spieler um die DLM zu beschicken, können Spielgemeinschaften mit bis zu vier Spielern zugelassen werden, die nach Satz 1 für einen anderen Landesverband startberechtigt sind.
 
     > Der Turnierverantwortliche entscheidet über Zulassung einer Spielgemeinschaft auf begründeten Antrag.
@@ -323,15 +315,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Abweichend zu AB zu 5 wird die Startrangliste nach dem DWZ-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen.
 
-    > Abweichend zu AB zu 5 wird die Startrangliste im Jahr 2020 nach dem Elo-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen; ersatzweise DWZ oder Pseudo-DWZ. AB zu 5.7 Abs. 3 ist analog anzuwenden.
-
 1.  Es wird ein Turnier über sieben Runden nach Schweizer System ausgetragen.
 
-    Im Jahr 2020 wird ein Turnier über neun Runden nach Schweizer System ausgetragen.
-
 1.  Der Sieger erhält den Titel "Deutscher Jugendmannschaftsmeister der Länder [Jahreszahl]".
-
-    Im Jahr 2020 erhält der Sieger den Titel "Internationaler Deutscher Ländermeister 2020".
 
 
 ## 8. Allgemeine Bestimmungen zu den Deutschen Meisterschaften für Vereinsmannschaften
@@ -486,9 +472,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 600.
 
-1.  An der DVM U10 nehmen 40 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 und startberechtigt abweichend von 8.1 sind alle Jugendlichen, die in der laufenden Saison für diesen Verein spielberechtigt sind.
-
-    > Abweichend von Ziffer 2.5 beträgt die Spielzeit 55 Minuten bei zusätzlichen 5 Sekunden pro Zug von Beginn an.
+1.  An der DVM U10 nehmen 40 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 und startberechtigt abweichend von 8.1 sind alle Jugendlichen, die in der laufenden Saison für diesen Verein spielberechtigt sind. Abweichend von Ziffer 2.5 beträgt die Spielzeit 55 Minuten bei zusätzlichen 5 Sekunden pro Zug von Beginn an.
 
     > Abweichend zu AB zu 2.5 (1) erhält jeder Spieler, der nach der Erklärung des Schiedsrichters, die Runde sei eröffnet (Spielbeginn), im Spielbereich eintrifft, eine Zeitstrafe von 15 Minuten, vorausgesetzt dass dies nicht seine erste Verspätung in diesem Turnier war.
 
@@ -546,7 +530,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Mitreisende Betreuer und Elternteile sind Zuschauer. Sie dürfen weder in laufende Partien eingreifen, noch Hinweise geben oder Aufgaben eines Mannschaftsführers wahrnehmen.
 
-1.  Die Teilnahme- und Spielberechtigung gemäß Ziffer 16.1, 16.2 und 16.4 ist von den jeweiligen Schulleitungen schriftlich zu bestätigen.
+1.  Die Teilnahme- und Spielberechtigung gemäß Ziffer 17.1, 17.2 und 17.4 ist von den jeweiligen Schulleitungen schriftlich zu bestätigen.
 
 1.  Die Teilnehmer spielen in jeder Wettkampfklasse ein Turnier nach Schweizer System mit sieben Runden, in der WK IV, WK HR und in der WK G im Regelfall neun Runden.
 
@@ -556,6 +540,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Die Spielzeit beträgt je Spieler 50 Minuten bei zusätzlichen 10 Sekunden pro Zug für die gesamte Partie, in der WK IV, WK HR und in der WK G 30 Minuten pro Spieler.
 
-1.  Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen und Richtlinien zur Durchführung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen und Ausführungsbestimmungen der Ziffern 16.1 bis 16.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
+1.  Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen und Richtlinien zur Durchführung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen und Ausführungsbestimmungen der Ziffern 17.1 bis 17.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
 
 1.  Der Sieger in jeder Wettkampfklasse erhält den Titel "Sieger des Deutschen Schulschach-Mannschaftswettbewerbs [Jahreszahl] der [Bezeichnung der Wettkampfklasse]".
