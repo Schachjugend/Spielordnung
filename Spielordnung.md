@@ -278,19 +278,22 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Die Teilnehmerfelder für die DEM U14, U12, U12w, U10 und U10w ergeben sich wie folgt: Die Landesverbände entsenden in den Altersklassen U14, U12w und U10w jeweils 35, in den Altersklassen U12 und U10 jeweils 50 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der in den Vorjahren erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
 
-    > Zur Berechnung der Teilnehmerzahlen der Landesverbände wird eine Rangliste, basierend auf den gezeigten Leistungen der zwei letzten Deutschen Einzelmeisterschaften erstellt. Die Ausrichterfreiplätze werden dabei nicht berücksichtigt.
-    >
-    > Aus der Summe aller Punkte der Spieler eines Landesverbandes wird der Durchschnitt berechnet. Die so erreichten Jahresdurchschnittspunkte (JDP) werden zu einem Gesamtergebnis, den Jahrespunkten (JP), addiert. Dabei erfährt das letzte Jahre eine doppelte, das vorletzte Jahr eine einfache Gewichtung.
-    >
-    > Zusätzlich zu diesen Jahrespunkten werden Bonuspunkte (BP) basierend auf den gezeigten Leistungen des Vorjahres vergeben, die sich nach den Ergebnissen der Spieler richten, die in diesem Jahr für die Altersklasse spielberechtigt wären. Für die vordersten fünf Platzierungen der Rangliste der Spieler des Vorjahres, die nicht dem ältesten Jahrgang angehörten, werden 0.5 bis 0.1 Bonuspunkte vergeben. Für die vordersten zehn Platzierungen der Rangliste der Spieler des Vorjahres aus der nächstjüngeren Altersklasse, die dem ältesten Jahrgang angehörten, werden 1.0 bis 0.1 Bonuspunkte vergeben; im Falle der jüngsten Altersklasse werden keine weitere Bonuspunkte verteilt. Kommen weniger als fünf bzw. zehn Spieler zur Ranglistenbildung in Frage, werden entsprechend weniger Bonuspunkte vergeben.
-    >
-    > Die so erreichten Bonuspunkte werden zusammen mit den Jahrespunkten zu Gesamtpunkten (GP) addiert. Entsprechend ihrer Rangliste werden Plätze vergeben. Bei Punktgleichheit entscheiden die Jahresdurchschnittspunkte des aktuellsten Jahres, danach die höchste Vorjahresplatzierung aller Spieler dieser Altersklasse.
-    >
-    > U14, U12w und U10w: 1.-6. Platz = 3 Teilnehmer, 7.-12. Platz = 2 Teilnehmer, 13.-17. Platz = 1 Teilnehmer.
-    >
-    > U12 und U10: 1. Platz = 5 Teilnehmer, 2.-5. Platz = 4 Teilnehmer, 6.-10. Platz = 3 Teilnehmer, 11.-17. Platz = 2 Teilnehmer.
-    >
-    > *Übergangsbestimmung in Folge der Trennung in U12/U12w sowie U10/U10w: Zur Berechnung werden alle Jungen der U12, alle Mädchen der U12w zugeordnet; entsprechendes für die U10.*
+    > <strong> Durchschnittspunkte: </strong> Pro Landesverband werden die Punkte aller Spieler addiert und durch die Anzahl der gespielten Partien (inklusive kampfloser Partien) dividiert. Wenn ein Landesverband auf Qualifikationsplätze verzichtet, geht pro unbesetztem Qualifikationsplatz ein fiktiver Spieler, der alle Partien verliert, in die Durchschnittsbildung ein. Dazu werden die Endtabellen der letzten beiden Deutschen Einzelmeisterschaften dieser Altersklasse herangezogen. Dabei erfährt das letzte Jahr eine doppelte und das vorletzte Jahr eine einfache Gewichtung. 
+
+    > <strong> Bonuspunkte: </strong> Die bestplatzierten Spieler erringen Bonuspunkte für den Landesverband, für den sie bei der letzten Deutschen Einzelmeisterschaft angetreten sind:
+    > * Die besten fünf Spieler, die in dieser Altersklasse verbleiben (= jüngerer Jahrgang und jüngere Altersklasse), werden mit 0,5 (Platz 1) bis 0,1 (Platz 5) Bonuspunkten belohnt.
+    > * Die besten zehn Spieler des ältesten Jahrgangs der nächstjüngeren Altersklasse werden mit 1,0 (Platz 1) bis 0,1 (Platz 10) Bonuspunkten belohnt. Dies gilt für die jüngste Altersklasse (U10, U10w) nicht. Kommen dabei weniger als fünf bzw. zehn Spieler zur Ranglistenbildung in Frage, werden entsprechend weniger Bonuspunkte vergeben. Es werden die Endtabellen der letzten Deutschen Einzelmeisterschaft herangezogen. 
+
+    > <strong> Kontingentberechnung als gewichtete Summe: </strong> Aus der Addition der zehnfachen Durchschnitts- und der einfachen Bonuspunkte ergibt sich eine Rangliste der Landesverbände. Bei Punktgleichheit entscheiden die höheren Durchschnittspunkte der letzten Deutschen Einzelmeisterschaft dieser Altersklasse, danach die beste Einzelplatzierung innerhalb dieser Altersklasse. Die Anzahl der Qualifikationsplätze pro Landesverband ergibt sich aus dieser Rangliste:
+    > * U14, U12w und U10w: 
+    >   * 1.-6. Platz = 3 Teilnehmer
+    >   * 7.-12. Platz = 2 Teilnehmer
+    >   * 13.-17. Platz = 1 Teilnehmer
+    > * U12 und U10: 
+    >   * 1.Platz = 5 Teilnehmer
+    >   * 2.-5. Platz = 4 Teilnehmer
+    >   * 6.-10. Platz = 3 Teilnehmer
+    >   * 11.-17. Platz = 2 Teilnehmer    
 
 1.  In den Altersklassen U14, U12, U12w, U10, U10w und U8 erhalten alle Kaderspieler in ihrer jeweiligen Altersklasse einen Freiplatz.
 
