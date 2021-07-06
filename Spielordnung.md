@@ -4,9 +4,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 1. Grundsätze
 
-1.  Die Deutsche Schachjugend (DSJ) regelt den Jugendspielbetrieb, soweit er über den Rahmen der Mitgliedsverbände des Deutschen Schachbundes e.V. (DSB) hinausgeht, insbesondere die unter Ziffer 1.3 aufgeführten Veranstaltungen.
+1.  Die Deutsche Schachjugend (DSJ) regelt den Jugendspielbetrieb, soweit er über den Rahmen der Landesschachjugenden hinausgeht, insbesondere die unter Ziffer 1.3 aufgeführten Veranstaltungen.
 
-1.  Die DSJ veranstaltet Turniere für Jugendliche in verschiedenen Altersklassen. Stichtag für alle Altersklassen ist der 31. Dezember des dem laufenden Kalenderjahr vorangegangenen Jahres.
+1.  Die DSJ veranstaltet Turniere für Jugendliche in verschiedenen Altersklassen. Einer Altersklasse ("unter X Jahren", wobei "X" das Lebensjahr bezeichnet) gehört an, wer im Laufe des Kalenderjahres höchstens das jeweilige Lebensjahr vollendet. 
 
 1.  Die DSJ veranstaltet - sofern im Haushalt die dafür erforderlichen Mittel bereitgestellt sind - alljährlich folgende Turniere:
     *   Deutsche Einzelmeisterschaften für Jugendliche unter 18 Jahren (DEM U18),
@@ -19,6 +19,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     *   Deutsche Einzelmeisterschaften für weibliche Jugendliche unter 12 Jahren (DEM U12w),
     *   Deutsche Einzelmeisterschaften für Jugendliche unter 10 Jahren (DEM U10),
     *   Deutsche Einzelmeisterschaften für weibliche Jugendliche unter 10 Jahren (DEM U10w),
+    *   Deutsche Einzelmeisterschaften für Jugendliche unter 8 Jahren (DEM U8),
     *   Deutsche Meisterschaften für Länder-Jugendmannschaften (DLM),
     *   Deutsche Meisterschaft für Vereins-Jugendmannschaften (DVM U20),
     *   Deutsche Meisterschaft für Vereinsmannschaften der weiblichen Jugend (DVM U20w),
@@ -54,7 +55,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Aus Gründen der Zweckmäßigkeit kann auch eine Person, die nicht Mitglied des AKS ist, als Turnierverantwortlicher benannt werden. Der AKS ist gegenüber dem Turnierverantwortlichen weisungsbefugt.
 
-1.  Über Proteste und Einsprüche entscheidet während der Meisterschaften abschließend ein Turnierschiedsgericht, im Übrigen das Schiedsgericht der DSJ. Die Einzelheiten regelt die Rechts- und Verfahrensordnung.
+1.  Über Proteste und Einsprüche entscheidet während der Meisterschaften abschließend ein Turnierschiedsgericht, über Proteste gegen Geldbußen, Sperren und im Übrigen das Schiedsgericht der DSJ. Die Einzelheiten regelt die Rechts- und Verfahrensordnung.
 
 1.  Der Vorstand oder ein von diesem bestimmtes Gremium kann zu dieser Spielordnung Ausführungsbestimmungen erlassen und ändern; bindende Regelungen dürfen die Ausführungsbestimmungen nur enthalten, wenn diese Spielordnung für den betreffenden Bereich keine abschließende Regelung trifft oder die Regelung der Spielordnung der Präzisierung bedarf. Beschließt die Jugendversammlung eine Änderung dieser Spielordnung, durch die ein in den Ausführungsbestimmungen geregelter Bereich nunmehr bereits in der Spielordnung abschließend geregelt wird, so werden entgegenstehende Ausführungsbestimmungen hinfällig. Ziffer 17.8 bleibt unberührt.
 
@@ -65,7 +66,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 > Soweit in der Spielordnung oder in den Ausführungsbestimmungen DWZ-Zahlen relevant sind, bestimmt der zuständige Nationale Spielleiter den maßgeblichen Stichtag.
 
-1.  Die Spielregeln des Weltschachbundes (FIDE), die Rechts- und Verfahrensordnung der DSJ, die Satzung des DSB und die Jugendordnung der DSJ bilden einen Bestandteil dieser Spielordnung. Sie sind grundsätzlich anzuwenden, wenn diese Spielordnung keine abschließende Regelung trifft. Abweichungen von den genannten Regeln sind im Sinne einer kindes- und jugendgemäßen Handhabung möglich, wenn sie vorher im Rahmen der Ausschreibung oder eines Aushangs vor Ort angekündigt war.
+1.  Die Spielregeln des Weltschachbundes (FIDE), die Satzung und die Rechts- und Verfahrensordnung der DSJ, die Satzung des DSB und die Jugendordnung der DSJ bilden einen Bestandteil dieser Spielordnung. Sie sind grundsätzlich anzuwenden, wenn diese Spielordnung keine abschließende Regelung trifft. Abweichungen von den genannten Regeln sind im Sinne einer kindes- und jugendgemäßen Handhabung möglich, wenn sie vorher im Rahmen der Ausschreibung oder eines Aushangs vor Ort angekündigt war.
 
     > Die Verantwortlichen der DSJ werden in ihrer Aufgabe bestärkt, für eine strikte Einhaltung der sportlich fairen Rahmenbedingungen gerade in den unteren Altersklassen zu sorgen. Hierbei ist das Interesse der Spieler in der Regel höher als dasjenige der Zuschauer zu bewerten. Der Schiedsrichter kann die Anzahl der Zuschauer im Spielbereich beschränken.
 
@@ -265,36 +266,48 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     * U18, U18w, U16, U16w und U14w: jeweils 24 bis 28 Jugendliche
     * U14, U12w und U10w: jeweils 40 bis 44 Jugendliche
     * U12 und U10: jeweils mindestens 50 Jugendliche
+    * U8: mindestens 54 Kinder
 
-1.  In den Altersklassen U18, U18w, U16, U16w, U14, U14w, U12 und U12w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U10 und U10w jeweils ein Turnier mit elf Runden nach Schweizer System ausgetragen. Abweichend von 2.5 beträgt die Spielzeit in den Altersklassen U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an.
+1.  In den Altersklassen U18, U18w, U16, U16w, U14, U14w, U12 und U12w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U10 und U10w jeweils ein Turnier mit elf Runden und in der Altersklasse U8 ein Turnier mit sieben Runden nach Schweizer System ausgetragen. 
+
+    > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an. Die Spielzeit in der Altersklasse U8 beträgt 55 Minuten bei zusätzlichen 5 Sekunden pro Zug von Beginn an. 
 
 1.  Die Teilnehmerfelder für die DEM U18, U18w, U16, U16w und U14w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
 
+1. Das Teilnehmerfeld für die DEM U8 ergibt sich wie folgt: Jeder Landesverband erhält zwei Plätze, wobei ein Platz einer Spielerin vorbehalten ist. Die übrigen Plätze werden über die Regionalen U8-Kinderschachturniere und über das U8-Scoutingsystem vergeben. Die Ausführungsbestimmungen regeln, wie die Plätze ermittelt werden. 
+    
+    > Über die Regionalen U8-Kinderschachturniere und das U8-Scoutingsystem werden bis zu 36 weitere Plätze vergeben. Pro Regionalem U8-Kinderschachturnier qualifizieren sich der bestplatzierte Junge und das bestplatzierte Mädchen, sofern sie mindestens 50 % der im Turnier erzielbaren Punkte erreichen und sich zu diesem Zeitpunkt noch nicht qualifiziert haben. Die restliche Plätze werden über das U8-Scoutingsystem vergeben. 
+
 1.  Die Teilnehmerfelder für die DEM U14, U12, U12w, U10 und U10w ergeben sich wie folgt: Die Landesverbände entsenden in den Altersklassen U14, U12w und U10w jeweils 35, in den Altersklassen U12 und U10 jeweils 50 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der in den Vorjahren erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
 
-    > Zur Berechnung der Teilnehmerzahlen der Landesverbände wird eine Rangliste, basierend auf den gezeigten Leistungen der zwei letzten Deutschen Einzelmeisterschaften erstellt. Die Ausrichterfreiplätze werden dabei nicht berücksichtigt.
-    >
-    > Aus der Summe aller Punkte der Spieler eines Landesverbandes wird der Durchschnitt berechnet. Die so erreichten Jahresdurchschnittspunkte (JDP) werden zu einem Gesamtergebnis, den Jahrespunkten (JP), addiert. Dabei erfährt das letzte Jahre eine doppelte, das vorletzte Jahr eine einfache Gewichtung.
-    >
-    > Zusätzlich zu diesen Jahrespunkten werden Bonuspunkte (BP) basierend auf den gezeigten Leistungen des Vorjahres vergeben, die sich nach den Ergebnissen der Spieler richten, die in diesem Jahr für die Altersklasse spielberechtigt wären. Für die vordersten fünf Platzierungen der Rangliste der Spieler des Vorjahres, die nicht dem ältesten Jahrgang angehörten, werden 0.5 bis 0.1 Bonuspunkte vergeben. Für die vordersten zehn Platzierungen der Rangliste der Spieler des Vorjahres aus der nächstjüngeren Altersklasse, die dem ältesten Jahrgang angehörten, werden 1.0 bis 0.1 Bonuspunkte vergeben; im Falle der jüngsten Altersklasse werden keine weitere Bonuspunkte verteilt. Kommen weniger als fünf bzw. zehn Spieler zur Ranglistenbildung in Frage, werden entsprechend weniger Bonuspunkte vergeben.
-    >
-    > Die so erreichten Bonuspunkte werden zusammen mit den Jahrespunkten zu Gesamtpunkten (GP) addiert. Entsprechend ihrer Rangliste werden Plätze vergeben. Bei Punktgleichheit entscheiden die Jahresdurchschnittspunkte des aktuellsten Jahres, danach die höchste Vorjahresplatzierung aller Spieler dieser Altersklasse.
-    >
-    > U14, U12w und U10w: 1.-6. Platz = 3 Teilnehmer, 7.-12. Platz = 2 Teilnehmer, 13.-17. Platz = 1 Teilnehmer.
-    >
-    > U12 und U10: 1. Platz = 5 Teilnehmer, 2.-5. Platz = 4 Teilnehmer, 6.-10. Platz = 3 Teilnehmer, 11.-17. Platz = 2 Teilnehmer.
-    >
-    > *Übergangsbestimmung in Folge der Trennung in U12/U12w sowie U10/U10w: Zur Berechnung werden alle Jungen der U12, alle Mädchen der U12w zugeordnet; entsprechendes für die U10.*
+    > <strong> Durchschnittspunkte: </strong> Pro Landesverband werden die Punkte aller Spieler addiert und durch die Anzahl der gespielten Partien (inklusive kampfloser Partien) dividiert. Wenn ein Landesverband auf Qualifikationsplätze verzichtet, geht pro unbesetztem Qualifikationsplatz ein fiktiver Spieler, der alle Partien verliert, in die Durchschnittsbildung ein. Dazu werden die Endtabellen der letzten beiden Deutschen Einzelmeisterschaften dieser Altersklasse herangezogen. Dabei erfährt das letzte Jahr eine doppelte und das vorletzte Jahr eine einfache Gewichtung. 
 
-1.  In den Altersklassen U14, U12, U12w, U10 und U10w erhalten alle Kaderspieler in ihrer jeweiligen Altersklasse einen Freiplatz.
+    > <strong> Bonuspunkte: </strong> Die bestplatzierten Spieler erringen Bonuspunkte für den Landesverband, für den sie bei der letzten Deutschen Einzelmeisterschaft angetreten sind:
+    > * Die besten fünf Spieler, die in dieser Altersklasse verbleiben (= jüngerer Jahrgang und jüngere Altersklasse), werden mit 0,5 (Platz 1) bis 0,1 (Platz 5) Bonuspunkten belohnt.
+    > * Die besten zehn Spieler des ältesten Jahrgangs der nächstjüngeren Altersklasse werden mit 1,0 (Platz 1) bis 0,1 (Platz 10) Bonuspunkten belohnt. Dies gilt für die jüngste Altersklasse (U10, U10w) nicht. Kommen dabei weniger als fünf bzw. zehn Spieler zur Ranglistenbildung in Frage, werden entsprechend weniger Bonuspunkte vergeben. Es werden die Endtabellen der letzten Deutschen Einzelmeisterschaft herangezogen. 
 
-    Es können jeweils bis zu elf weitere Freiplätze vergeben werden. Der AKS kann das Freiplatzkontingent bei außergewöhnlichen Umständen um jeweils bis zu vier weitere Freiplätze erhöhen.
-    
-    > Der AKS kann das Freiplatzkontingent erhöhen, wenn in einem Jahr eine außergewöhnlich hohe Zahl von starken Spielern in der jeweiligen Altersklasse zusammenkommt. Eine außergewöhnlich hohe Zahl liegt jedenfalls dann vor, wenn die Zahl der Kaderspieler der Zahl der ordentlichen Freiplätze entspricht oder diese übersteigt.
+    > <strong> Kontingentberechnung als gewichtete Summe: </strong> Aus der Addition der zehnfachen Durchschnitts- und der einfachen Bonuspunkte ergibt sich eine Rangliste der Landesverbände. Bei Punktgleichheit entscheiden die höheren Durchschnittspunkte der letzten Deutschen Einzelmeisterschaft dieser Altersklasse, danach die beste Einzelplatzierung innerhalb dieser Altersklasse. Die Anzahl der Qualifikationsplätze pro Landesverband ergibt sich aus dieser Rangliste:
+    > * U14, U12w und U10w: 
+    >   * 1.-6. Platz = 3 Teilnehmer
+    >   * 7.-12. Platz = 2 Teilnehmer
+    >   * 13.-17. Platz = 1 Teilnehmer
+    > * U12 und U10: 
+    >   * 1.Platz = 5 Teilnehmer
+    >   * 2.-5. Platz = 4 Teilnehmer
+    >   * 6.-10. Platz = 3 Teilnehmer
+    >   * 11.-17. Platz = 2 Teilnehmer    
 
-    > Der DBSB kann in den Altersklassen U18, U18w, U16, U16w und U14w je einen, in den Altersklassen U14, U12, U12w, U10 und U10w je zwei Freiplatzkandidaten nominieren. Dem Freiplatzantrag ist zu entsprechen, wenn die Spielstärke des Kandidaten dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung hierüber trifft der Vorstand. Ein so vergebener Freiplatz zählt bei der Entscheidung des AKS über die Erhöhung des Freiplatzkontingents nicht als ordentlicher Freiplatz.
+1.  Kaderspieler des Deutschen Schachbundes erhalten in ihrer jeweiligen Altersklasse einen Startplatz. 
 
-    > Die weiteren Freiplätze vergeben der zuständige Nationale Spielleiter und der Beauftragte für Leistungssport auf Vorschlag des Bundesnachwuchstrainers.
+    Je Altersklasse werden bis zu acht Freiplätze vergeben. Wenn ein Landesverband auf Qualifikationsplätze gemäß 6.3 bzw. 6.4 verzichtet, kann der AKS die Anzahl der Freiplätze entsprechend erhöhen. 
+
+    Bei außergewöhnlichen Umständen kann der AKS die Anzahl der Freiplätze um bis zu vier erhöhen. 
+
+    > Ein außergewöhnlicher Umstand im Sinne von JSpO 6.5 liegt jedenfalls dann vor, wenn in einer Altersklasse besonders viele starke Spieler einen Freiplatz erhalten. 
+
+    > Der Deutsche Blinden- und Sehbehinderten-Schachbund kann in den Altersklassen U18, U18w, U16, U16w und U14w je einen, in den Altersklassen U14, U12, U12w, U10, U10w und U8 je zwei Freiplatzkandidaten nominieren. Diese erhalten einen Startplatz, wenn ihre Spielstärke dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung obliegt dem Spielausschuss.    
+
+    > Freiplätze werden durch ein Gremium, bestehend aus dem zuständigen Nationalen Spielleiter, dem Beauftragten für Leistungssport und dem Bundesnachwuchstrainer, vergeben. 
 
 1.  Der Sieger erhält den Titel "Deutscher Jugendmeister [jeweilige Altersklasse] [Jahreszahl]" bzw. "Deutsche Jugendmeisterin [jeweilige Altersklasse] [Jahreszahl]".
 
