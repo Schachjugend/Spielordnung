@@ -1,0 +1,49 @@
+name: Publish Spielordnung
+on: 
+  pull_request:
+    branches: [ master, main ]
+jobs:
+  Publish_Spielordnung:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Create commit
+        run: |
+          
+          CURRENT_COMMIT_JSPO=`git rev-parse HEAD`
+          echo "Letzter Commit ist $CURRENT_COMMIT_JSPO"
+        
+          echo "Richte git ein"
+          git clone -b gh-pages "https://${GH_TOKEN}@github.com/Schachjugend/Spielordnung.git" exporte
+          echo "Clone war erfolgreich"
+          
+          echo "Lade md-tools"
+          git clone -b master https://github.com/Schachjugend/md-tools.git md-tools
+          cd md-tools
+          npm install
+          CURRENT_COMMIT_MD_TOOLS=`git rev-parse HEAD`
+          cd ..
+        
+          rm -rf exporte/Spielordnung*
+          echo "Erstelle Exporte"
+          ./md-tools/bin/schachjugend-md spielordnung all --commit-md=$CURRENT_COMMIT_JSPO --commit-creator=$CURRENT_COMMIT_MD_TOOLS ./Spielordnung.md ./exporte || exit 1
+          cd exporte/
+          echo "Push auf gh-pages"
+          
+          git config --local user.email "aks@deutsche-schachjugend.de"
+          git config --local user.name "Arbeitskreis Spielbetrieb"
+          
+          echo "Config set"
+          
+          git add -A
+          git commit --allow-empty -m "Aktuelle Fassung per $CURRENT_COMMIT_JSPO" || exit 1
+          echo "Commit done"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: gh-pages
+          directory: exporte
