@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 09. Mai 2021 in einer Videokonferenz beschlossen.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 09. Mai 2021 in einer Videokonferenz beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 01. September 2021 in einer Videokonferenz aktualisiert. 
 
 ## 1. Grundsätze
 
@@ -231,7 +231,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 	> 3. die Partie aufzugeben,
 	> 4. nach Anfrage des Spielers, die Partie 	fortzusetzen.
 
-	 > Weiterhin darf er nach einer Anfrage des Spielers nach i. oder iv. dem Spieler die Entscheidung selbst überlassen.
+	 > Weiterhin darf er nach einer Anfrage des Spielers nach 1. oder 4. dem Spieler die Entscheidung selbst überlassen.
    
     > Der Mannschaftsführer soll während der Runden erkennbar sein. Der Turnierverantwortliche kann näher zu bestimmende Kennzeichen zur Pflicht machen. 
     
@@ -253,7 +253,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Soweit nach der Spielordnung die Teilnahme mehrerer Mannschaften eines Landesverbands bzw. eines Vereins zugelassen ist, können in den Ausführungsbestimmungen insoweit Abweichungen von und Ergänzungen zu der Spielordnung erlassen werden.
 
-    > Reisen 20 oder weniger Mannschaften an, hat der Turnierverantwortliche abweichend zu AB zu 2.1 (1) die Auslosung dahingehend zu beeinflussen, dass die zwei in der Startrangliste am höchsten geführten Mannschaften des gleichen Landesverbands (bei den Ländermeisterschaften) bzw. des gleichen Vereins (bei den Vereinsmeisterschaften) in möglichst früher Runde aufeinander treffen.
+    > Reisen 20 oder weniger Mannschaften an, hat der Turnierverantwortliche die Auslosung dahingehend zu beeinflussen, dass die zwei in der Startrangliste am höchsten geführten Mannschaften des gleichen Landesverbands (bei den Ländermeisterschaften) bzw. des gleichen Vereins (bei den Vereinsmeisterschaften) in möglichst früher Runde aufeinander treffen.
 
     > Die Mannschaftskader samt Ersatzspielern sind getrennt zu bilden.
 
@@ -310,7 +310,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  An der DLM nehmen Landesverbandsmannschaften teil. Jeder Landesverband kann mindestens eine Mannschaft stellen. Der Ausrichter darf eine weitere Landesauswahl melden.
 
-    > Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Regionalauswahl gebildet werden. Für die Regionalauswahl sind alle Spieler einer Regionalgruppe nach 8.3 spielberechtigt. Die Regionalauswahl sollte möglichst aus der Region kommen, in der der Ausrichtungsort liegt.
+    > Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Regionalauswahl gebildet werden. Für die Regionalauswahl sind alle Spieler einer Regionalgruppe (siehe 8.2) spielberechtigt. Die Regionalauswahl sollte möglichst aus der Region kommen, in der der Ausrichtungsort liegt.
 
 1.  Bei den DLM sind je Mannschaft nur Spieler startberechtigt, die zum Zeitpunkt der DLM für einen Verein des jeweiligen Landesverbandes spielberechtigt sind. Findet ein Land nicht genügend eigene starke Spieler um die DLM zu beschicken, können Spielgemeinschaften mit bis zu vier Spielern zugelassen werden, die nach Satz 1 für einen anderen Landesverband startberechtigt sind.
 
