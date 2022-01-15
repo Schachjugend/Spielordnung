@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 09. Mai 2021 in einer Videokonferenz beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 01. September 2021 in einer Videokonferenz aktualisiert. 
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 09. Mai 2021 in einer Videokonferenz beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 11. Januar 2022 in einer Videokonferenz aktualisiert. 
 
 ## 1. Grundsätze
 
@@ -98,7 +98,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     >
     >   1.  Dauert die Partie bis über den angesetzten Beginn der nächsten Runde hinaus, verschiebt sich der Rundenbeginn auf 15 Minuten nach Ende der letzten Partie. Der Turnierverantwortliche gibt bei Ende der letzten Partie den Beginn der nächsten Runde bekannt. Für die beteiligten Spieler und Mannschaften gilt Nr. 1 entsprechend.
     >
-    >   1.  Aus zwingenden organisatorischen Gründen kann der Schiedsrichter die Partie unterbrechen und zu einem geeigneten Zeitpunkt als Hängepartie fortsetzen lassen.
+    >   1.  Aus zwingenden organisatorischen Gründen kann der Turnierverantwortliche die Partie unterbrechen und zu einem geeigneten Zeitpunkt als Hängepartie fortsetzen lassen.
 
 1.  Alle Spieler, Mannschaften und Begleiter sind verpflichtet, die Bestimmungen dieser Spielordnung und die zu der betreffenden Veranstaltung ergangene Ausschreibung zu beachten und den Gedanken des fair play zu berücksichtigen sowie die allgemeine Ordnung des Turniers zu wahren. Diese Verpflichtung erstreckt sich auch auf das Verhalten in der Unterkunft und während der spielfreien Zeit. Sie beinhaltet insbesondere die Beachtung allgemeiner Gebote und Verbote, die von der Turnierleitung, Ausrichter und Träger der Unterkunft erlassen wurden. Verstöße können nach Ziffer 3 geahndet werden.
 
