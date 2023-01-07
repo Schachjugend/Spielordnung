@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 09. Mai 2021 in einer Videokonferenz beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 11. Januar 2022 in einer Videokonferenz aktualisiert. 
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 09. Mai 2021 in einer Videokonferenz beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 16. Oktober 2022 in einer Präsenzsitzung aktualisiert. 
 
 ## 1. Grundsätze
 
