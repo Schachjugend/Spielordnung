@@ -151,17 +151,17 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     1.  weitere in den Ausführungsbestimmungen festgelegte Feinwertungen.
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
-    >   1. verfeinerte Buchholzwertung mit einem Streichergebnis,
-    >   1. Siegwertung,
-    >   1. Startrangliste.
+    >   1. Buchholzsummenwertung mit einem Streichergebnis,
+    >   1. Anzahl der Gewinnpartien (inkl. kampfloser Siege),
+    >   1. vordere Position in der Startrangliste.
 
 1.  Bei Punktgleichheit gelten bei Rundenturnieren nachfolgende Kriterien:
     1.  Sonneborn-Berger-Wertung,
     1.  weitere in den Ausführungsbestimmungen festgelegte Feinwertungen.
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
-    >   1. Siegwertung,
-    >   1. Startrangliste.
+    >   1. Anzahl der Gewinnpartien (inkl. kampfloser Siege),
+    >   1. vordere Position in der Startrangliste.
 
 1.  Teilnehmer und offizielle Betreuer der Landesverbände bei offiziellen Meisterschaften der DSJ werden mit einer Eigenbeteiligung belastet. Minderjährige Spieler müssen von einer volljährigen Person begleitet werden. Der Begleiter unterstützt den Turnierleiter bei der Wahrnehmung der gebotenen Aufsicht nach Maßgabe der örtlichen Gegebenheiten im Rahmen der vor Ort zu treffenden Absprachen. In Zweifelsfällen entscheidet der Turnierleiter. Die Auswahl einer geeigneten Begleitperson obliegt dem Landesverband des betreffenden Spielers. Von der Anwendung von Satz 2 kann der Turnierverantwortliche für die DEM U18, die DEM U18w, die DEM U16, die DEM U16w, die DEM U14 und die DEM U14w absehen, soweit diese Meisterschaften einzeln ausgerichtet werden.
 
@@ -198,20 +198,20 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
     >   1.  Brettpunkte,
-    >   1.  Buchholzwertung,
-    >   1.  Siegwertung,
-    >   1.  direkter Vergleich,
-    >   1.  Berliner Wertung,
-    >   1.  Startrangliste.
+    >   1.  Buchholzwertung (Mannschaftspunkte, ohne Streichergebnis),
+    >   1.  Anzahl der gewonnenen Mannschaftskämpfe (inkl. kampfloser Siege),
+    >   1.  Berliner Wertung aller Mannschaftskämpfe,
+    >   1.  vordere Position in der Startrangliste.
 
 1.  Bei Punktgleichheit gelten bei Rundenturnieren nachfolgende Kriterien:
     1. Anzahl der Brettpunkte,
     1. weitere in den Ausführungsbestimmungen festgelegte Feinwertungen.
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
-    >   1.  Sonneborn-Berger-Wertung,
-    >   1.  Siegwertung,
-    >   1.  Startrangliste
+    >   1.  Olympiade-Sonneborn-Berger-Wertung ohne Streichergebnis,
+    >   1.  Anzahl der gewonnenen Mannschaftskämpfe (inkl. kampfloser Siege),
+    >   1.  Berliner Wertung aller Mannschaftskämpfe,
+    >   1.  vordere Position in der Startrangliste.
 
 1.  Teilnehmer und offizielle Betreuer der Landesverbände bei offiziellen Meisterschaften der DSJ werden mit einer Eigenbeteiligung belastet. Jede Mannschaft wird von einem volljährigen Betreuer betreut. Dieser übt die Aufsicht über die Spieler seiner Mannschaft aus und ist für diese gegenüber Ausrichter, Turnierleiter und Bevollmächtigen der Unterkunft verantwortlich.
 
@@ -264,7 +264,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  In den Altersklassen U18, U18w, U16, U16w, U14, U14w, U12 und U12w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U10 und U10w jeweils ein Turnier mit elf Runden und in der Altersklasse U8 ein Turnier mit sieben Runden nach Schweizer System ausgetragen. 
 
-    > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an. Die Spielzeit in der Altersklasse U8 beträgt 55 Minuten bei zusätzlichen 5 Sekunden pro Zug von Beginn an. 
+    > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an. Die Spielzeit in der Altersklasse U8 beträgt 60 Minuten bei zusätzlichen 15 Sekunden pro Zug von Beginn an. 
 
 1.  Die Teilnehmerfelder für die DEM U18, U18w, U16, U16w und U14w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
 
