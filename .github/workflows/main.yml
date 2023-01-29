@@ -31,6 +31,10 @@ jobs:
           echo "Erstelle Exporte"
           ./md-tools/bin/schachjugend-md spielordnung all --commit-md=$CURRENT_COMMIT_JSPO --commit-creator=$CURRENT_COMMIT_MD_TOOLS ./Spielordnung.md ./exporte || exit 1
           cd exporte/
+          
+          echo "Folgende Dateien wurden erzeugt:"
+          ls -l
+          
           echo "Push auf gh-pages"
           
           git config --local user.email "aks@deutsche-schachjugend.de"
