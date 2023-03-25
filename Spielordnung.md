@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 09. Mai 2021 in einer Videokonferenz beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 16. Oktober 2022 in einer Präsenzsitzung aktualisiert. 
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 05. März 2023 in Frankfurt am Main beschlossen.
 
 ## 1. Grundsätze
 
@@ -20,6 +20,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     *   Deutsche Einzelmeisterschaften für Jugendliche unter 10 Jahren (DEM U10),
     *   Deutsche Einzelmeisterschaften für weibliche Jugendliche unter 10 Jahren (DEM U10w),
     *   Deutsche Einzelmeisterschaften für Jugendliche unter 8 Jahren (DEM U8),
+    *   Deutsche Einzelmeisterschaften für weibliche Jugendliche unter 8 Jahren (DEM U8w),
     *   Deutsche Meisterschaften für Länder-Jugendmannschaften (DLM),
     *   Deutsche Meisterschaft für Vereins-Jugendmannschaften (DVM U20),
     *   Deutsche Meisterschaft für Vereinsmannschaften der weiblichen Jugend (DVM U20w),
@@ -262,15 +263,15 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 6. DEM
 
-1.  In den Altersklassen U18, U18w, U16, U16w, U14, U14w, U12 und U12w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U10 und U10w jeweils ein Turnier mit elf Runden und in der Altersklasse U8 ein Turnier mit sieben Runden nach Schweizer System ausgetragen. 
+1.  In den Altersklassen U18, U18w, U16, U16w, U14, U14w, U12 und U12w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U10 und U10w jeweils ein Turnier mit elf Runden und in den Altersklassen U8 und U8w jeweils ein Turnier mit sieben Runden nach Schweizer System ausgetragen. 
 
-    > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an. Die Spielzeit in der Altersklasse U8 beträgt 60 Minuten bei zusätzlichen 15 Sekunden pro Zug von Beginn an. 
+    > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an. Die Spielzeit in den Altersklassen U8 und U8w beträgt 60 Minuten bei zusätzlichen 15 Sekunden pro Zug von Beginn an. 
 
 1.  Die Teilnehmerfelder für die DEM U18, U18w, U16, U16w und U14w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
 
-1. Das Teilnehmerfeld für die DEM U8 ergibt sich wie folgt: Jeder Landesverband erhält zwei Plätze, wobei ein Platz einer Spielerin vorbehalten ist. Die übrigen Plätze werden über die Regionalen U8-Kinderschachturniere und über das U8-Scoutingsystem vergeben. Die Ausführungsbestimmungen regeln, wie die Plätze ermittelt werden. 
+1. Die Teilnehmerfelder für die DEM U8 und U8w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Weitere Plätze werden über die Regionalen U8-Kinderschachturniere und über das U8-Scoutingsystem vergeben. Die Ausführungsbestimmungen regeln, wie die Plätze ermittelt werden. 
     
-    > Über die Regionalen U8-Kinderschachturniere und das U8-Scoutingsystem werden bis zu 36 weitere Plätze vergeben. Pro Regionalem U8-Kinderschachturnier qualifizieren sich der bestplatzierte Junge und das bestplatzierte Mädchen, sofern sie mindestens 50 % der im Turnier erzielbaren Punkte erreichen und sich zu diesem Zeitpunkt noch nicht qualifiziert haben. Die restliche Plätze werden über das U8-Scoutingsystem vergeben. 
+    > Über die Regionalen U8-Kinderschachturniere und das U8-Scoutingsystem werden in der Altersklasse U8 bis zu 24 und in der Altersklasse U8w bis zu zwölf Plätze vergeben. Pro Regionalem U8-Kinderschachturnier qualifizieren sich der bestplatzierte Junge für die Altersklasse U8 und das bestplatzierte Mädchen für die Altersklasse U8w, sofern sie mindestens 50 % der im Turnier erzielbaren Punkte erreichen und sich zu diesem Zeitpunkt noch nicht qualifiziert haben. Die restlichen Plätze werden über das U8-Scoutingsystem vergeben. 
 
 1.  Die Teilnehmerfelder für die DEM U14, U12, U12w, U10 und U10w ergeben sich wie folgt: Die Landesverbände entsenden in den Altersklassen U14, U12w und U10w jeweils 35, in den Altersklassen U12 und U10 jeweils 50 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der in den Vorjahren erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
 
@@ -293,15 +294,15 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Kaderspieler des Deutschen Schachbundes erhalten in ihrer jeweiligen Altersklasse einen Startplatz. 
 
-    Je Altersklasse werden bis zu acht Freiplätze vergeben. Wenn ein Landesverband auf Qualifikationsplätze gemäß 6.3 bzw. 6.4 verzichtet, kann der AKS die Anzahl der Freiplätze entsprechend erhöhen. 
+    Je Altersklasse werden bis zu acht Freiplätze vergeben. Abweichend hiervon werden in den Altersklassen U8 und U8w jeweils bis zu fünf Freiplätze vergeben. Wenn ein Landesverband auf Qualifikationsplätze gemäß 6.2, 6.3 bzw. 6.4 verzichtet, kann der AKS die Anzahl der Freiplätze entsprechend erhöhen. 
 
     Bei außergewöhnlichen Umständen kann der AKS die Anzahl der Freiplätze um bis zu vier erhöhen. 
 
     > Ein außergewöhnlicher Umstand im Sinne von JSpO 6.5 liegt jedenfalls dann vor, wenn in einer Altersklasse besonders viele starke Spieler einen Freiplatz erhalten. 
 
-    > Der Deutsche Blinden- und Sehbehinderten-Schachbund kann in den Altersklassen U18, U18w, U16, U16w und U14w je einen, in den Altersklassen U14, U12, U12w, U10, U10w und U8 je zwei Freiplatzkandidaten nominieren. Diese erhalten einen Startplatz, wenn ihre Spielstärke dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung obliegt dem Spielausschuss.    
+    > Der Deutsche Blinden- und Sehbehinderten-Schachbund kann in den Altersklassen U18, U18w, U16, U16w und U14w je einen, in den Altersklassen U14, U12, U12w, U10, U10w und U8 und U8w je zwei Freiplatzkandidaten nominieren. Diese erhalten einen Startplatz, wenn ihre Spielstärke dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung obliegt dem Spielausschuss.    
 
-    > Freiplätze werden durch ein Gremium, bestehend aus dem zuständigen Nationalen Spielleiter, dem Beauftragten für Leistungssport und dem Bundesnachwuchstrainer, vergeben. 
+    > Freiplätze werden durch ein Gremium, bestehend aus dem zuständigen Nationalen Spielleiter, dem Beauftragten für Leistungssport und dem Bundesnachwuchstrainer, vergeben. Abweichend hiervon werden die Freiplätze in den Altersklassen U8 und U8w durch das Gremium vergeben, das über die Vergabe der Plätze im U8-Scoutingsystem entscheidet.
 
 1.  Der Sieger erhält den Titel "Deutscher Jugendmeister [jeweilige Altersklasse] [Jahreszahl]" bzw. "Deutsche Jugendmeisterin [jeweilige Altersklasse] [Jahreszahl]".
 
