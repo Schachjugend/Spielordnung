@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 05. März 2023 in Frankfurt am Main beschlossen.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 05. März 2023 in Frankfurt am Main beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 25. März 2023 in einer Onlinesitzung aktualisiert. 
 
 ## 1. Grundsätze
 
@@ -271,7 +271,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1. Die Teilnehmerfelder für die DEM U8 und U8w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Weitere Plätze werden über die Regionalen U8-Kinderschachturniere und über das U8-Scoutingsystem vergeben. Die Ausführungsbestimmungen regeln, wie die Plätze ermittelt werden. 
     
-    > Über die Regionalen U8-Kinderschachturniere und das U8-Scoutingsystem werden in der Altersklasse U8 bis zu 24 und in der Altersklasse U8w bis zu zwölf Plätze vergeben. Pro Regionalem U8-Kinderschachturnier qualifizieren sich der bestplatzierte Junge für die Altersklasse U8 und das bestplatzierte Mädchen für die Altersklasse U8w, sofern sie mindestens 50 % der im Turnier erzielbaren Punkte erreichen und sich zu diesem Zeitpunkt noch nicht qualifiziert haben. Die restlichen Plätze werden über das U8-Scoutingsystem vergeben. 
+    > Über die Regionalen U8-Kinderschachturniere und das U8-Scoutingsystem werden in der Altersklasse U8 bis zu 24 und in der Altersklasse U8w bis zu zwölf Plätze vergeben. Pro Regionalem U8-Kinderschachturnier qualifizieren sich der bestplatzierte Junge für die Altersklasse U8 und das bestplatzierte Mädchen für die Altersklasse U8w, sofern sie mindestens 50 % der im Turnier erzielbaren Punkte erreichen und sich zu diesem Zeitpunkt noch nicht qualifiziert haben. Ist dieser Junge bzw. dieses Mädchen bereits qualifiziert, so wird der Platz unter Berücksichtigung der 50-Prozent-Grenze an den Nächstplatzierten bzw. die Nächstplatzierte weitergereicht. Die restlichen Plätze werden über das U8-Scoutingsystem vergeben. 
 
 1.  Die Teilnehmerfelder für die DEM U14, U12, U12w, U10 und U10w ergeben sich wie folgt: Die Landesverbände entsenden in den Altersklassen U14, U12w und U10w jeweils 35, in den Altersklassen U12 und U10 jeweils 50 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der in den Vorjahren erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
 
