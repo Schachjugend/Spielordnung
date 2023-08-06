@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 05. März 2023 in Frankfurt am Main beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 25. März 2023 in einer Onlinesitzung aktualisiert. 
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 05. März 2023 in Frankfurt am Main beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 19. Juni 2023 in einer Onlinesitzung aktualisiert. 
 
 ## 1. Grundsätze
 
@@ -334,7 +334,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Bei den DVM sind je Mannschaft grundsätzlich die Spieler startberechtigt, die in der der DVM vorangegangenen Saison für diesen Verein spielberechtigt waren. Spieler, die in ebendieser Saison für keinen Verein spielberechtigt waren, sind nur für den Verein startberechtigt, für den sie zum Zeitpunkt der DVM spielberechtigt sind.
 
-    > Für die Spielberechtigung der der DVM vorangegangenen Saison ist grundsätzlich der Passschreibungstermin (in der Regel 15. Juli) des Vorjahres der DVM maßgeblich; zu einem anderen Zeitpunkt in Kraft getretene Spielberechtigungen sind von dem Verein nachzuweisen.
+    > Für die Spielberechtigung der der DVM vorangegangenen Saison ist die aktive Mitgliedschaft zum 15. Juli des Vorjahres der DVM maßgeblich. Auf begründeten Antrag kann der Spielausschuss Ausnahmen genehmigen. Die Genehmigung wird in jedem Fall erteilt, falls der wechselnde Spieler für seinen alten Verein in keiner Altersklasse im Qualifikationszyklus der laufenden Saison eingesetzt wurde und der Wechsel vor dem 15. Januar des Jahres der DVM stattgefunden hat.
 
 1.  Zur Ermittlung der teilnehmenden Mannschaften werden folgende Regionalgruppen gebildet:
 
@@ -356,7 +356,14 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Der Ausrichter erhält einen Freiplatz, es können bis zu zwei weitere Freiplätze vergeben werden. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Regionalgruppen verteilt. Das Nähere regeln die Ausführungsbestimmungen.
 
-    > Die Freiplätze vergibt der Spielausschuss.
+    > Die Freiplätze vergibt der Spielausschuss. Dabei werden u.a. die folgenden Kriterien berücksichtigt: 
+    >   *   Teilnahme am Turnier, das die Qualifikanten der jeweiligen Regionalgruppe zur DVM ermittelt
+    >   *   Voraussichtliche Aufstellung
+    >   *   Ergebnis im Qualifikationszyklus
+    >   *   Vorjahresplatzierungen bei der DVM der gleichen bzw. entsprechend jüngeren Altersklasse
+    >   *   Regelmäßige Teilnahme an der DVM der Vorjahre
+    >   *   Ausgeglichene regionale Zusammensetzung des Teilnehmerfeldes
+    >   *   Fairplay
 
     > Der Ausrichter kann mit einer zweiten Mannschaft starten, sofern dies zum Erreichen einer geraden Teilnehmerzahl führt.
 
@@ -390,7 +397,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Abweichend zu 8.1 sind bei der DVM U20w je Mannschaft Spielerinnen startberechtigt, die in der laufenden Saison für diesen Verein spielberechtigt sind.
 
-    > Für die Spielberechtigung der laufenden Saison ist grundsätzlich der Passschreibungstermin (in der Regel 15. Juli) des laufenden Jahres der DVM maßgeblich; zu einem anderen Zeitpunkt in Kraft getretene Spielberechtigungen sind von dem Verein nachzuweisen.
+    > Für die Spielberechtigung der laufenden Saison ist die aktive Mitgliedschaft zum 15. Juli des Jahres der DVM maßgeblich. Auf begründeten Antrag kann der Spielausschuss Ausnahmen genehmigen.
 
 1.  Abweichend zu 8.2 wird die DVM U20w als offenes Turnier ausgetragen. 8.4 findet keine Anwendung. Die Teilnehmerzahl kann beschränkt werden, wobei mindestens 16 Plätze angeboten werden sollen. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U20.
 
@@ -483,6 +490,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 > Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 600.
 
 1.  An der DVM U10 nehmen 40 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 und startberechtigt abweichend von 8.1 sind alle Jugendlichen, die in der laufenden Saison für diesen Verein spielberechtigt sind. Abweichend von Ziffer 2.5 beträgt die Spielzeit 55 Minuten bei zusätzlichen 5 Sekunden pro Zug von Beginn an.
+
+    > Für die Spielberechtigung der laufenden Saison ist die aktive Mitgliedschaft zum 15. Juli des Jahres der DVM maßgeblich. Auf begründeten Antrag kann der Spielausschuss Ausnahmen genehmigen.
 
     > Abweichend zu AB zu 2.5 (1) erhält jeder Spieler, der nach der Erklärung des Schiedsrichters, die Runde sei eröffnet (Spielbeginn), im Spielbereich eintrifft, eine Zeitstrafe von 15 Minuten, vorausgesetzt dass dies nicht seine erste Verspätung in diesem Turnier war.
 
