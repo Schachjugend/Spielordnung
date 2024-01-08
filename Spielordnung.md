@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 05. März 2023 in Frankfurt am Main beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 19. Juni 2023 in einer Onlinesitzung aktualisiert. 
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 05. März 2023 in Frankfurt am Main beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 18. Dezember 2023 in einer Onlinesitzung aktualisiert. 
 
 ## 1. Grundsätze
 
