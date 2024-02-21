@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 05. März 2023 in Frankfurt am Main beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 18. Dezember 2023 in einer Onlinesitzung aktualisiert. 
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 05. März 2023 in Frankfurt am Main beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 19. Februar 2024 in einer Onlinesitzung aktualisiert. 
 
 ## 1. Grundsätze
 
@@ -334,7 +334,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Bei den DVM sind je Mannschaft grundsätzlich die Spieler startberechtigt, die in der der DVM vorangegangenen Saison für diesen Verein spielberechtigt waren. Spieler, die in ebendieser Saison für keinen Verein spielberechtigt waren, sind nur für den Verein startberechtigt, für den sie zum Zeitpunkt der DVM spielberechtigt sind.
 
-    > Für die Spielberechtigung der der DVM vorangegangenen Saison ist die aktive Mitgliedschaft zum 15. Juli des Vorjahres der DVM maßgeblich. Auf begründeten Antrag kann der Spielausschuss Ausnahmen genehmigen. Die Genehmigung wird in jedem Fall erteilt, falls der wechselnde Spieler für seinen alten Verein in keiner Altersklasse im Qualifikationszyklus der laufenden Saison eingesetzt wurde und der Wechsel vor dem 15. Januar des Jahres der DVM stattgefunden hat.
+    > Für die Spielberechtigung der der DVM vorangegangenen Saison ist die aktive Mitgliedschaft zum 15. Juli des Vorjahres der DVM maßgeblich. Auf begründeten Antrag kann der Spielausschuss Ausnahmen genehmigen.
 
 1.  Zur Ermittlung der teilnehmenden Mannschaften werden folgende Regionalgruppen gebildet:
 
