@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 05. März 2023 in Frankfurt am Main beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 19. Februar 2024 in einer Onlinesitzung aktualisiert. 
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 10. März 2024 in Mannheim beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 19. Februar 2024 in einer Onlinesitzung aktualisiert. 
 
 ## 1. Grundsätze
 
@@ -439,6 +439,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  In jeder Mannschaft ist abweichend von Ziffer 8.1 eine Spielerin startberechtigt, die in der der DVM vorangegangenen Saison einem anderen Verein angehörte, sofern dieser dem Gastspiel zustimmt. Sie darf zudem im Qualifikationszyklus zu dieser DVM - gleich auf welcher Ebene - nicht zuvor für diesen anderen oder einen dritten Verein gemeldet worden sein.
 
+    Abweichend von Ziffer 8.1 sind Spielerinnen nicht für ihren Verein startberechtigt, wenn sie im Qualifikationszyklus zu dieser DVM - gleich auf welcher Ebene - für einen anderen Verein gemeldet wurden.
+
     > Die Gastspielgenehmigung gilt als erteilt, falls der abgebende Verein mit keiner eigenen Mannschaft an einer Altersklasse dieser DVM teilnimmt, für die die Spielerin spielberechtigt ist.
 
     > Eine Spielerin, die in der vergangenen Saison für einen anderen Verein spielberechtigt war und nun zu dem Verein gewechselt ist, für den sie bei der DVM eingesetzt werden soll, ist gleichwohl nur als Gastspielerin startberechtigt.
@@ -477,6 +479,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  In jeder Mannschaft ist abweichend von Ziffer 8.1 eine Spielerin startberechtigt, die in der der DVM vorangegangenen Saison einem anderen Verein angehörte, sofern dieser dem Gastspiel zustimmt. Sie darf zudem im Qualifikationszyklus zu dieser DVM - gleich auf welcher Ebene - nicht zuvor für diesen anderen oder einen dritten Verein gemeldet worden sein.
 
+    Abweichend von Ziffer 8.1 sind Spielerinnen nicht für ihren Verein startberechtigt, wenn sie im Qualifikationszyklus zu dieser DVM - gleich auf welcher Ebene - für einen anderen Verein gemeldet wurden.
+
     > Die Gastspielgenehmigung gilt als erteilt, falls der abgebende Verein mit keiner eigenen Mannschaft an einer Altersklasse dieser DVM teilnimmt, für die die Spielerin spielberechtigt ist.
 
     > Eine Spielerin, die in der vergangenen Saison für einen anderen Verein spielberechtigt war und nun zu dem Verein gewechselt ist, für den sie bei der DVM eingesetzt werden soll, ist gleichwohl nur als Gastspielerin startberechtigt.
@@ -509,7 +513,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 17. DSM
 
-1.  Die DSM werden jährlich in fünf Wettkampfklassen (WK) ausgetragen. Teilnahmeberechtigt sind allgemein- und berufsbildende Schulen außer Institutionen, die überwiegend der Erwachsenenbildung dienen.
+1.  Die DSM werden jährlich in sieben Wettkampfklassen (WK) ausgetragen. Teilnahmeberechtigt sind allgemein- und berufsbildende Schulen außer Institutionen, die überwiegend der Erwachsenenbildung dienen.
 
     > Die Meisterschaften werden nicht nach DWZ oder Elo ausgewertet.
 
@@ -530,11 +534,13 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     für die WK G alle Schülerinnen und Schüler, die die Klassen 1 bis 4 besuchen;
 
+    für die WK G M alle Schülerinnen, die die Klassen 1 bis 4 besuchen;
+
     für die WK HR alle Schülerinnen und Schüler, die keine Grundschule, kein Gymnasium und keinen gymnasialen Zweig besuchen.
 
     Ziffer 1.4 findet keine Anwendung.
 
-1.  Jeder Landesverband entsendet je eine Mannschaft in den WK II, III und M; in der WK IV je zwei Mannschaften und in der WK G je nach Kapazität des Ausrichtungsortes bis zu vier Mannschaften. Der Ausrichter erhält einen Freiplatz, in der WK IV und G zwei Freiplätze. Bei der WK G wird ein größeres Feld (Open-Charakter) angestrebt. Der AK Schulschach besetzt gegebenenfalls weitere freie Plätze. Die WK HR wird als offizielles Turnier ausgetragen; die Teilnehmerzahl kann beschränkt werden, wobei mindestens 18 Plätze angeboten werden sollen. Der AK Schulschach kann Nachrücker für die Plätze nominieren, die von den Landesverbänden und Ausrichtern nicht wahrgenommen werden. In der WK M kann der AK Schulschach je nach Kapazität des Ausrichters bis zu 18 weitere Nachrückerplätze vergeben.
+1.  Jeder Landesverband entsendet je eine Mannschaft in den WK II, III, M und G M; in der WK IV je zwei Mannschaften und in der WK G je nach Kapazität des Ausrichtungsortes bis zu vier Mannschaften. Der Ausrichter erhält einen Freiplatz, in der WK IV und G zwei Freiplätze. Bei der WK G wird ein größeres Feld (Open-Charakter) angestrebt. Der AK Schulschach besetzt gegebenenfalls weitere freie Plätze. Die WK HR wird als offizielles Turnier ausgetragen; die Teilnehmerzahl kann beschränkt werden, wobei mindestens 18 Plätze angeboten werden sollen. Der AK Schulschach kann Nachrücker für die Plätze nominieren, die von den Landesverbänden und Ausrichtern nicht wahrgenommen werden. In der WK M kann der AK Schulschach je nach Kapazität des Ausrichters bis zu 18 weitere Nachrückerplätze vergeben.
 
     > Der AK Schulschach beschließt die Feldgröße der WK G im Benehmen mit dem Ausrichter.
 
@@ -557,7 +563,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Der Spielbereich ist für Betreuer und Zuschauer nicht zugänglich. Der Ausrichter sorgt für eine entsprechende Absperrung.
 
-1.  Die Spielzeit beträgt je Spieler 50 Minuten bei zusätzlichen 10 Sekunden pro Zug für die gesamte Partie, in der WK IV, WK HR und in der WK G 30 Minuten pro Spieler.
+1.  Die Spielzeit beträgt je Spieler 50 Minuten bei zusätzlichen 10 Sekunden pro Zug für die gesamte Partie, in der WK IV, WK HR, WK G und in der WK G M 30 Minuten pro Spieler.
 
 1.  Der Referent für Schulschach hat in Zusammenarbeit mit dem Arbeitskreis Schulschach das Recht, für die einzelnen Wettkampfklassen Regelungen und Richtlinien zur Durchführung festzulegen und in einzelnen Fällen Sonderregelungen zu treffen; dabei kann von Regelungen der Ziffer 5, nicht aber von Regelungen und Ausführungsbestimmungen der Ziffern 17.1 bis 17.7 abgewichen werden. Alle Festlegungen sind mit den Ausschreibungen der Wettkampfklassen rechtzeitig zu veröffentlichen.
 
