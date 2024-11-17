@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 10. März 2024 in Mannheim beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 19. Februar 2024 in einer Onlinesitzung aktualisiert. 
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 10. März 2024 in Mannheim beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Schulschach der Deutschen Schachjugend am 22. September 2024 in Rotenburg (Wümme) aktualisiert.
 
 ## 1. Grundsätze
 
@@ -540,9 +540,13 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     Ziffer 1.4 findet keine Anwendung.
 
+    > Mit der WK HR sind folgende Schularten angesprochen: Haupt- und Mittelschulen, Realschulen, Gesamtschulen, Gemeinschaftsschulen, Sekundarschulen, Wirtschaftsschulen (Bayern) und weitere vergleichbare Schulformen.
+
 1.  Jeder Landesverband entsendet je eine Mannschaft in den WK II, III, M und G M; in der WK IV je zwei Mannschaften und in der WK G je nach Kapazität des Ausrichtungsortes bis zu vier Mannschaften. Der Ausrichter erhält einen Freiplatz, in der WK IV und G zwei Freiplätze. Bei der WK G wird ein größeres Feld (Open-Charakter) angestrebt. Der AK Schulschach besetzt gegebenenfalls weitere freie Plätze. Die WK HR wird als offizielles Turnier ausgetragen; die Teilnehmerzahl kann beschränkt werden, wobei mindestens 18 Plätze angeboten werden sollen. Der AK Schulschach kann Nachrücker für die Plätze nominieren, die von den Landesverbänden und Ausrichtern nicht wahrgenommen werden. In der WK M kann der AK Schulschach je nach Kapazität des Ausrichters bis zu 18 weitere Nachrückerplätze vergeben.
 
-    > Der AK Schulschach beschließt die Feldgröße der WK G im Benehmen mit dem Ausrichter.
+    > Der AK Schulschach gibt die Teilnehmerzahl der einzelnen WKs bis 31. Dezember bekannt.
+    
+    > Die Freiplätze vergibt der AK Schulschach.
 
 1.  Jede Mannschaft der WK III, IV, M, G, H+R besteht aus vier Spielern derselben Schule. In der WK II besteht sie aus 6 Spielern.
     > Die Mannschaften sind nach Spielstärke aufzustellen. Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt. Über begründete Ausnahmen entscheidet der Turnierverantwortliche.
@@ -559,7 +563,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Die Teilnehmer spielen in jeder Wettkampfklasse ein Turnier nach Schweizer System mit sieben Runden, in der WK IV, WK HR und in der WK G im Regelfall neun Runden.
 
-    > Abweichend zu 5.3 gelten folgende Wertungskriterien: Mannschaftspunkte, Buchholzwertung, Anzahl der Brettpunkte, Siegwertung, direkter Vergleich. In der WK G gelten folgende Kriterien: Anzahl der Brettpunkte, Buchholzwertung, Siegwertung, direkter Vergleich.
+    > Abweichend zu 5.3 gelten folgende Wertungskriterien: Mannschaftspunkte, Buchholzwertung, Anzahl der Brettpunkte, Siegwertung, direkter Vergleich.
 
     > Der Spielbereich ist für Betreuer und Zuschauer nicht zugänglich. Der Ausrichter sorgt für eine entsprechende Absperrung.
 
