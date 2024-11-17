@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 10. März 2024 in Mannheim beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 19. Februar 2024 in einer Onlinesitzung aktualisiert. 
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 10. März 2024 in Mannheim beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 22. September 2024 in Rotenburg (Wümme) aktualisiert.
 
 ## 1. Grundsätze
 
