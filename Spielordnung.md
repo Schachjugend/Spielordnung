@@ -1,6 +1,7 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 10. März 2024 in Mannheim beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Schulschach der Deutschen Schachjugend am 22. September 2024 in Rotenburg (Wümme) aktualisiert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 10. März 2024 in Mannheim beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 18. November 2024 in einer Onlinesitzung aktualisiert. 
+
 
 ## 1. Grundsätze
 
@@ -153,16 +154,18 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
     >   1. Buchholzsummenwertung mit einem Streichergebnis,
+    >   1. Direkter Vergleich (sofern vollständig vorhanden),
     >   1. Anzahl der Gewinnpartien (inkl. kampfloser Siege),
-    >   1. vordere Position in der Startrangliste.
+    >   1. Turnierperformance-Rating (TPR).
 
 1.  Bei Punktgleichheit gelten bei Rundenturnieren nachfolgende Kriterien:
     1.  Sonneborn-Berger-Wertung,
     1.  weitere in den Ausführungsbestimmungen festgelegte Feinwertungen.
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
+    >   1. Direkter Vergleich (sofern vollständig vorhanden),
     >   1. Anzahl der Gewinnpartien (inkl. kampfloser Siege),
-    >   1. vordere Position in der Startrangliste.
+    >   1. Turnierperformance-Rating (TPR).
 
 1.  Teilnehmer und offizielle Betreuer der Landesverbände bei offiziellen Meisterschaften der DSJ werden mit einer Eigenbeteiligung belastet. Minderjährige Spieler müssen von einer volljährigen Person begleitet werden. Der Begleiter unterstützt den Turnierleiter bei der Wahrnehmung der gebotenen Aufsicht nach Maßgabe der örtlichen Gegebenheiten im Rahmen der vor Ort zu treffenden Absprachen. In Zweifelsfällen entscheidet der Turnierleiter. Die Auswahl einer geeigneten Begleitperson obliegt dem Landesverband des betreffenden Spielers. Von der Anwendung von Satz 2 kann der Turnierverantwortliche für die DEM U18, die DEM U18w, die DEM U16, die DEM U16w, die DEM U14 und die DEM U14w absehen, soweit diese Meisterschaften einzeln ausgerichtet werden.
 
@@ -180,6 +183,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 ## 5. Allgemeine Bestimmungen für Mannschaftsturniere
 
 > Die Startrangliste wird nach dem DWZ-Schnitt der Stammspieler aufgestellt.
+
+> Als Olympiade-Sonneborn-Berger-Wertung ist Ziffer 13.2.2 der Tie-Break Regulations in Abschnitt C.07 des FIDE Handbooks gemeint, d.h. die im Turnier insgesamt erzielten Mannschaftspunkte der gegnerischen Mannschaft werden mit den erzielten Brettpunkten der eigenen Mannschaft im direkten Duell gegen diese Mannschaft multipliziert.
 
 1.  Soweit durch diese Spielordnung nichts anderes bestimmt ist, gelten für alle Mannschaftsturniere die nachfolgenden Bestimmungen dieses Abschnitts.
 
@@ -199,10 +204,11 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
     >   1.  Brettpunkte,
+    >   1.  Direkter Vergleich (inkl. Berliner Wertung),
     >   1.  Buchholzwertung (Mannschaftspunkte, ohne Streichergebnis),
     >   1.  Anzahl der gewonnenen Mannschaftskämpfe (inkl. kampfloser Siege),
-    >   1.  Berliner Wertung aller Mannschaftskämpfe,
-    >   1.  vordere Position in der Startrangliste.
+    >   1.  Berliner Wertung aller Mannschaftskämpfe.
+    > Sollte hiernach keine Entscheidung gefallen sein, ist bei Titelentscheidungen ein Stichkampf zwischen den punktgleichen Mannschaften durchzuführen, die Ausführungsbestimmungen zu Ziffer 5.2 gelten entsprechend.
 
 1.  Bei Punktgleichheit gelten bei Rundenturnieren nachfolgende Kriterien:
     1. Anzahl der Brettpunkte,
@@ -210,9 +216,10 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
     >   1.  Olympiade-Sonneborn-Berger-Wertung ohne Streichergebnis,
+    >   1.  Direkter Vergleich (inkl. Berliner Wertung),
     >   1.  Anzahl der gewonnenen Mannschaftskämpfe (inkl. kampfloser Siege),
-    >   1.  Berliner Wertung aller Mannschaftskämpfe,
-    >   1.  vordere Position in der Startrangliste.
+    >   1.  Berliner Wertung aller Mannschaftskämpfe.
+    > Sollte hiernach keine Entscheidung gefallen sein, ist bei Titelentscheidungen ein Stichkampf zwischen den punktgleichen Mannschaften durchzuführen, die Ausführungsbestimmungen zu Ziffer 5.2 gelten entsprechend.
 
 1.  Teilnehmer und offizielle Betreuer der Landesverbände bei offiziellen Meisterschaften der DSJ werden mit einer Eigenbeteiligung belastet. Jede Mannschaft wird von einem volljährigen Betreuer betreut. Dieser übt die Aufsicht über die Spieler seiner Mannschaft aus und ist für diese gegenüber Ausrichter, Turnierleiter und Bevollmächtigen der Unterkunft verantwortlich.
 
@@ -254,8 +261,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Soweit nach der Spielordnung die Teilnahme mehrerer Mannschaften eines Landesverbands bzw. eines Vereins zugelassen ist, können in den Ausführungsbestimmungen insoweit Abweichungen von und Ergänzungen zu der Spielordnung erlassen werden.
 
-    > Reisen 20 oder weniger Mannschaften an, hat der Turnierverantwortliche die Auslosung dahingehend zu beeinflussen, dass die zwei in der Startrangliste am höchsten geführten Mannschaften des gleichen Landesverbands (bei den Ländermeisterschaften) bzw. des gleichen Vereins (bei den Vereinsmeisterschaften) in möglichst früher Runde aufeinander treffen.
-
     > Die Mannschaftskader samt Ersatzspielern sind getrennt zu bilden.
 
     > Abweichend zu 5.5 Satz 2 kann der Turnierverantwortliche genehmigen, dass mehrere Mannschaften von nur einem Betreuer betreut werden.
@@ -269,9 +274,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Die Teilnehmerfelder für die DEM U18, U18w, U16, U16w und U14w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
 
-1. Die Teilnehmerfelder für die DEM U8 und U8w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Weitere Plätze werden über die Regionalen U8-Kinderschachturniere und über das U8-Scoutingsystem vergeben. Die Ausführungsbestimmungen regeln, wie die Plätze ermittelt werden. 
+1.  Die Teilnehmerfelder für die DEM U8 und U8w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Weitere Plätze werden über die Regionalen U8-Kinderschachturniere und über das U8-Scoutingsystem vergeben. Die Ausführungsbestimmungen regeln, wie die Plätze ermittelt werden. 
     
-    > Pro Regionalem U8-Kinderschachturnier qualifizieren sich der bestplatzierte Junge für die Altersklasse U8 und das bestplatzierte Mädchen für die Altersklasse U8w, sofern sie mindestens 50 % der im Turnier erzielbaren Punkte erreichen und sich zu diesem Zeitpunkt noch nicht qualifiziert haben. Ist dieser Junge bzw. dieses Mädchen bereits qualifiziert, so wird der Platz unter Berücksichtigung der 50-Prozent-Grenze an den Nächstplatzierten bzw. die Nächstplatzierte weitergereicht. Weitere Plätze werden über das U8-Scoutingsystem vergeben, falls die Maximalanzahl von 24 Jungen bzw. 12 Mädchen noch nicht ausgeschöpft wurde. 
+    > Pro Regionalem U8-Kinderschachturnier qualifizieren sich der bestplatzierte Junge für die Altersklasse U8 und das bestplatzierte Mädchen für die Altersklasse U8w, sofern sie mindestens 50 % der im Turnier erzielbaren Punkte erreichen und sich zu diesem Zeitpunkt noch nicht qualifiziert haben. Ist dieser Junge bzw. dieses Mädchen bereits qualifiziert, so wird der Platz unter Berücksichtigung der 50-Prozent-Grenze an den Nächstplatzierten bzw. die Nächstplatzierte weitergereicht. Im Sinne der Qualifikation zur DEM U8 und U8w gilt die offene U8-Meisterschaft in Sebnitz als Regionales U8-Kinderschachturnier (ab der Saison 2025/26). Weitere Plätze werden über das U8-Scoutingsystem vergeben, falls die Maximalanzahl von 24 Jungen bzw. 12 Mädchen noch nicht ausgeschöpft wurde. 
 
 1.  Die Teilnehmerfelder für die DEM U14, U12, U12w, U10 und U10w ergeben sich wie folgt: Die Landesverbände entsenden in den Altersklassen U14, U12w und U10w jeweils 35, in den Altersklassen U12 und U10 jeweils 50 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der in den Vorjahren erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
 
@@ -303,6 +308,19 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Der Deutsche Blinden- und Sehbehinderten-Schachbund kann in den Altersklassen U18, U18w, U16, U16w und U14w je einen, in den Altersklassen U14, U12, U12w, U10, U10w und U8 und U8w je zwei Freiplatzkandidaten nominieren. Diese erhalten einen Startplatz, wenn ihre Spielstärke dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung obliegt dem Spielausschuss.    
 
     > Freiplätze werden durch ein Gremium, bestehend aus dem zuständigen Nationalen Spielleiter, dem Beauftragten für Leistungssport und dem Bundesnachwuchstrainer, vergeben. Abweichend hiervon werden die Freiplätze in den Altersklassen U8 und U8w durch das Gremium vergeben, das über die Vergabe der Plätze im U8-Scoutingsystem entscheidet.
+
+    > Dabei werden u.a. die folgenden Kriterien berücksichtigt:
+    > * Teilnahme an der Landesmeisterschaft der entsprechenden Altersklasse
+    > * Aktuelle Spielstärke
+    > * Ergebnis bei der Landesmeisterschaft
+    > * Entwicklung der Spielstärke
+    > * Alter
+    > * Vorjahresplatzierungen bei der DEM
+    > * Regelmäßige Qualifikation zu vergangenen DEMs 
+    > * Ausgeglichene regionale Zusammensetzung des Teilnehmerfeldes 
+    > * Fairplay
+
+    > Die Teilnahme an einem Turnier, das zeitgleich zur Landesmeisterschaft der entsprechenden Altersklasse stattfindet, ist ein Ausschlusskriterium. Dies gilt insbesondere für die Teilnahme an der Landesmeisterschaft in einer anderen Altersklasse als der, für die der Freiplatz beantragt wird.
 
 1.  Der Sieger erhält den Titel "Deutscher Jugendmeister [jeweilige Altersklasse] [Jahreszahl]" bzw. "Deutsche Jugendmeisterin [jeweilige Altersklasse] [Jahreszahl]".
 
@@ -361,7 +379,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     >   *   Voraussichtliche Aufstellung
     >   *   Ergebnis im Qualifikationszyklus
     >   *   Vorjahresplatzierungen bei der DVM der gleichen bzw. entsprechend jüngeren Altersklasse
-    >   *   Regelmäßige Teilnahme an der DVM der Vorjahre
+    >   *   Regelmäßige Qualifikation zu vergangenen DVMs
     >   *   Ausgeglichene regionale Zusammensetzung des Teilnehmerfeldes
     >   *   Fairplay
 
