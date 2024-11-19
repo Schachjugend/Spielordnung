@@ -271,7 +271,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Die Teilnehmerfelder für die DEM U8 und U8w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Weitere Plätze werden über die Regionalen U8-Kinderschachturniere und über das U8-Scoutingsystem vergeben. Die Ausführungsbestimmungen regeln, wie die Plätze ermittelt werden. 
     
-    > Pro Regionalem U8-Kinderschachturnier qualifizieren sich der bestplatzierte Junge für die Altersklasse U8 und das bestplatzierte Mädchen für die Altersklasse U8w, sofern sie mindestens 50 % der im Turnier erzielbaren Punkte erreichen und sich zu diesem Zeitpunkt noch nicht qualifiziert haben. Ist dieser Junge bzw. dieses Mädchen bereits qualifiziert, so wird der Platz unter Berücksichtigung der 50-Prozent-Grenze an den Nächstplatzierten bzw. die Nächstplatzierte weitergereicht. Weitere Plätze werden über das U8-Scoutingsystem vergeben, falls die Maximalanzahl von 24 Jungen bzw. 12 Mädchen noch nicht ausgeschöpft wurde. 
+    > Pro Regionalem U8-Kinderschachturnier qualifizieren sich der bestplatzierte Junge für die Altersklasse U8 und das bestplatzierte Mädchen für die Altersklasse U8w, sofern sie mindestens 50 % der im Turnier erzielbaren Punkte erreichen und sich zu diesem Zeitpunkt noch nicht qualifiziert haben. Ist dieser Junge bzw. dieses Mädchen bereits qualifiziert, so wird der Platz unter Berücksichtigung der 50-Prozent-Grenze an den Nächstplatzierten bzw. die Nächstplatzierte weitergereicht. Im Sinne der Qualifikation zur DEM U8 und U8w gilt die offene U8-Meisterschaft in Sebnitz als Regionales U8-Kinderschachturnier (ab der Saison 2025/26). Weitere Plätze werden über das U8-Scoutingsystem vergeben, falls die Maximalanzahl von 24 Jungen bzw. 12 Mädchen noch nicht ausgeschöpft wurde. 
 
 1.  Die Teilnehmerfelder für die DEM U14, U12, U12w, U10 und U10w ergeben sich wie folgt: Die Landesverbände entsenden in den Altersklassen U14, U12w und U10w jeweils 35, in den Altersklassen U12 und U10 jeweils 50 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der in den Vorjahren erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
 
@@ -374,7 +374,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     >   *   Voraussichtliche Aufstellung
     >   *   Ergebnis im Qualifikationszyklus
     >   *   Vorjahresplatzierungen bei der DVM der gleichen bzw. entsprechend jüngeren Altersklasse
-    >   *   Regelmäßige Teilnahme an der DVM der Vorjahre
+    >   *   Regelmäßige Qualifikation zu vergangenen DVMs
     >   *   Ausgeglichene regionale Zusammensetzung des Teilnehmerfeldes
     >   *   Fairplay
 
