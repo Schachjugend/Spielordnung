@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 10. März 2024 in Mannheim beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 19. Februar 2024 in einer Onlinesitzung aktualisiert. 
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 10. März 2024 in Mannheim beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 22. September 2024 in Rotenburg (Wümme) aktualisiert.
 
 ## 1. Grundsätze
 
@@ -153,16 +153,18 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
     >   1. Buchholzsummenwertung mit einem Streichergebnis,
+    >   1. Direkter Vergleich (sofern vollständig vorhanden),
     >   1. Anzahl der Gewinnpartien (inkl. kampfloser Siege),
-    >   1. vordere Position in der Startrangliste.
+    >   1. Turnierperformance-Rating (TPR).
 
 1.  Bei Punktgleichheit gelten bei Rundenturnieren nachfolgende Kriterien:
     1.  Sonneborn-Berger-Wertung,
     1.  weitere in den Ausführungsbestimmungen festgelegte Feinwertungen.
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
+    >   1. Direkter Vergleich (sofern vollständig vorhanden),
     >   1. Anzahl der Gewinnpartien (inkl. kampfloser Siege),
-    >   1. vordere Position in der Startrangliste.
+    >   1. Turnierperformance-Rating (TPR).
 
 1.  Teilnehmer und offizielle Betreuer der Landesverbände bei offiziellen Meisterschaften der DSJ werden mit einer Eigenbeteiligung belastet. Minderjährige Spieler müssen von einer volljährigen Person begleitet werden. Der Begleiter unterstützt den Turnierleiter bei der Wahrnehmung der gebotenen Aufsicht nach Maßgabe der örtlichen Gegebenheiten im Rahmen der vor Ort zu treffenden Absprachen. In Zweifelsfällen entscheidet der Turnierleiter. Die Auswahl einer geeigneten Begleitperson obliegt dem Landesverband des betreffenden Spielers. Von der Anwendung von Satz 2 kann der Turnierverantwortliche für die DEM U18, die DEM U18w, die DEM U16, die DEM U16w, die DEM U14 und die DEM U14w absehen, soweit diese Meisterschaften einzeln ausgerichtet werden.
 
@@ -180,6 +182,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 ## 5. Allgemeine Bestimmungen für Mannschaftsturniere
 
 > Die Startrangliste wird nach dem DWZ-Schnitt der Stammspieler aufgestellt.
+
+> Als Olympiade-Sonneborn-Berger-Wertung ist Ziffer 13.2.2 der Tie-Break Regulations in Abschnitt C.07 des FIDE Handbooks gemeint, d.h. die im Turnier insgesamt erzielten Mannschaftspunkte der gegnerischen Mannschaft werden mit den erzielten Brettpunkten der eigenen Mannschaft im direkten Duell gegen diese Mannschaft multipliziert.
 
 1.  Soweit durch diese Spielordnung nichts anderes bestimmt ist, gelten für alle Mannschaftsturniere die nachfolgenden Bestimmungen dieses Abschnitts.
 
@@ -199,10 +203,11 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
     >   1.  Brettpunkte,
+    >   1.  Direkter Vergleich (inkl. Berliner Wertung),
     >   1.  Buchholzwertung (Mannschaftspunkte, ohne Streichergebnis),
     >   1.  Anzahl der gewonnenen Mannschaftskämpfe (inkl. kampfloser Siege),
-    >   1.  Berliner Wertung aller Mannschaftskämpfe,
-    >   1.  vordere Position in der Startrangliste.
+    >   1.  Berliner Wertung aller Mannschaftskämpfe.
+    > Sollte hiernach keine Entscheidung gefallen sein, ist bei Titelentscheidungen ein Stichkampf zwischen den punktgleichen Mannschaften durchzuführen, die Ausführungsbestimmungen zu Ziffer 5.2 gelten entsprechend.
 
 1.  Bei Punktgleichheit gelten bei Rundenturnieren nachfolgende Kriterien:
     1. Anzahl der Brettpunkte,
@@ -210,9 +215,10 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Als weitere Feinwertungen werden die folgenden Kriterien in dieser Reihenfolge angewandt:
     >   1.  Olympiade-Sonneborn-Berger-Wertung ohne Streichergebnis,
+    >   1.  Direkter Vergleich (inkl. Berliner Wertung),
     >   1.  Anzahl der gewonnenen Mannschaftskämpfe (inkl. kampfloser Siege),
-    >   1.  Berliner Wertung aller Mannschaftskämpfe,
-    >   1.  vordere Position in der Startrangliste.
+    >   1.  Berliner Wertung aller Mannschaftskämpfe.
+    > Sollte hiernach keine Entscheidung gefallen sein, ist bei Titelentscheidungen ein Stichkampf zwischen den punktgleichen Mannschaften durchzuführen, die Ausführungsbestimmungen zu Ziffer 5.2 gelten entsprechend.
 
 1.  Teilnehmer und offizielle Betreuer der Landesverbände bei offiziellen Meisterschaften der DSJ werden mit einer Eigenbeteiligung belastet. Jede Mannschaft wird von einem volljährigen Betreuer betreut. Dieser übt die Aufsicht über die Spieler seiner Mannschaft aus und ist für diese gegenüber Ausrichter, Turnierleiter und Bevollmächtigen der Unterkunft verantwortlich.
 
