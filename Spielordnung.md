@@ -260,8 +260,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Soweit nach der Spielordnung die Teilnahme mehrerer Mannschaften eines Landesverbands bzw. eines Vereins zugelassen ist, können in den Ausführungsbestimmungen insoweit Abweichungen von und Ergänzungen zu der Spielordnung erlassen werden.
 
-    > Reisen 20 oder weniger Mannschaften an, hat der Turnierverantwortliche die Auslosung dahingehend zu beeinflussen, dass die zwei in der Startrangliste am höchsten geführten Mannschaften des gleichen Landesverbands (bei den Ländermeisterschaften) bzw. des gleichen Vereins (bei den Vereinsmeisterschaften) in möglichst früher Runde aufeinander treffen.
-
     > Die Mannschaftskader samt Ersatzspielern sind getrennt zu bilden.
 
     > Abweichend zu 5.5 Satz 2 kann der Turnierverantwortliche genehmigen, dass mehrere Mannschaften von nur einem Betreuer betreut werden.
