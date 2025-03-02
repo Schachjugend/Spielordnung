@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 10. März 2024 in Mannheim beschlossen. Die Ausführungsbestimmungen wurden vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 18. November 2024 in einer Onlinesitzung aktualisiert. 
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund beschlossen. Die Ausführungsbestimmungen wurden zuletzt von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund aktualisiert.
 
 
 ## 1. Grundsätze
@@ -268,9 +268,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 6. DEM
 
-1.  In den Altersklassen U18, U18w, U16, U16w, U14, U14w, U12 und U12w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U10 und U10w jeweils ein Turnier mit elf Runden und in den Altersklassen U8 und U8w jeweils ein Turnier mit sieben Runden nach Schweizer System ausgetragen. 
+1.  In den Altersklassen U18, U18w, U16, U16w, U14, U14w, U12, U12w, U10 und U10w wird jeweils ein Turnier mit neun Runden, in den Altersklassen U8 und U8w jeweils ein Turnier mit sieben Runden nach Schweizer System ausgetragen. 
 
-    > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U10 und U10w 75 Minuten für 40 Züge, danach zusätzliche 15 Minuten für die restlichen Züge, bei zusätzlichen 30 Sekunden pro Zug von Beginn an. Die Spielzeit in den Altersklassen U8 und U8w beträgt 60 Minuten bei zusätzlichen 15 Sekunden pro Zug von Beginn an. 
+    > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U8 und U8w 60 Minuten bei zusätzlichen 15 Sekunden pro Zug von Beginn an. 
 
 1.  Die Teilnehmerfelder für die DEM U18, U18w, U16, U16w und U14w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
 
@@ -329,9 +329,17 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  An der DLM nehmen Landesverbandsmannschaften teil. Jeder Landesverband kann mindestens eine Mannschaft stellen. Der Ausrichter darf eine weitere Landesauswahl melden.
 
+    Angestrebt wird eine Teilnahme von insgesamt 20 Mannschaften. Sind 20 Mannschaften möglich, so haben die Landesverbände der letztjährigen Erst- und Zweitplatzierten das Vorrecht, mit einer zweiten Mannschaft anzutreten.
+
+    Bleiben Plätze frei, so können diese durch weitere zweite Mannschaften besetzt werden. Bleiben weiterhin Plätze frei, so können diese an ausländische Regionalauswahlen vergeben werden.
+   
     > Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Regionalauswahl gebildet werden. Für die Regionalauswahl sind alle Spieler einer Regionalgruppe (siehe 8.2) spielberechtigt. Die Regionalauswahl sollte möglichst aus der Region kommen, in der der Ausrichtungsort liegt.
+    >
+    > Im Jahr 2025 werden 18 Teams angestrebt.
 
 1.  Bei den DLM sind je Mannschaft nur Spieler startberechtigt, die zum Zeitpunkt der DLM für einen Verein des jeweiligen Landesverbandes spielberechtigt sind. Findet ein Land nicht genügend eigene starke Spieler um die DLM zu beschicken, können Spielgemeinschaften mit bis zu vier Spielern zugelassen werden, die nach Satz 1 für einen anderen Landesverband startberechtigt sind.
+
+    Für ausländische Teams sind alle Jugendlichen startberechtigt, die die Staatsbürgerschaft des jeweiligen Landes besitzen oder bei der FIDE mit der Föderation des jeweiligen Landes gemeldet sind. Für solche Teams findet Ziffer 1.4 keine Anwendung.
 
     > Der Turnierverantwortliche entscheidet über Zulassung einer Spielgemeinschaft auf begründeten Antrag.
     >
@@ -342,10 +350,12 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  Jede Mannschaft besteht in jedem Mannschaftskampf aus je einem Jugendlichen der Altersklassen U20, U18, U16, U14, U12, U20w, U16w und U12w. Ergänzend zu 5.8 kann ein zweiter Ersatzspieler in die Startrangliste aufgenommen werden. Von diesen zwei Ersatzspielern darf maximal einer männlich sein.
 
     > Abweichend zu AB zu 5 wird die Startrangliste nach dem DWZ-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen.
+    >
+    > Nimmt mindestens ein ausländisches Team teil, so wird die Startrangliste nach dem Elo-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen.
 
 1.  Es wird ein Turnier über sieben Runden nach Schweizer System ausgetragen.
 
-1.  Der Sieger erhält den Titel "Deutscher Jugendmannschaftsmeister der Länder [Jahreszahl]".
+1.  Das bestplatzierte nicht-ausländische Team erhält den Titel "Deutscher Jugendmannschaftsmeister der Länder [Jahreszahl]".
 
 
 ## 8. Allgemeine Bestimmungen zu den Deutschen Meisterschaften für Vereinsmannschaften
@@ -523,7 +533,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U10 [Jahreszahl]".
 
-1.  Abweichend zu 8.2 und 8.3 ergibt sich das Teilnehmerfeld wie folgt: Der Ausrichter erhält einen Freiplatz, es können bis zu vier weitere Freiplätze vergeben werden. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Landesverbände verteilt. Das Nähere regeln die Ausführungsbestimmungen.
+1.  Abweichend zu 8.2 und 8.3 ergibt sich das Teilnehmerfeld wie folgt: Der Ausrichter erhält einen Freiplatz, es können bis zu vier weitere Freiplätze vergeben werden. Sollte die Ausrichtung durch zwei Vereine erfolgen, so können beide einen Freiplatz erhalten. In diesem Fall können bis zu drei weitere Freiplätze vergeben werden. Die übrigen Teilnehmerplätze werden zu gleichen Teilen nach Qualität (Erfolge der vergangenen drei Jahre) und Quantität auf die Landesverbände verteilt. Das Nähere regeln die Ausführungsbestimmungen.
 
     > Die Freiplätze vergibt der Spielausschuss.
 
