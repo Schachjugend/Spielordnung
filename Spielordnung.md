@@ -10,7 +10,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  Die DSJ veranstaltet Turniere für Jugendliche in verschiedenen Altersklassen. Einer Altersklasse ("unter X Jahren", wobei "X" das Lebensjahr bezeichnet) gehört an, wer im Laufe des Kalenderjahres höchstens das jeweilige Lebensjahr vollendet. 
 
 1.  Die DSJ veranstaltet - sofern im Haushalt die dafür erforderlichen Mittel bereitgestellt sind - alljährlich folgende Turniere:
-    Deutsche Einzelmeisterschaften für Jugendliche unter 18 Jahren (DEM U18),
+    - Deutsche Einzelmeisterschaften für Jugendliche unter 18 Jahren (DEM U18),
     - Deutsche Einzelmeisterschaften für weibliche Jugendliche unter 18 Jahren (DEM U18w),
     - Deutsche Einzelmeisterschaften für Jugendliche unter 16 Jahren (DEM U16),
     - Deutsche Einzelmeisterschaften für weibliche Jugendliche unter 16 Jahren (DEM U16w),
@@ -32,8 +32,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     - Deutsche Meisterschaft für Vereinsmannschaften der weiblichen Jugend unter 12 Jahren (DVM U12w),
     - Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 10 Jahren (DVM U10),
     - Deutsche Schulschach-Mannschaftsmeisterschaften (DSM).
-    
-    > An den Deutschen Einzelmeisterschaften für weibliche Jugendliche aller Altersklassen sowie den Meisterschaften für Vereinsmannschaften der weiblichen Jugend aller Altersklassen dürfen nur Jugendliche teilnehmen, deren Geschlechtseintrag im Personenstandsregister auf "weiblich" lautet. Der Geschlechtseintrag ist auf Verlangen des zuständigen Nationalen Spielleiters nachzuweisen. Bei allen anderen Meisterschaften können Spielende jeglichen Geschlechtseintrags teilnehmen.
 
 1.  An diesen Veranstaltungen können nur Jugendliche teilnehmen, die durch ihre Mitgliedsorganisation dem Deutschen Schachbund (DSB) gemeldet sind. Sie müssen
     1.  die deutsche Staatsangehörigkeit besitzen oder
