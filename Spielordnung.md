@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund beschlossen. Die Ausführungsbestimmungen wurden zuletzt von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund aktualisiert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 28. April 2025 in einer Online-Sitzung aktualisiert.
 
 
 ## 1. Grundsätze
@@ -32,6 +32,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     *   Deutsche Meisterschaft für Vereinsmannschaften der weiblichen Jugend unter 12 Jahren (DVM U12w),
     *   Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 10 Jahren (DVM U10),
     *   Deutsche Schulschach-Mannschaftsmeisterschaften (DSM).
+
+    > An den Deutschen Einzelmeisterschaften für weibliche Jugendliche aller Altersklassen sowie den Meisterschaften für Vereinsmannschaften der weiblichen Jugend aller Altersklassen dürfen nur Jugendliche teilnehmen, deren Geschlechtseintrag im Personenstandsregister auf "weiblich" lautet. Der Geschlechtseintrag ist auf Verlangen des zuständigen Nationalen Spielleiters nachzuweisen. Bei allen anderen Meisterschaften können Spielende jeglichen Geschlechtseintrags teilnehmen.
 
 1.  An diesen Veranstaltungen können nur Jugendliche teilnehmen, die durch ihre Mitgliedsorganisation dem Deutschen Schachbund (DSB) gemeldet sind. Sie müssen
     1.  die deutsche Staatsangehörigkeit besitzen oder
@@ -352,6 +354,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Abweichend zu AB zu 5 wird die Startrangliste nach dem DWZ-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen.
     >
     > Nimmt mindestens ein ausländisches Team teil, so wird die Startrangliste nach dem Elo-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen.
+    >
+    > AB zu 1.3 gilt entsprechend für die Besetzung der U20w, U16w und U12w sowie den zweiten Ersatzspieler.
 
 1.  Es wird ein Turnier über sieben Runden nach Schweizer System ausgetragen.
 
@@ -569,6 +573,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Ziffer 1.4 findet keine Anwendung.
 
     > Mit der WK HR sind folgende Schularten angesprochen: Haupt- und Mittelschulen, Realschulen, Gesamtschulen, Gemeinschaftsschulen, Sekundarschulen, Wirtschaftsschulen (Bayern) und weitere vergleichbare Schulformen.
+    > 
+    > AB zu 1.3 gilt entsprechend für die WK M und die WK G M.
 
 1.  Jeder Landesverband entsendet je eine Mannschaft in den WK II, III, M und G M; in der WK IV je zwei Mannschaften und in der WK G je nach Kapazität des Ausrichtungsortes bis zu vier Mannschaften. Der Ausrichter erhält einen Freiplatz, in der WK IV und G zwei Freiplätze. Bei der WK G wird ein größeres Feld (Open-Charakter) angestrebt. Der AK Schulschach besetzt gegebenenfalls weitere freie Plätze. Die WK HR wird als offizielles Turnier ausgetragen; die Teilnehmerzahl kann beschränkt werden, wobei mindestens 18 Plätze angeboten werden sollen. Der AK Schulschach kann Nachrücker für die Plätze nominieren, die von den Landesverbänden und Ausrichtern nicht wahrgenommen werden. In der WK M kann der AK Schulschach je nach Kapazität des Ausrichters bis zu 18 weitere Nachrückerplätze vergeben.
 
