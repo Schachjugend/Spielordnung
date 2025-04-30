@@ -33,7 +33,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     * Deutsche Meisterschaft für Vereinsmannschaften der Jugend unter 10 Jahren (DVM U10),
     * Deutsche Schulschach-Mannschaftsmeisterschaften (DSM).
 
-    >
+    Zur ...
+    
     > An den Deutschen Einzelmeisterschaften für weibliche Jugendliche aller Altersklassen sowie den Meisterschaften für Vereinsmannschaften der weiblichen Jugend aller Altersklassen dürfen nur Jugendliche teilnehmen, deren Geschlechtseintrag im Personenstandsregister auf "weiblich" lautet. Der Geschlechtseintrag ist auf Verlangen des zuständigen Nationalen Spielleiters nachzuweisen. Bei allen anderen Meisterschaften können Spielende jeglichen Geschlechtseintrags teilnehmen.
 
 1.  An diesen Veranstaltungen können nur Jugendliche teilnehmen, die durch ihre Mitgliedsorganisation dem Deutschen Schachbund (DSB) gemeldet sind. Sie müssen
