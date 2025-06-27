@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 19. Mai 2025 in einer Online-Sitzung aktualisiert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 28. Juni 2025 per Abstimmung im Umlaufverfahren aktualisiert.
 
 
 ## 1. Grundsätze
@@ -64,6 +64,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     1.  teilnahmeberechtigt sein aufgrund einer anderen Bestimmung dieser Ordnung.
     
     Sofern nichts anderes bestimmt ist, sind in den Fällen der Nr. 3 die Voraussetzungen dem zuständigen Nationalen Spielleiter immer, in den anderen Fällen nur auf seine Anforderung nachzuweisen.
+
+    > Die Meldung gegenüber dem DSB erfolgt durch spielaktive Mitgliedschaft in einer Mitgliedsorganisation, die dem DSB angehört.
 
     > Zum Nachweis des Lebensmittelpunkts dienen Melde-, Schul- bzw. Ausbildungsbescheinigung oder andere amtliche Bescheinigungen. Zum Nachweis, dass keine Mitgliedschaft in einem ausländischen Verein besteht, unterzeichnen der Verein, der Jugendliche und ggf. seine gesetzlichen Vertreter eine entsprechende Erklärung.
 
