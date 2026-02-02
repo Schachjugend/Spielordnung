@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 28. Juni 2025 per Abstimmung im Umlaufverfahren aktualisiert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 16. November 2025 in einer Präsenzsitzung aktualisiert.
 
 
 ## 1. Grundsätze
@@ -208,7 +208,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 5. Allgemeine Bestimmungen für Mannschaftsturniere
 
-> Die Startrangliste wird nach dem DWZ-Schnitt der Stammspieler aufgestellt.
+> Die Startrangliste wird nach dem DWZ-Schnitt der Stammspieler aufgestellt. Hat ein Spieler keine DWZ, jedoch eine Elo, so wird die Elo für die Berechnung des Mannschaftsschnitts berücksichtigt. Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo ist abhängig von der Altersklasse der Spieler und staffelt sich wie folgt: U20: 1500; U16: 1200; U20w, U16w, U14: 1000; U12: 800; U12w, U10: 600.
 
 > Als Olympiade-Sonneborn-Berger-Wertung ist Ziffer 13.2.2 der Tie-Break Regulations in Abschnitt C.07 des FIDE Handbooks gemeint, d.h. die im Turnier insgesamt erzielten Mannschaftspunkte der gegnerischen Mannschaft werden mit den erzielten Brettpunkten der eigenen Mannschaft im direkten Duell gegen diese Mannschaft multipliziert.
 
@@ -377,7 +377,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Abweichend zu AB zu 5 wird die Startrangliste nach dem DWZ-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen.
     >
-    > Nimmt mindestens ein ausländisches Team teil, so wird die Startrangliste nach dem Elo-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen.
+    > Nimmt mindestens ein ausländisches Team teil, so wird die Startrangliste nach dem Elo-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen. Hat ein Spieler keine Elo, jedoch eine DWZ, wird die DWZ für die Berechnung des Mannschaftsschnitts berücksichtigt.
     >
     > AB zu 1.3 gilt entsprechend für die Besetzung der U20w, U16w und U12w sowie den zweiten Ersatzspieler.
 
@@ -390,7 +390,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Bei den DVM sind je Mannschaft grundsätzlich die Spieler startberechtigt, die in der der DVM vorangegangenen Saison für diesen Verein spielberechtigt waren. Spieler, die in ebendieser Saison für keinen Verein spielberechtigt waren, sind nur für den Verein startberechtigt, für den sie zum Zeitpunkt der DVM spielberechtigt sind.
 
-    > Für die Spielberechtigung der der DVM vorangegangenen Saison ist die aktive Mitgliedschaft zum 15. Juli des Vorjahres der DVM maßgeblich. Auf begründeten Antrag kann der Spielausschuss Ausnahmen genehmigen.
+	> Für die Spielberechtigung zählt die aktive Mitgliedschaft zum 15. Juli des Vorjahres der DVM. Besteht zu diesem Stichtag keine aktive Mitgliedschaft, gilt die erste nach diesem Stichtag erworbene aktive Mitgliedschaft als maßgeblich. Auf begründeten Antrag kann der Spielausschuss Ausnahmen genehmigen.
 
 1.  Zur Ermittlung der teilnehmenden Mannschaften werden folgende Regionalgruppen gebildet:
 
@@ -438,8 +438,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 9. DVM U20
 
-> Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 1500.
-
 1.  An der DVM U20 nehmen 16 Vereinsmannschaften teil. Jede Mannschaft besteht aus sechs Spielern der Altersklasse U20.
 
 1.  Es wird ein Turnier über sieben Runden nach Schweizer System ausgetragen.
@@ -449,11 +447,9 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 10. DVM U20w
 
-> Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 1000.
-
 1.  Abweichend zu 8.1 sind bei der DVM U20w je Mannschaft Spielerinnen startberechtigt, die in der laufenden Saison für diesen Verein spielberechtigt sind.
 
-    > Für die Spielberechtigung der laufenden Saison ist die aktive Mitgliedschaft zum 15. Juli des Jahres der DVM maßgeblich. Auf begründeten Antrag kann der Spielausschuss Ausnahmen genehmigen.
+    > Für die Spielberechtigung zählt die aktive Mitgliedschaft zum 15. Juli des Jahres der DVM. Besteht zu diesem Stichtag keine aktive Mitgliedschaft, gilt die erste nach diesem Stichtag erworbene aktive Mitgliedschaft als maßgeblich. Auf begründeten Antrag kann der Spielausschuss Ausnahmen genehmigen.
 
 1.  Abweichend zu 8.2 wird die DVM U20w als offenes Turnier ausgetragen. 8.4 findet keine Anwendung. Die Teilnehmerzahl kann beschränkt werden, wobei mindestens 16 Plätze angeboten werden sollen. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U20.
 
@@ -479,17 +475,14 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 11. DVM U16
 
-> Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 1200.
-
 1.  An der DVM U16 nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U16.
 
 1.  Ziffer 9.2 gilt entsprechend.
 
 1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U16 [Jahreszahl]".
 
-## 12. DVM U16w
 
-> Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 1000.
+## 12. DVM U16w
 
 1.  An der DVM U16w nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U16.
 
@@ -509,9 +502,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der weiblichen Jugend U16 [Jahreszahl]".
 
-## 13. DVM U14
 
-> Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 1000.
+## 13. DVM U14
 
 1.  An der DVM U14 nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U14.
 
@@ -519,9 +511,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U14 [Jahreszahl]".
 
-## 14. DVM U12
 
-> Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 800.
+## 14. DVM U12
 
 1.  An der DVM U12 nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U12.
 
@@ -529,9 +520,8 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der Jugend U12 [Jahreszahl]".
 
-## 15. DVM U12w
 
-> Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 600.
+## 15. DVM U12w
 
 1.  An der DVM U12w nehmen 20 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier weiblichen Jugendlichen der Altersklasse U12.
 
@@ -551,13 +541,12 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Der Sieger erhält den Titel "Deutscher Vereinsmeister der weiblichen Jugend U12 [Jahreszahl]".
 
-## 16. DVM U10
 
-> Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo beträgt 600.
+## 16. DVM U10
 
 1.  An der DVM U10 nehmen 40 Vereinsmannschaften teil. Jede Mannschaft besteht aus vier Jugendlichen der Altersklasse U10. Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 und startberechtigt abweichend von 8.1 sind alle Jugendlichen, die in der laufenden Saison für diesen Verein spielberechtigt sind. Abweichend von Ziffer 2.5 beträgt die Spielzeit 55 Minuten bei zusätzlichen 5 Sekunden pro Zug von Beginn an.
 
-    > Für die Spielberechtigung der laufenden Saison ist die aktive Mitgliedschaft zum 15. Juli des Jahres der DVM maßgeblich. Auf begründeten Antrag kann der Spielausschuss Ausnahmen genehmigen.
+    > Für die Spielberechtigung zählt die aktive Mitgliedschaft zum 15. Juli des Jahres der DVM. Besteht zu diesem Stichtag keine aktive Mitgliedschaft, gilt die erste nach diesem Stichtag erworbene aktive Mitgliedschaft als maßgeblich. Auf begründeten Antrag kann der Spielausschuss Ausnahmen genehmigen.
 
     > Abweichend zu AB zu 2.5 (1) erhält jeder Spieler, der nach der Erklärung des Schiedsrichters, die Runde sei eröffnet (Spielbeginn), im Spielbereich eintrifft, eine Zeitstrafe von 15 Minuten, vorausgesetzt dass dies nicht seine erste Verspätung in diesem Turnier war.
 
@@ -572,6 +561,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Die Freiplätze vergibt der Spielausschuss.
 
     > AB zu 8.3 gilt entsprechend für die Landesverbände.
+
 
 ## 17. DSM
 
