@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 16. November 2025 in einer Präsenzsitzung aktualisiert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 8. Dezember 2025 in einer Onlinesitzung aktualisiert.
 
 
 ## 1. Grundsätze
@@ -302,7 +302,13 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 1.  Die Teilnehmerfelder für die DEM U8 und U8w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Weitere Plätze werden über die Regionalen U8-Kinderschachturniere und über das U8-Scoutingsystem vergeben. Die Ausführungsbestimmungen regeln, wie die Plätze ermittelt werden. 
     
-    > Pro Regionalem U8-Kinderschachturnier qualifizieren sich der bestplatzierte Junge für die Altersklasse U8 und das bestplatzierte Mädchen für die Altersklasse U8w, sofern sie mindestens 50 % der im Turnier erzielbaren Punkte erreichen und sich zu diesem Zeitpunkt noch nicht qualifiziert haben. Ist dieser Junge bzw. dieses Mädchen bereits qualifiziert, so wird der Platz unter Berücksichtigung der 50-Prozent-Grenze an den Nächstplatzierten bzw. die Nächstplatzierte weitergereicht. Im Sinne der Qualifikation zur DEM U8 und U8w gilt die offene U8-Meisterschaft in Sebnitz als Regionales U8-Kinderschachturnier (ab der Saison 2025/26). Weitere Plätze werden über das U8-Scoutingsystem vergeben, falls die Maximalanzahl von 24 Jungen bzw. 12 Mädchen noch nicht ausgeschöpft wurde. 
+    > Bei den Regionalen U8-Kinderschachturnieren (RKST) werden Siege mit drei Punkten, Remis mit zwei Punkten und Niederlagen mit einem Punkt bewertet. Dies gilt auch für kampflose Partien.
+	>
+	> Pro Regionalem U8-Kinderschachturnier qualifizieren sich der bestplatzierte Junge für die Altersklasse U8 und das bestplatzierte Mädchen für die Altersklasse U8w, sofern sie mindestens so viele Punkte erreichen wie ein Spieler, der alle Partien Remis spielt. Ist dieser Junge bzw. dieses Mädchen bereits qualifiziert, so wird der Platz unter Berücksichtigung der oben genannten Grenze an den Nächstplatzierten bzw. die Nächstplatzierte weitergereicht
+	>
+	> Im Sinne der Qualifikation zur DEM U8 und U8w gilt die offene U8-Meisterschaft in Sebnitz als Regionales U8-Kinderschachturnier.
+	>
+	> Weitere Plätze werden über das U8-Scoutingsystem vergeben, falls die Maximalanzahl von 24 Plätzen in der U8 bzw. 12 Plätzen in der U8w noch nicht ausgeschöpft wurde.
 
 1.  Die Teilnehmerfelder für die DEM U14, U12, U12w, U10 und U10w ergeben sich wie folgt: Die Landesverbände entsenden in den Altersklassen U14, U12w und U10w jeweils 35, in den Altersklassen U12 und U10 jeweils 50 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der in den Vorjahren erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
 
