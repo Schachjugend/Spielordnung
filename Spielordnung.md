@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 02. März 2025 in Stralsund beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 8. Dezember 2025 in einer Onlinesitzung aktualisiert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 08. März 2026 in Magdeburg beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 8. Dezember 2025 in einer Onlinesitzung aktualisiert.
 
 
 ## 1. Grundsätze
@@ -73,11 +73,11 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > *Die Verwaltungsebene III entspricht den deutschen Landkreisen. Die Gebiete sind jene, die förderfähig im Europa-Programm Interreg III A (z.B. bekannt als "Euregio") sind. Die Gebiete sind aufgeführt in Anhang I der Mitteilung der EU-Kommission 2004/C 226/02, wobei jeweils zu prüfen ist, ob eine gemeinsame Grenze mit der Bundesrepublik Deutschland besteht. Die Mitteilung ist auf der DSJ-Internetseite verfügbar.*
 
-1.  Teilnahmeberechtigt im Sinne von 1.4 Satz 2 Nr. 4 sind auf begründeten Antrag zusätzlich Jugendliche, die
+1.  Ein Antrag auf Teilnahmeberechtigung im Sinne von 1.4 Satz 2 Nr. 4 kann nur für Jugendliche gestellt werden, die
     1.  ihren bisherigen Lebensmittelpunkt aufgegeben und nun in der Bundesrepublik Deutschland haben oder
     1.  in der Vergangenheit bereits teilnahmeberechtigt waren nach 1.4 Satz 2 Nr. 2 und an Turnieren nach 1.3 teilgenommen haben.
 
-    > Dem Antrag ist zu entsprechen, falls der Jugendliche einen starken Bezug zum deutschen Schach hat. Die Entscheidung hierüber trifft der Vorstand. Er berücksichtigt bei seiner Entscheidung die Einschätzung des Landesverbands, sofern sie vorliegt.
+    > Der Spielausschuss entscheidet über den Antrag und berücksichtigt dabei die Einschätzung des Landesverbands, sofern diese vorliegt. Dem Antrag ist zu entsprechen, falls der Jugendliche einen starken Bezug zum deutschen Schach hat.
 
 1.  Der Arbeitskreis Spielbetrieb (AKS) unter Leitung der Nationalen Spielleiter ist zuständig für die Austragung aller von der DSJ ausgeschriebenen Turniere. Die Vorbereitung und Turnierleitung obliegt einer vom Spielausschuss bestimmten, fachlich geeigneten Person ("Turnierverantwortlicher"); aus Gründen der Zweckmäßigkeit können die Vorbereitung der Turniere und die Turnierleitung vor Ort auf mehrere Personen verteilt werden. Wird vom Spielausschuss kein Turnierverantwortlicher bestimmt, so ist dies der zuständige Nationale Spielleiter oder ein vom zuständigen Nationalen Spielleiter benannter Schiedsrichter.
 
@@ -298,7 +298,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Abweichend von Ziffer 2.5 beträgt die Spielzeit in den Altersklassen U8 und U8w 60 Minuten bei zusätzlichen 15 Sekunden pro Zug von Beginn an. 
 
-1.  Die Teilnehmerfelder für die DEM U18, U18w, U16, U16w und U14w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
+1.  Die Teilnehmerfelder für die DEM U18, U18w, U16 und U16w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Je ein weiterer Platz wird an die beiden Landesverbände mit den meisten gemeldeten Mitgliedern in der jeweiligen Altersklasse vergeben.
 
 1.  Die Teilnehmerfelder für die DEM U8 und U8w ergeben sich wie folgt: Jeder Landesverband entsendet pro Altersklasse einen Teilnehmer. Weitere Plätze werden über die Regionalen U8-Kinderschachturniere und über das U8-Scoutingsystem vergeben. Die Ausführungsbestimmungen regeln, wie die Plätze ermittelt werden. 
     
@@ -310,7 +310,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 	>
 	> Weitere Plätze werden über das U8-Scoutingsystem vergeben, falls die Maximalanzahl von 24 Plätzen in der U8 bzw. 12 Plätzen in der U8w noch nicht ausgeschöpft wurde.
 
-1.  Die Teilnehmerfelder für die DEM U14, U12, U12w, U10 und U10w ergeben sich wie folgt: Die Landesverbände entsenden in den Altersklassen U14, U12w und U10w jeweils 35, in den Altersklassen U12 und U10 jeweils 50 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der in den Vorjahren erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
+1.  Die Teilnehmerfelder für die DEM U14, U14w, U12, U12w, U10 und U10w ergeben sich wie folgt: Die Landesverbände entsenden in den Altersklassen U14, U14w, U12w und U10w jeweils 35, in den Altersklassen U12 und U10 jeweils 50 Teilnehmer. Die Teilnehmerzahlen der Landesverbände werden auf der Grundlage der in den Vorjahren erzielten Punkte zugeteilt. Für vordere Platzierungen erhalten die Landesverbände Bonuspunkte. Die Berechnungsweise regeln die Ausführungsbestimmungen.
 
     > <strong> Durchschnittspunkte: </strong> Pro Landesverband werden die Punkte aller Spieler addiert und durch die Anzahl der gespielten Partien (inklusive kampfloser Partien) dividiert. Wenn ein Landesverband auf Qualifikationsplätze verzichtet, geht pro unbesetztem Qualifikationsplatz ein fiktiver Spieler, der alle Partien verliert, in die Durchschnittsbildung ein. Dazu werden die Endtabellen der letzten beiden Deutschen Einzelmeisterschaften dieser Altersklasse herangezogen. Dabei erfährt das letzte Jahr eine doppelte und das vorletzte Jahr eine einfache Gewichtung. 
 
@@ -319,7 +319,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > * Die besten zehn Spieler des ältesten Jahrgangs der nächstjüngeren Altersklasse werden mit 1,0 (Platz 1) bis 0,1 (Platz 10) Bonuspunkten belohnt. Dies gilt für die jüngste Altersklasse (U10, U10w) nicht. Kommen dabei weniger als fünf bzw. zehn Spieler zur Ranglistenbildung in Frage, werden entsprechend weniger Bonuspunkte vergeben. Es werden die Endtabellen der letzten Deutschen Einzelmeisterschaft herangezogen. 
 
     > <strong> Kontingentberechnung als gewichtete Summe: </strong> Aus der Addition der zehnfachen Durchschnitts- und der einfachen Bonuspunkte ergibt sich eine Rangliste der Landesverbände. Bei Punktgleichheit entscheiden die höheren Durchschnittspunkte der letzten Deutschen Einzelmeisterschaft dieser Altersklasse, danach die beste Einzelplatzierung innerhalb dieser Altersklasse. Die Anzahl der Qualifikationsplätze pro Landesverband ergibt sich aus dieser Rangliste:
-    > * U14, U12w und U10w: 
+    > * U14, U14w, U12w und U10w: 
     >   * 1.-6. Platz = 3 Teilnehmer
     >   * 7.-12. Platz = 2 Teilnehmer
     >   * 13.-17. Platz = 1 Teilnehmer
@@ -337,7 +337,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Ein außergewöhnlicher Umstand im Sinne von JSpO 6.5 liegt jedenfalls dann vor, wenn in einer Altersklasse besonders viele starke Spieler einen Freiplatz erhalten. 
 
-    > Der Deutsche Blinden- und Sehbehinderten-Schachbund kann in den Altersklassen U18, U18w, U16, U16w und U14w je einen, in den Altersklassen U14, U12, U12w, U10, U10w und U8 und U8w je zwei Freiplatzkandidaten nominieren. Diese erhalten einen Startplatz, wenn ihre Spielstärke dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung obliegt dem Spielausschuss.    
+    > Der Deutsche Blinden- und Sehbehinderten-Schachbund kann in den Altersklassen U18, U18w, U16 und U16w je einen, in den Altersklassen U14, U14w, U12, U12w, U10, U10w und U8 und U8w je zwei Freiplatzkandidaten nominieren. Diese erhalten einen Startplatz, wenn ihre Spielstärke dem Leistungsniveau der DEM der jeweiligen Altersklasse angemessen ist. Die Entscheidung obliegt dem Spielausschuss.    
 
     > Freiplätze werden durch ein Gremium, bestehend aus dem zuständigen Nationalen Spielleiter, dem Beauftragten für Leistungssport und dem Bundesnachwuchstrainer, vergeben. Abweichend hiervon werden die Freiplätze in den Altersklassen U8 und U8w durch das Gremium vergeben, das über die Vergabe der Plätze im U8-Scoutingsystem entscheidet.
 
@@ -571,7 +571,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 17. DSM
 
-1.  Die DSM werden jährlich in sieben Wettkampfklassen (WK) ausgetragen. Teilnahmeberechtigt sind allgemein- und berufsbildende Schulen außer Institutionen, die überwiegend der Erwachsenenbildung dienen.
+1.  Die DSM werden jährlich in sieben *(ab 2028 acht)* Wettkampfklassen (WK) ausgetragen. Teilnahmeberechtigt sind allgemein- und berufsbildende Schulen außer Institutionen, die überwiegend der Erwachsenenbildung dienen.
 
     > Die Meisterschaften werden nicht nach DWZ oder Elo ausgewertet.
 
@@ -598,17 +598,37 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     Ziffer 1.4 findet keine Anwendung.
 
+    *Ab 2028 gilt: Spielberechtigt sind*
+
+	*für die WK I alle Schülerinnen und Schüler, die maximal die 13. Klasse besuchen;*
+
+	*für die WK II alle Schülerinnen und Schüler, die maximal die 10. Klasse besuchen;*
+
+	*für die WK III alle Schülerinnen und Schüler, die maximal die 8. Klasse besuchen;*
+
+	*für die WK IV alle Schülerinnen und Schüler, die maximal die 6. Klasse besuchen;*
+
+	*für die WK M alle Schülerinnen und Abgängerinnen des laufenden Schuljahres;*
+
+	*für die WK G alle Schülerinnen und Schüler, die die Klassen 1 bis 4 besuchen;*
+
+	*für die WK G M alle Schülerinnen, die die Klassen 1 bis 4 besuchen;*
+
+	*für die WK HR alle Schülerinnen und Schüler, die keine Grundschule, kein Gymnasium und keinen gymnasialen Zweig besuchen.*
+
+    *Ziffer 1.4 findet keine Anwendung.*
+
     > Mit der WK HR sind folgende Schularten angesprochen: Haupt- und Mittelschulen, Realschulen, Gesamtschulen, Gemeinschaftsschulen, Sekundarschulen, Wirtschaftsschulen (Bayern) und weitere vergleichbare Schulformen.
     > 
     > AB zu 1.3 gilt entsprechend für die WK M und die WK G M.
 
-1.  Jeder Landesverband entsendet je eine Mannschaft in den WK II, III, M und G M; in der WK IV je zwei Mannschaften und in der WK G je nach Kapazität des Ausrichtungsortes bis zu vier Mannschaften. Der Ausrichter erhält einen Freiplatz, in der WK IV und G zwei Freiplätze. Bei der WK G wird ein größeres Feld (Open-Charakter) angestrebt. Der AK Schulschach besetzt gegebenenfalls weitere freie Plätze. Die WK HR wird als offizielles Turnier ausgetragen; die Teilnehmerzahl kann beschränkt werden, wobei mindestens 18 Plätze angeboten werden sollen. Der AK Schulschach kann Nachrücker für die Plätze nominieren, die von den Landesverbänden und Ausrichtern nicht wahrgenommen werden. In der WK M kann der AK Schulschach je nach Kapazität des Ausrichters bis zu 18 weitere Nachrückerplätze vergeben.
+1.  Jeder Landesverband entsendet je eine Mannschaft in den *WK I (ab 2028),* WK II, III, M und G M; in der WK IV je zwei Mannschaften und in der WK G je nach Kapazität des Ausrichtungsortes bis zu vier Mannschaften. Der Ausrichter erhält einen Freiplatz, in der WK IV und G zwei Freiplätze. Bei der WK G und der WK G M wird ein größeres Feld (Open-Charakter) angestrebt. Der AK Schulschach besetzt gegebenenfalls weitere freie Plätze. Die WK HR wird als offizielles Turnier ausgetragen; die Teilnehmerzahl kann beschränkt werden, wobei mindestens 18 Plätze angeboten werden sollen. Der AK Schulschach kann Nachrücker für die Plätze nominieren, die von den Landesverbänden und Ausrichtern nicht wahrgenommen werden. In der WK M kann der AK Schulschach je nach Kapazität des Ausrichters bis zu 18 weitere Nachrückerplätze vergeben.
 
     > Der AK Schulschach gibt die Teilnehmerzahl der einzelnen WKs bis zum 31. Dezember des Vorjahres bekannt.
     
     > Die Freiplätze vergibt der AK Schulschach.
 
-1.  Jede Mannschaft der WK III, IV, M, G, H+R besteht aus vier Spielern derselben Schule. In der WK II besteht sie aus 6 Spielern.
+1.  Jede Mannschaft der WK III, IV, M, G, H+R besteht aus vier Spielern derselben Schule. In der WK II besteht sie aus 6 Spielern. *Ab 2028 gilt: Jede Mannschaft jeglicher WK besteht aus vier Spielern derselben Schule.*
     > Die Mannschaften sind nach Spielstärke aufzustellen. Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt. Über begründete Ausnahmen entscheidet der Turnierverantwortliche.
 
     > Die Pseudo-Wertungszahl für Spieler ohne DWZ beträgt 800. In der WK G beträgt die Pseudo-Wertungszahl 600.
