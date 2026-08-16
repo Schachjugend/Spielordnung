@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 08. März 2026 in Magdeburg beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 8. Dezember 2025 in einer Onlinesitzung aktualisiert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 08. März 2026 in Magdeburg beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 16. März 2026 in einer Onlinesitzung aktualisiert.
 
 
 ## 1. Grundsätze
@@ -566,7 +566,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Die Freiplätze vergibt der Spielausschuss.
 
-    > AB zu 8.3 gilt entsprechend für die Landesverbände.
+    > AB zu 8.3 gilt entsprechend für die Landesverbände. Dabei wird je Landesverband die Summe der Mitgliedszahlen aller Jahrgänge, die an der U10 teilnehmen können, herangezogen.
 
 
 ## 17. DSM
