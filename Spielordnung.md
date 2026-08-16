@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 08. März 2026 in Magdeburg beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 16. März 2026 in einer Onlinesitzung aktualisiert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 08. März 2026 in Magdeburg beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 15. Juni 2026 in einer Onlinesitzung aktualisiert.
 
 
 ## 1. Grundsätze
@@ -208,7 +208,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
 ## 5. Allgemeine Bestimmungen für Mannschaftsturniere
 
-> Die Startrangliste wird nach dem DWZ-Schnitt der Stammspieler aufgestellt. Hat ein Spieler keine DWZ, jedoch eine Elo, so wird die Elo für die Berechnung des Mannschaftsschnitts berücksichtigt. Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo ist abhängig von der Altersklasse der Spieler und staffelt sich wie folgt: U20: 1500; U16: 1200; U20w, U16w, U14: 1000; U12: 800; U12w, U10: 600.
+> Die Startrangliste wird nach dem DWZ-Schnitt der Stammspieler aufgestellt. Hat ein Spieler keine DWZ, jedoch eine Elo, so wird die Elo für die Berechnung des Mannschaftsschnitts berücksichtigt. Die Pseudo-Wertungszahl für Spieler ohne DWZ und Elo ist abhängig von der Altersklasse der Spieler und staffelt sich wie folgt: U20: 1800; U16: 1600; U20w, U16w, U14: 1400; U12: 1200; U12w, U10: 1000.
 
 > Als Olympiade-Sonneborn-Berger-Wertung ist Ziffer 13.2.2 der Tie-Break Regulations in Abschnitt C.07 des FIDE Handbooks gemeint, d.h. die im Turnier insgesamt erzielten Mannschaftspunkte der gegnerischen Mannschaft werden mit den erzielten Brettpunkten der eigenen Mannschaft im direkten Duell gegen diese Mannschaft multipliziert.
 
