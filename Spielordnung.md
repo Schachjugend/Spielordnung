@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 08. März 2026 in Magdeburg beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 15. Juni 2026 in einer Onlinesitzung aktualisiert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 08. März 2026 in Magdeburg beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 20. Juli 2026 in einer Onlinesitzung aktualisiert.
 
 
 ## 1. Grundsätze
@@ -277,7 +277,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Vor Auslosung der ersten Runde wird die feste Reihenfolge der Spieler in der Startrangliste festgelegt. In die Startrangliste werden nur Spieler aufgenommen, die vor Ort anwesend sind; der Turnierverantwortliche kann Ausnahmen zulassen. Die Startrangliste kann während des Turniers nicht verändert werden.
 
-    > Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt, es sei denn, die Wertungszahl beider Spieler ist kleiner oder gleich 1000. Über begründete Ausnahmen entscheidet der Turnierverantwortliche.
+    > Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt, es sei denn, die Wertungszahl beider Spieler ist kleiner oder gleich 1400. Über begründete Ausnahmen entscheidet der Turnierverantwortliche.
 
     > Bei Meisterschaften, die in einem ununterbrochenen Zeitraum am gleichen Ort stattfinden, können in Mannschaftswettkämpfen nur Spieler aufgestellt werden, die vor Ort anwesend sind.
 
@@ -631,7 +631,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 1.  Jede Mannschaft der WK III, IV, M, G, H+R besteht aus vier Spielern derselben Schule. In der WK II besteht sie aus 6 Spielern. *Ab 2028 gilt: Jede Mannschaft jeglicher WK besteht aus vier Spielern derselben Schule.*
     > Die Mannschaften sind nach Spielstärke aufzustellen. Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt. Über begründete Ausnahmen entscheidet der Turnierverantwortliche.
 
-    > Die Pseudo-Wertungszahl für Spieler ohne DWZ beträgt 800. In der WK G beträgt die Pseudo-Wertungszahl 600.
+    > Die Pseudo-Wertungszahl für Spieler ohne DWZ beträgt 1200. In der WK G beträgt die Pseudo-Wertungszahl 1000.
 
     > Jede Mannschaft wählt aus ihren Spielern einen Mannschaftsführer. Der Mannschaftsführer muss immer einer der gerade eingesetzten Spieler sein; bei Mannschaften mit Ersatzspielern ist ggf. ein Ersatzmannschaftsführer zu wählen. Der Mannschaftsführer ist dem Turnierleiter vor Beginn des Turniers zu benennen.
 
