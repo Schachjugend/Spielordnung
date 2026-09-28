@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 08. März 2026 in Magdeburg beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 12. September 2026 in einer Präsenzsitzung aktualisiert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 08. März 2026 in Magdeburg beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 28. September 2026 im Umlaufverfahren aktualisiert.
 
 
 ## 1. Grundsätze
@@ -387,7 +387,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     >
     > Abweichend zu AB zu 5.7 kann bis zum Meldeschluss ein Kader von bis zu 25 Spielern gemeldet werden.
     >
-    > Nimmt mindestens ein ausländisches Team teil, so wird die Startrangliste nach dem Elo-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen. Hat ein Spieler keine Elo, jedoch eine DWZ, wird die DWZ für die Berechnung des Mannschaftsschnitts berücksichtigt.
+    > Nimmt mindestens ein ausländisches Team teil, so wird die Startrangliste nach dem Elo-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen. In diesem Fall wird AB zu 5.7 mit Elo statt DWZ angewandt. Hat ein Spieler keine Elo, jedoch eine DWZ, wird die DWZ für die Berechnung des Mannschaftsschnitts berücksichtigt.
     >
     > AB zu 1.3 gilt entsprechend für die Besetzung der U20w, U16w und U12w sowie den zweiten Ersatzspieler.
     >
