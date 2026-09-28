@@ -1,6 +1,6 @@
 # Jugendspielordnung der Deutschen Schachjugend
 
-Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 08. März 2026 in Magdeburg beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 20. Juli 2026 in einer Onlinesitzung aktualisiert.
+Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjugend am 08. März 2026 in Magdeburg beschlossen. Die Ausführungsbestimmungen wurden zuletzt vom Arbeitskreis Spielbetrieb der Deutschen Schachjugend am 28. September 2026 im Umlaufverfahren aktualisiert.
 
 
 ## 1. Grundsätze
@@ -67,7 +67,7 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Die Meldung gegenüber dem DSB erfolgt durch spielaktive Mitgliedschaft in einer Mitgliedsorganisation, die dem DSB angehört.
 
-    > Zum Nachweis des Lebensmittelpunkts dienen Melde-, Schul- bzw. Ausbildungsbescheinigung oder andere amtliche Bescheinigungen. Zum Nachweis, dass keine Mitgliedschaft in einem ausländischen Verein besteht, unterzeichnen der Verein, der Jugendliche und ggf. seine gesetzlichen Vertreter eine entsprechende Erklärung.
+    > Zum Nachweis des Lebensmittelpunkts dienen Melde-, Schul- bzw. Ausbildungsbescheinigungen oder andere amtliche Bescheinigungen. Zum Nachweis, dass seit mindestens einem Jahr keine Mitgliedschaft in einem ausländischen Verein besteht, unterzeichnen der Verein, der Jugendliche und ggf. seine gesetzlichen Vertreter eine entsprechende Erklärung.
 
     > Wenn Nachweis über die Voraussetzungen der Spielberechtigung zu führen ist, tritt sie erst mit ihrer Feststellung ein.
 
@@ -278,6 +278,10 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     > Vor Auslosung der ersten Runde wird die feste Reihenfolge der Spieler in der Startrangliste festgelegt. In die Startrangliste werden nur Spieler aufgenommen, die vor Ort anwesend sind; der Turnierverantwortliche kann Ausnahmen zulassen. Die Startrangliste kann während des Turniers nicht verändert werden.
 
     > Es darf kein Spieler vor einem Spieler aufgestellt werden, der eine um mehr als 200 Punkte bessere DWZ besitzt, es sei denn, die Wertungszahl beider Spieler ist kleiner oder gleich 1400. Über begründete Ausnahmen entscheidet der Turnierverantwortliche.
+    
+    > Die Aufstellung muss spätestens 30 Minuten vor Beginn der jeweiligen Runde in der dafür vorgesehenen Form abgegeben werden. Der Turnierverantwortliche kann vor Turnierbeginn für das gesamte Turnier eine kürzere Frist festlegen. Erfolgt die Abgabe nicht frist- oder nicht formgerecht, oder wird eine inkorrekte Aufstellung abgegeben, muss die Mannschaft unter Berücksichtigung der vor Ort anwesenden Spieler in der Reihenfolge spielen, die für die Berechnung des DWZ-Schnitts herangezogen wurde.
+
+	> Ein Brett gilt als falsch besetzt, falls der entsprechende Spieler nicht in der Aufstellung angegeben wurde, falls vor ihm ein Spieler mit höherer Meldenummer sitzt oder falls er an einem Brett spielt, welches höher als seine Position in der Startrangliste ist. Die Brettbesetzung kann nur korrigiert werden, sofern der falsch sitzende Spieler noch keinen Zug ausgeführt hat, es sei denn, der Turnierverantwortliche entscheidet anders. Andernfalls werden die Partien gespielt und zur DWZ- und ggf. zur Elo-Auswertung eingereicht.
 
     > Bei Meisterschaften, die in einem ununterbrochenen Zeitraum am gleichen Ort stattfinden, können in Mannschaftswettkämpfen nur Spieler aufgestellt werden, die vor Ort anwesend sind.
 
@@ -366,8 +370,6 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
     Bleiben Plätze frei, so können diese durch weitere zweite Mannschaften besetzt werden. Bleiben weiterhin Plätze frei, so können diese an ausländische Regionalauswahlen vergeben werden.
    
     > Zur Vermeidung einer ungeraden Teilnehmerzahl kann nach Ablauf der Meldefrist eine Regionalauswahl gebildet werden. Für die Regionalauswahl sind alle Spieler einer Regionalgruppe (siehe 8.2) spielberechtigt. Die Regionalauswahl sollte möglichst aus der Region kommen, in der der Ausrichtungsort liegt.
-    >
-    > Im Jahr 2025 werden 18 Teams angestrebt.
 
 1.  Bei den DLM sind je Mannschaft nur Spieler startberechtigt, die zum Zeitpunkt der DLM für einen Verein des jeweiligen Landesverbandes spielberechtigt sind. Findet ein Land nicht genügend eigene starke Spieler um die DLM zu beschicken, können Spielgemeinschaften mit bis zu vier Spielern zugelassen werden, die nach Satz 1 für einen anderen Landesverband startberechtigt sind.
 
@@ -383,9 +385,13 @@ Diese Jugendspielordnung wurde von der Jugendversammlung der Deutschen Schachjug
 
     > Abweichend zu AB zu 5 wird die Startrangliste nach dem DWZ-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen.
     >
-    > Nimmt mindestens ein ausländisches Team teil, so wird die Startrangliste nach dem Elo-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen. Hat ein Spieler keine Elo, jedoch eine DWZ, wird die DWZ für die Berechnung des Mannschaftsschnitts berücksichtigt.
+    > Abweichend zu AB zu 5.7 kann bis zum Meldeschluss ein Kader von bis zu 25 Spielern gemeldet werden.
+    >
+    > Nimmt mindestens ein ausländisches Team teil, so wird die Startrangliste nach dem Elo-Schnitt der acht höchstgesetzten Spieler gebildet, die Ziffer 7.3 Satz 1 erfüllen. In diesem Fall wird AB zu 5.7 mit Elo statt DWZ angewandt. Hat ein Spieler keine Elo, jedoch eine DWZ, wird die DWZ für die Berechnung des Mannschaftsschnitts berücksichtigt.
     >
     > AB zu 1.3 gilt entsprechend für die Besetzung der U20w, U16w und U12w sowie den zweiten Ersatzspieler.
+    >
+    > Besetzt eine Mannschaft eine Altersklasse nicht, so führt dies zum Partieverlust für alle Spieler ab dem Brett, an dem erste Spieler mit unpassender Altersklasse sitzt.
 
 1.  Es wird ein Turnier über sieben Runden nach Schweizer System ausgetragen.
 
